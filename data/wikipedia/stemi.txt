@@ -1,0 +1,1194 @@
+2/4/2015
+
+Harrison's Principles of Internal Medicine, 18e >
+Chapter 245. ST-Segment Elevation
+Myocardial Infarction
+
+Elliott M. Antman; Joseph Loscalzo
+
+ST-Segment Elevation Myocardial Infarction: Introduction
+Acute myocardial infarction (AMI) is one of the most common diagnoses in hospitalized patients in industrialized
+countries. In the United States, approximately 650,000 patients experience a new AMI and 450,000 experience a
+recurrent AMI each year. The early (30-day) mortality rate from AMI is 30%, with more than half of these deaths
+occurring before the stricken individual reaches the hospital. Although the mortality rate after admission for AMI
+has declined by 30% over the past two decades, approximately 1 of every 25 patients who survives the initial
+hospitalization dies in the first year after AMI. Mortality is approximately fourfold higher in elderly patients (over age
+75) as compared with younger patients.
+When patients with prolonged ischemic discomfort at rest are first seen, the working clinical diagnosis is that they
+are suffering from an acute coronary syndrome(Fig. 245-1). The 12-lead electrocardiogram (ECG) is a pivotal
+diagnostic and triage tool because it is at the center of the decision pathway for management; it permits distinction
+of those patients presenting with ST-segment elevation from those presenting without ST-segment elevation.
+Serum cardiac biomarkers are obtained to distinguish unstable angina (UA) from non-ST-segment MI (NSTEMI)
+and to assess the magnitude of an ST-segment elevation MI (STEMI). This chapter focuses on the evaluation and
+management of patients with STEMI, while Chapter 244 discusses UA/NSTEMI.
+FIGURE 245-1
+
+Acute coronary syndromes. Following disruption of a vulnerable plaque, patients experience ischemic discomfort
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+1/29
+
+2/4/2015
+resulting from a reduction of flow through the affected epicardial coronary artery. The flow reduction may be
+caused by a completely occlusive thrombus (right) or subtotally occlusive thrombus (left). Patients with ischemic
+discomfort may present with or without ST-segment elevation. Of patients with ST-segment elevation, the majority
+(wide red arrow) ultimately develop a Q wave on the ECG (QwMI), while a minority (thin red arrow) do not develop
+Q wave and, in older literature, were said to have sustained a non-Q-wave MI (NQMI). Patients who present
+without ST-segment elevation are suffering from either unstable angina or a non-ST-segment elevation MI
+(NSTEMI) (wide green arrows), a distinction that is ultimately made on the presence or absence of a serum cardiac
+marker such as CKMB or a cardiac troponin detected in the blood. The majority of patients presenting with
+NSTEMI do not develop a Q wave on the ECG; a minority develop a QwMI (thin green arrow). (Adapted from CW
+Hamm et al: Lancet 358:1533, 2001, and MJ Davies: Heart 83:361, 2000; with permission from the BMJ Publishing
+Group.)
+Pathophysiology: Role of Acute Plaque Rupture
+STEMI usually occurs when coronary blood flow decreases abruptly after a thrombotic occlusion of a coronary
+artery previously affected by atherosclerosis. Slowly developing, high-grade coronary artery stenoses do not
+typically precipitate STEMI because of the development of a rich collateral network over time. Instead, STEMI
+occurs when a coronary artery thrombus develops rapidly at a site of vascular injury. This injury is produced or
+facilitated by factors such as cigarette smoking, hypertension, and lipid accumulation. In most cases, STEMI
+occurs when the surface of an atherosclerotic plaque becomes disrupted (exposing its contents to the blood) and
+conditions (local or systemic) favor thrombogenesis. A mural thrombus forms at the site of plaque disruption, and
+the involved coronary artery becomes occluded. Histologic studies indicate that the coronary plaques prone to
+disruption are those with a rich lipid core and a thin fibrous cap (Chap. 241). After an initial platelet monolayer
+forms at the site of the disrupted plaque, various agonists (collagen, ADP, epinephrine, serotonin) promote platelet
+activation. After agonist stimulation of platelets, thromboxane A2 (a potent local vasoconstrictor) is released,
+further platelet activation occurs, and potential resistance to fibrinolysis develops.
+In addition to the generation of thromboxane A2, activation of platelets by agonists promotes a conformational
+change in the glycoprotein IIb/IIIa receptor (Chap. 115). Once converted to its functional state, this receptor
+develops a high affinity for soluble adhesive proteins (i.e., integrins) such as fibrinogen. Since fibrinogen is a
+multivalent molecule, it can bind to two different platelets simultaneously, resulting in platelet cross-linking and
+aggregation.
+The coagulation cascade is activated on exposure of tissue factor in damaged endothelial cells at the site of the
+disrupted plaque. Factors VII and X are activated, ultimately leading to the conversion of prothrombin to thrombin,
+which then converts fibrinogen to fibrin (Chap. 116). Fluid-phase and clot-bound thrombin participate in an
+autoamplification reaction leading to further activation of the coagulation cascade. The culprit coronary artery
+eventually becomes occluded by a thrombus containing platelet aggregates and fibrin strands.
+In rare cases, STEMI may be due to coronary artery occlusion caused by coronary emboli, congenital
+abnormalities, coronary spasm, and a wide variety of systemicparticularly inflammatorydiseases. The amount
+of myocardial damage caused by coronary occlusion depends on (1) the territory supplied by the affected vessel,
+(2) whether or not the vessel becomes totally occluded, (3) the duration of coronary occlusion, (4) the quantity of
+blood supplied by collateral vessels to the affected tissue, (5) the demand for oxygen of the myocardium whose
+blood supply has been suddenly limited, (6) endogenous factors that can produce early spontaneous lysis of the
+occlusive thrombus, and (7) the adequacy of myocardial perfusion in the infarct zone when flow is restored in the
+occluded epicardial coronary artery.
+Patients at increased risk for developing STEMI include those with multiple coronary risk factors (Chap. 241) and
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+2/29
+
+2/4/2015
+those with unstable angina (Chap. 244). Less common underlying medical conditions predisposing patients to
+STEMI include hypercoagulability, collagen vascular disease, cocaine abuse, and intracardiac thrombi or masses
+that can produce coronary emboli.
+There have been major advances in the management of STEMI with recognition that the "chain of survival" involves
+a highly integrated system starting with prehospital care and extending to early hospital management so as to
+provide expeditious implementation of a reperfusion strategy.
+Clinical Presentation
+In up to one-half of cases, a precipitating factor appears to be present before STEMI, such as vigorous physical
+exercise, emotional stress, or a medical or surgical illness. Although STEMI may commence at any time of the day
+or night, circadian variations have been reported such that clusters are seen in the morning within a few hours of
+awakening.
+Pain is the most common presenting complaint in patients with STEMI. The pain is deep and visceral; adjectives
+commonly used to describe it are heavy, squeezing, and crushing, although, occasionally, it is described as
+stabbing or burning (Chap. 12). It is similar in character to the discomfort of angina pectoris (Chap. 243) but
+commonly occurs at rest, is usually more severe, and lasts longer. Typically, the pain involves the central portion of
+the chest and/or the epigastrium, and, on occasion, it radiates to the arms. Less common sites of radiation include
+the abdomen, back, lower jaw, and neck. The frequent location of the pain beneath the xiphoid and epigastrium
+and the patients' denial that they may be suffering a heart attack are chiefly responsible for the common mistaken
+impression of indigestion. The pain of STEMI may radiate as high as the occipital area but not below the umbilicus.
+It is often accompanied by weakness, sweating, nausea, vomiting, anxiety, and a sense of impending doom. The
+pain may commence when the patient is at rest, but when it begins during a period of exertion, it does not usually
+subside with cessation of activity, in contrast to angina pectoris.
+The pain of STEMI can simulate pain from acute pericarditis (Chap. 239), pulmonary embolism (Chap. 262), acute
+aortic dissection (Chap. 248), costochondritis, and gastrointestinal disorders. These conditions should therefore be
+considered in the differential diagnosis. Radiation of discomfort to the trapezius is not seen in patients with STEMI
+and may be a useful distinguishing feature that suggests pericarditis is the correct diagnosis. However, pain is not
+uniformly present in patients with STEMI. The proportion of painless STEMIs is greater in patients with diabetes
+mellitus, and it increases with age. In the elderly, STEMI may present as sudden-onset breathlessness, which may
+progress to pulmonary edema. Other less common presentations, with or without pain, include sudden loss of
+consciousness, a confusional state, a sensation of profound weakness, the appearance of an arrhythmia, evidence
+of peripheral embolism, or merely an unexplained drop in arterial pressure.
+Physical Findings
+Most patients are anxious and restless, attempting unsuccessfully to relieve the pain by moving about in bed,
+altering their position, and stretching. Pallor associated with perspiration and coolness of the extremities occurs
+commonly. The combination of substernal chest pain persisting for >30 min and diaphoresis strongly suggests
+STEMI. Although many patients have a normal pulse rate and blood pressure within the first hour of STEMI, about
+one-fourth of patients with anterior infarction have manifestations of sympathetic nervous system hyperactivity
+(tachycardia and/or hypertension), and up to one-half with inferior infarction show evidence of parasympathetic
+hyperactivity (bradycardia and/or hypotension).
+The precordium is usually quiet, and the apical impulse may be difficult to palpate. In patients with anterior wall
+infarction, an abnormal systolic pulsation caused by dyskinetic bulging of infarcted myocardium may develop in
+the periapical area within the first days of the illness and then may resolve. Other physical signs of ventricular
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+3/29
+
+2/4/2015
+dysfunction include fourth and third heart sounds, decreased intensity of the first heart sound, and paradoxical
+splitting of the second heart sound (Chap. 227). A transient midsystolic or late systolic apical systolic murmur due
+to dysfunction of the mitral valve apparatus may be present. A pericardial friction rub is heard in many patients with
+transmural STEMI at some time in the course of the disease, if the patients are examined frequently. The carotid
+pulse is often decreased in volume, reflecting reduced stroke volume. Temperature elevations up to 38°C may be
+observed during the first week after STEMI. The arterial pressure is variable; in most patients with transmural
+infarction, systolic pressure declines by approximately 1015 mmHg from the preinfarction state.
+Laboratory Findings
+Myocardial infarction (MI) progresses through the following temporal stages: (1) acute (first few hours7 days), (2)
+healing (728 days), and (3) healed (29 days). When evaluating the results of diagnostic tests for STEMI, the
+temporal phase of the infarction must be considered. The laboratory tests of value in confirming the diagnosis may
+be divided into four groups: (1) ECG, (2) serum cardiac biomarkers, (3) cardiac imaging, and (4) nonspecific indices
+of tissue necrosis and inflammation.
+Electrocardiogram
+The electrocardiographic manifestations of STEMI are described in Chap. 228. During the initial stage, total
+occlusion of an epicardial coronary artery produces ST-segment elevation. Most patients initially presenting with
+ST-segment elevation ultimately evolve Q waves on the ECG. However, Q waves in the leads overlying the infarct
+zone may vary in magnitude and even appear only transiently, depending on the reperfusion status of the ischemic
+myocardium and restoration of transmembrane potentials over time. A small proportion of patients initially
+presenting with ST-segment elevation will not develop Q waves when the obstructing thrombus is not totally
+occlusive, obstruction is transient, or if a rich collateral network is present. Among patients presenting with
+ischemic discomfort but without ST-segment elevation, if a serum cardiac biomarker of necrosis (see below) is
+detected, the diagnosis of NSTEMI is ultimately made (Fig. 245-1). A minority of patients who present initially
+without ST-segment elevation may develop a Q-wave MI. Previously, it was believed that transmural MI is present
+if the ECG demonstrates Q waves or loss of R waves, and nontransmural MI may be present if the ECG shows only
+transient ST-segment and T-wave changes. However, electrocardiographic-pathologic correlations are far from
+perfect and terms such as Q-wave MI, non-Q-wave MI, transmural MI, and nontransmural MI, have been replaced
+by STEMI and NSTEMI (Fig. 245-1). Contemporary studies using MRI suggest that the development of a Q wave
+on the ECG is more dependent on the volume of infarcted tissue rather than the transmurality of infarction.
+Serum Cardiac Biomarkers
+Certain proteins, called serum cardiac biomarkers, are released from necrotic heart muscle after STEMI. The rate
+of liberation of specific proteins differs depending on their intracellular location, their molecular weight, and the
+local blood and lymphatic flow. Cardiac biomarkers become detectable in the peripheral blood once the capacity
+of the cardiac lymphatics to clear the interstitium of the infarct zone is exceeded and spillover into the venous
+circulation occurs. The temporal pattern of protein release is of diagnostic importance, but contemporary urgent
+reperfusion strategies necessitate making a decision (based largely on a combination of clinical and ECG findings)
+before the results of blood tests have returned from the laboratory. Rapid whole-blood bedside assays for serum
+cardiac markers are now available and may facilitate management decisions, particularly in patients with
+nondiagnostic ECGs.
+Cardiac-specific troponin T (cTnT) and cardiac-specific troponin I (cTnI) have amino-acid sequences different from
+those of the skeletal muscle forms of these proteins. These differences permitted the development of quantitative
+assays for cTnT and cTnI with highly specific monoclonal antibodies. Since cTnT and cTnI are not normally
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+4/29
+
+2/4/2015
+detectable in the blood of healthy individuals but may increase after STEMI to levels >20 times higher than the
+upper reference limit (the highest value seen in 99% of a reference population not suffering from MI), the
+measurement of cTnT or cTnI is of considerable diagnostic usefulness, and they are now the preferred biochemical
+markers for MI (Fig. 245-2). The cardiac troponins are particularly valuable when there is clinical suspicion of either
+skeletal muscle injury or a small MI that may be below the detection limit for creatine phosphokinase (CK) and its
+MB isoenzyme (CKMB) measurements, and they are, therefore, of particular value in distinguishing UA from
+NSTEMI. Levels of cTnI and cTnT may remain elevated for 710 days after STEMI.
+FIGURE 245-2
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+5/29
+
+2/4/2015
+
+The zone of necrosing myocardium is shown at the top of the figure, followed in the middle portion of the figure by
+a diagram of a cardiomyocyte that is in the process of releasing biomarkers. The biomarkers that are released into
+the interstitium are first cleared by lymphatics followed subsequently by spillover into the venous system. After
+disruption of the sarcolemmal membrane of the cardiomyocyte, the cytoplasmic pool of biomarkers is released first
+(left-most arrow in bottom portion of figure). Markers such as myoglobin and CK isoforms are rapidly released, and
+blood levels rise quickly above the cutoff limit; this is then followed by a more protracted release of biomarkers
+from the disintegrating myofilaments that may continue for several days. Cardiac troponin levels rise to about 20 to
+50 times the upper reference limit (the 99th percentile of values in a reference control group) in patients who have a
+"classic" acute myocardial infarction (MI) and sustain sufficient myocardial necrosis to result in abnormally elevated
+levels of the MB fraction of creatine kinase (CKMB). Clinicians can now diagnose episodes of microinfarction by
+sensitive assays that detect cardiac troponin elevations above the upper reference limit, even though CKMB levels
+may still be in the normal reference range (not shown). CV = coefficient of variation. (Modified from Antman EM:
+Decision making with cardiac troponin tests. N Engl J Med 346:2079, 2002 and Jaffe AS, Babiun L, Apple FS:
+Biomarkers in acute cardiac disease: The present and the future. J Am Coll Cardiol 48:1, 2006.)
+CK rises within 48 h and generally returns to normal by 4872 h (Fig. 245-2). An important drawback of total CK
+measurement is its lack of specificity for STEMI, as CK may be elevated with skeletal muscle disease or trauma,
+including intramuscular injection. The MB isoenzyme of CK has the advantage over total CK that it is not present in
+significant concentrations in extracardiac tissue and, therefore, is considerably more specific. However, cardiac
+surgery, myocarditis, and electrical cardioversion often result in elevated serum levels of the MB isoenzyme. A ratio
+(relative index) of CKMB mass: CK activity 2.5 suggests but is not diagnostic of a myocardial rather than a
+skeletal muscle source for the CKMB elevation.
+Many hospitals are using cTnT or cTnI rather than CKMB as the routine serum cardiac marker for diagnosis of
+STEMI, although any of these analytes remain clinically acceptable. It is not cost-effective to measure both a
+cardiac-specific troponin and CKMB at all time points in every patient.
+While it has long been recognized that the total quantity of protein released correlates with the size of the infarct,
+the peak protein concentration correlates only weakly with infarct size. Recanalization of a coronary artery
+occlusion (either spontaneously or by mechanical or pharmacologic means) in the early hours of STEMI causes
+earlier peaking of biomarker measurements (Fig. 245-2) because of a rapid washout from the interstitium of the
+infarct zone, quickly overwhelming lymphatic clearance of the proteins.
+The nonspecific reaction to myocardial injury is associated with polymorphonuclear leukocytosis, which appears
+within a few hours after the onset of pain and persists for 37 days; the white blood cell count often reaches levels
+of 12,00015,000/L. The erythrocyte sedimentation rate rises more slowly than the white blood cell count,
+peaking during the first week and sometimes remaining elevated for one or two weeks.
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+6/29
+
+2/4/2015
+Cardiac Imaging
+Abnormalities of wall motion on two-dimensional echocardiography (Chap. 229) are almost universally present.
+Although acute STEMI cannot be distinguished from an old myocardial scar or from acute severe ischemia by
+echocardiography, the ease and safety of the procedure make its use appealing as a screening tool in the
+Emergency Department setting. When the ECG is not diagnostic of STEMI, early detection of the presence or
+absence of wall motion abnormalities by echocardiography can aid in management decisions, such as whether the
+patient should receive reperfusion therapy [e.g., fibrinolysis or a percutaneous coronary intervention (PCI)].
+Echocardiographic estimation of left ventricular (LV) function is useful prognostically; detection of reduced function
+serves as an indication for therapy with an inhibitor of the renin-angiotensinaldosterone system.
+Echocardiography may also identify the presence of right ventricular (RV) infarction, ventricular aneurysm,
+pericardial effusion, and LV thrombus. In addition, Doppler echocardiography is useful in the detection and
+quantitation of a ventricular septal defect and mitral regurgitation, two serious complications of STEMI.
+Several radionuclide imaging techniques (Chap. 229) are available for evaluating patients with suspected STEMI.
+However, these imaging modalities are used less often than echocardiography because they are more
+cumbersome and lack sensitivity and specificity in many clinical circumstances. Myocardial perfusion imaging with
+[201Tl] or [99mTc]-sestamibi, which are distributed in proportion to myocardial blood flow and concentrated by
+viable myocardium (Chap. 243), reveal a defect ("cold spot") in most patients during the first few hours after
+development of a transmural infarct. Although perfusion scanning is extremely sensitive, it cannot distinguish acute
+infarcts from chronic scars and, thus, is not specific for the diagnosis of acute MI. Radionuclide ventriculography,
+carried out with [99mTc]-labeled red blood cells, frequently demonstrates wall motion disorders and reduction in
+the ventricular ejection fraction in patients with STEMI. While of value in assessing the hemodynamic
+consequences of infarction and in aiding in the diagnosis of RV infarction when the RV ejection fraction is
+depressed, this technique is nonspecific, as many cardiac abnormalities other than MI alter the radionuclide
+ventriculogram.
+Myocardial infarction can be detected accurately with high-resolution cardiac MRI (Chap. 229) using a technique
+referred to as late enhancement. A standard imaging agent (gadolinium) is administered and images are obtained
+after a 10-min delay. Since little gadolinium enters normal myocardium, where there are tightly packed myocytes,
+but does percolate into the expanded intercellular region of the infarct zone, there is a bright signal in areas of
+infarction that appears in stark contrast to the dark areas of normal myocardium.
+Initial Management
+
+Prehospital Care
+The prognosis in STEMI is largely related to the occurrence of two general classes of complications: (1) electrical
+complications (arrhythmias) and (2) mechanical complications ("pump failure"). Most out-of-hospital deaths from
+STEMI are due to the sudden development of ventricular fibrillation. The vast majority of deaths due to ventricular
+fibrillation occur within the first 24 h of the onset of symptoms, and of these, over half occur in the first hour.
+Therefore, the major elements of prehospital care of patients with suspected STEMI include (1) recognition of
+symptoms by the patient and prompt seeking of medical attention; (2) rapid deployment of an emergency medical
+team capable of performing resuscitative maneuvers, including defibrillation; (3) expeditious transportation of the
+patient to a hospital facility that is continuously staffed by physicians and nurses skilled in managing arrhythmias
+and providing advanced cardiac life support; and (4) expeditious implementation of reperfusion therapy (Fig. 245-
+3). The greatest delay usually occurs not during transportation to the hospital but, rather, between the onset of
+pain and the patient's decision to call for help. This delay can best be reduced by health care professionals
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+7/29
+
+2/4/2015
+educating the public concerning the significance of chest discomfort and the importance of seeking early medical
+attention. Regular office visits with patients having a history of or who are at risk for ischemic heart disease are
+important "teachable moments" for clinicians to review the symptoms of STEMI and the appropriate action plan.
+FIGURE 245-3
+
+Major components of time delay between onset of symptoms from STEMI and restoration of flow in the
+infarct-related artery. Plotted sequentially from left to right are the times for patients to recognize symptoms and
+seek medical attention, transportation to the hospital, in-hospital decision making, implementation of reperfusion
+strategy, and restoration of flow once the reperfusion strategy has been initiated. The time to initiate fibrinolytic
+therapy is the "door-to-needle" (D-N) time; this is followed by the period of time required for pharmacologic
+restoration of flow. More time is required to move the patient to the catheterization laboratory for a percutaneous
+coronary interventional (PCI) procedure, referred to as the "door-to-balloon" (D-B) time, but restoration of flow in
+the epicardial infarctrelated artery occurs promptly after PCI. At the bottom is a variety of methods for speeding
+the time to reperfusion along with the goals for the time intervals for the various components of the time delay.
+(Adapted from CP Cannon et al: J Thromb Thrombol 1:27, 1994.)
+Increasingly, monitoring and treatment are carried out by trained personnel in the ambulance, further shortening
+the time between the onset of the infarction and appropriate treatment. General guidelines for initiation of
+fibrinolysis in the prehospital setting include the ability to transmit 12-lead ECGs to confirm the diagnosis, the
+presence of paramedics in the ambulance, training of paramedics in the interpretation of ECGs and management
+of STEMI, and online medical command and control that can authorize the initiation of treatment in the field.
+Management in the Emergency Department
+In the Emergency Department, the goals for the management of patients with suspected STEMI include control of
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+8/29
+
+2/4/2015
+cardiac discomfort, rapid identification of patients who are candidates for urgent reperfusion therapy, triage of
+lower-risk patients to the appropriate location in the hospital, and avoidance of inappropriate discharge of patients
+with STEMI. Many aspects of the treatment of STEMI are initiated in the Emergency Department and then
+continued during the in-hospital phase of management.
+Aspirin is essential in the management of patients with suspected STEMI and is effective across the entire
+spectrum of acute coronary syndromes (Fig. 245-1). Rapid inhibition of cyclooxygenase-1 in platelets followed by a
+reduction of thromboxane A2 levels is achieved by buccal absorption of a chewed 160325-mg tablet in the
+Emergency Department. This measure should be followed by daily oral administration of aspirin in a dose of 75
+162 mg.
+In patients whose arterial O2 saturation is normal, supplemental O2 is of limited if any clinical benefit and therefore
+is not cost-effective. However, when hypoxemia is present, O2 should be administered by nasal prongs or face
+mask (24 L/min) for the first 612 h after infarction; the patient should then be reassessed to determine if there is a
+continued need for such treatment.
+Control of Discomfort
+Sublingual nitroglycerin can be given safely to most patients with STEMI. Up to three doses of 0.4 mg should be
+administered at about 5-min intervals. In addition to diminishing or abolishing chest discomfort, nitroglycerin may
+be capable of both decreasing myocardial oxygen demand (by lowering preload) and increasing myocardial
+oxygen supply (by dilating infarct-related coronary vessels or collateral vessels). In patients whose initially
+favorable response to sublingual nitroglycerin is followed by the return of chest discomfort, particularly if
+accompanied by other evidence of ongoing ischemia such as further ST-segment or T-wave shifts, the use of
+intravenous nitroglycerin should be considered. Therapy with nitrates should be avoided in patients who present
+with low systolic arterial pressure (<90 mmHg) or in whom there is clinical suspicion of right ventricular infarction
+(inferior infarction on ECG, elevated jugular venous pressure, clear lungs, and hypotension). Nitrates should not be
+administered to patients who have taken the phosphodiesterase-5 inhibitor sildenafil for erectile dysfunction within
+the preceding 24 h, because it may potentiate the hypotensive effects of nitrates. An idiosyncratic reaction to
+nitrates, consisting of sudden marked hypotension, sometimes occurs but can usually be reversed promptly by the
+rapid administration of intravenous atropine.
+Morphine is a very effective analgesic for the pain associated with STEMI. However, it may reduce sympathetically
+mediated arteriolar and venous constriction, and the resulting venous pooling may reduce cardiac output and
+arterial pressure. These hemodynamic disturbances usually respond promptly to elevation of the legs, but in some
+patients volume expansion with intravenous saline is required. The patient may experience diaphoresis and
+nausea, but these events usually pass and are replaced by a feeling of well-being associated with the relief of pain.
+Morphine also has a vagotonic effect and may cause bradycardia or advanced degrees of heart block, particularly
+in patients with inferior infarction. These side effects usually respond to atropine (0.5 mg intravenously). Morphine
+is routinely administered by repetitive (every 5 min) intravenous injection of small doses (24 mg), rather than by the
+subcutaneous administration of a larger quantity, because absorption may be unpredictable by the latter route.
+Intravenous beta blockers are also useful in the control of the pain of STEMI. These drugs control pain effectively in
+some patients, presumably by diminishing myocardial O2 demand and hence ischemia. More important, there is
+evidence that intravenous beta blockers reduce the risks of reinfarction and ventricular fibrillation (see "Beta-
+Adrenoceptor Blockers" below). However, patient selection is important when considering beta blockers for
+STEMI. Oral beta-blocker therapy should be initiated in the first 24 h for patients who do not have any of the
+following: 1) signs of heart failure, 2) evidence of a low-output state, 3) increased risk for cardiogenic shock, or 4)
+other relative contraindications to beta blockade (PR interval greater than 0.24 seconds, second- or third-degree
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+9/29
+
+2/4/2015
+heart block, active asthma, or reactive airway disease). A commonly employed regimen is metoprolol, 5 mg every
+25 min for a total of 3 doses, provided the patient has a heart rate >60 beats per minute (bpm), systolic pressure
+>100 mmHg, a PR interval <0.24 s, and rales that are no higher than 10 cm up from the diaphragm. Fifteen minutes
+after the last intravenous dose, an oral regimen is initiated of 50 mg every 6 h for 48 h, followed by 100 mg every
+12 h.
+Unlike beta blockers, calcium antagonists are of little value in the acute setting, and there is evidence that short-
+acting dihydropyridines may be associated with an increased mortality risk.
+Management Strategies
+The primary tool for screening patients and making triage decisions is the initial 12-lead ECG. When ST-segment
+elevation of at least 2 mm in 2 contiguous precordial leads and 1 mm in 2 adjacent limb leads is present, a patient
+should be considered a candidate for reperfusion therapy(Fig. 245-4). The process of selecting patients for
+fibrinolysis versus primary PCI (angioplasty, or stenting; Chap. 246) is discussed below. In the absence of ST-
+segment elevation, fibrinolysis is not helpful, and evidence exists suggesting that it may be harmful.
+FIGURE 245-4
+
+Options for transportation of patients with STEMI and initial reperfusion treatment. Patient transported by EMS
+after calling 911: Reperfusion in patients with STEMI can be accomplished by the pharmacologic (fibrinolysis) or
+catheter-based (primary PCI) approaches. Implementation of these strategies varies based on the mode of
+transportation of the patient and capabilities at the receiving hospital. Transport time to the hospital is variable
+from case to case, but the goal is to keep total ischemic time within 120 min. There are three possible scenarios:
+(1) If EMS has fibrinolytic capability and the patient qualifies for therapy, prehospital fibrinolysis should be started
+within 30 min of EMS arrival on scene. (2) If EMS is not capable of administering prehospital fibrinolysis and the
+patient is transported to a non-PCI-capable hospital, the hospital door-to-needle time should be within 30 min for
+patients in whom fibrinolysis is indicated. (3) If EMS is not capable of administering prehospital fibrinolysis and the
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+10/29
+
+2/4/2015
+patient is transported to a PCI-capable hospital, the hospital door-to-balloon time should be within 90 min.
+Interhospital transfer: It is also appropriate to consider emergency interhospital transfer of the patient to a PCI-
+capable hospital for mechanical revascularization if: (1) there is a contraindication to fibrinolysis, (2) PCI can be
+initiated promptly (within 90 minutes after the patient presented to the initial receiving hospital or within 60 min
+compared to when fibrinolysis with a fibrin-specific agent could be initiated at the initial receiving hospital), (3)
+fibrinolysis is administered and is unsuccessful (i.e., "rescue PCI"). Secondary nonemergency interhospital transfer
+can be considered for recurrent ischemia. Patient self-transport: Patient self-transportation is discouraged. If the
+patient arrives at a non-PCI-capable hospital, the door-to-needle time should be within 30 min. If the patient
+arrives at a PCI-capable hospital, the door-to-balloon time should be within 90 min. The treatment options and
+time recommended after first hospital arrival are the same. [Adapted with permission from Antman et al: ACC/AHA
+guidelines for the management of patients with ST-elevation myocardial infarction: A report of the American
+College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to Revise the
+1999 Guidelines for the Management of Patients with Acute Myocardial Infarction). Circulation 110:e82, 2004.]
+Limitation of Infarct Size
+The quantity of myocardium that becomes necrotic as a consequence of a coronary artery occlusion is determined
+by factors other than just the site of occlusion. While the central zone of the infarct contains necrotic tissue that is
+irretrievably lost, the fate of the surrounding ischemic myocardium (ischemic penumbra) may be improved by
+timely restoration of coronary perfusion, reduction of myocardial O2 demands, prevention of the accumulation of
+noxious metabolites, and blunting of the impact of mediators of reperfusion injury (e.g., calcium overload and
+oxygen-derived free radicals). Up to one-third of patients with STEMI may achieve spontaneous reperfusion of the
+infarct-related coronary artery within 24 h and experience improved healing of infarcted tissue. Reperfusion, either
+pharmacologically (by fibrinolysis) or by PCI, accelerates the opening of infarct-related arteries in those patients in
+whom spontaneous fibrinolysis ultimately would have occurred and also greatly increases the number of patients in
+whom restoration of flow in the infarct-related artery is accomplished. Timely restoration of flow in the epicardial
+infarctrelated artery combined with improved perfusion of the downstream zone of infarcted myocardium results
+in a limitation of infarct size. Protection of the ischemic myocardium by the maintenance of an optimal balance
+between myocardial O2 supply and demand through pain control, treatment of congestive heart failure (CHF), and
+minimization of tachycardia and hypertension extends the "window" of time for the salvage of myocardium by
+reperfusion strategies.
+Glucocorticoids and nonsteroidal anti-inflammatory agents, with the exception of aspirin, should be avoided in
+patients with STEMI. They can impair infarct healing and increase the risk of myocardial rupture, and their use may
+result in a larger infarct scar. In addition, they can increase coronary vascular resistance, thereby potentially
+reducing flow to ischemic myocardium.
+Primary Percutaneous Coronary Intervention
+(See also Chap. 246) PCI, usually angioplasty and/or stenting without preceding fibrinolysis, referred to as primary
+PCI, is effective in restoring perfusion in STEMI when carried out on an emergency basis in the first few hours of
+MI. It has the advantage of being applicable to patients who have contraindications to fibrinolytic therapy (see
+below) but otherwise are considered appropriate candidates for reperfusion. It appears to be more effective than
+fibrinolysis in opening occluded coronary arteries and, when performed by experienced operators [75 PCI cases
+(not necessarily primary) per year] in dedicated medical centers (36 primary PCI cases per year), is associated with
+better short-term and long-term clinical outcomes. Compared with fibrinolysis, primary PCI is generally preferred
+when the diagnosis is in doubt, cardiogenic shock is present, bleeding risk is increased, or symptoms have been
+present for at least 23 h when the clot is more mature and less easily lysed by fibrinolytic drugs. However, PCI is
+expensive in terms of personnel and facilities, and its applicability is limited by its availability, around the clock, in
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+11/29
+
+2/4/2015
+only a minority of hospitals.
+Fibrinolysis
+If no contraindications are present (see below), fibrinolytic therapy should ideally be initiated within 30 min of
+presentation (i.e., door-to-needle time 30 min). The principal goal of fibrinolysis is prompt restoration of full
+coronary arterial patency. The fibrinolytic agents tissue plasminogen activator (tPA), streptokinase, tenecteplase
+(TNK), and reteplase (rPA) have been approved by the U.S. Food and Drug Administration for intravenous use in
+patients with STEMI. These drugs all act by promoting the conversion of plasminogen to plasmin, which
+subsequently lyses fibrinthrombi. Although considerable emphasis was first placed on a distinction between more
+fibrin-specific agents, such as tPA, and non-fibrin-specific agents, such as streptokinase, it is now recognized that
+these differences are only relative, as some degree of systemic fibrinolysis occurs with the former agents. TNK and
+rPA are referred to as bolus fibrinolytics since their administration does not require a prolonged intravenous
+infusion.
+When assessed angiographically, flow in the culprit coronary artery is described by a simple qualitative scale called
+the thrombolysis in myocardial infarction (TIMI)grading system: grade 0 indicates complete occlusion of the infarct-
+related artery; grade 1 indicates some penetration of the contrast material beyond the point of obstruction but
+without perfusion of the distal coronary bed; grade 2 indicates perfusion of the entire infarct vessel into the distal
+bed, but with flow that is delayed compared with that of a normal artery; and grade 3 indicates full perfusion of the
+infarct vessel with normal flow. The latter is the goal of reperfusion therapy, because full perfusion of the infarct-
+related coronary artery yields far better results in terms of limiting infarct size, maintenance of LV function, and
+reduction of both short- and long-term mortality rates. Additional methods of angiographic assessment of the
+efficacy of fibrinolysis include counting the number of frames on the cine film required for dye to flow from the
+origin of the infarct-related artery to a landmark in the distal vascular bed (TIMI frame count) and determining the
+rate of entry and exit of contrast dye from the microvasculature in the myocardial infarct zone (TIMI myocardial
+perfusion grade). These methods have an even tighter correlation with outcomes after STEMI than the more
+commonly employed TIMI flow grade.
+Fibrinolytic therapy can reduce the relative risk of in-hospital death by up to 50% when administered within the first
+hour of the onset of symptoms of STEMI, and much of this benefit is maintained for at least 10 years. When
+appropriately used, fibrinolytic therapy appears to reduce infarct size, limit LV dysfunction, and reduce the
+incidence of serious complications such as septal rupture, cardiogenic shock, and malignant ventricular
+arrhythmias. Since myocardium can be salvaged only before it has been irreversibly injured, the timing of
+reperfusion therapy, by fibrinolysis or a catheter-based approach, is of extreme importance in achieving maximum
+benefit. While the upper time limit depends on specific factors in individual patients, it is clear that every minute
+counts and that patients treated within 13 h of the onset of symptoms generally benefit most. Although reduction
+of the mortality rate is more modest, the therapy remains of benefit for many patients seen 36 h after the onset of
+infarction, and some benefit appears to be possible up to 12 h, especially if chest discomfort is still present and ST
+segments remain elevated. Compared with PCI for STEMI (primary PCI), fibrinolysis is generally the preferred
+reperfusion strategy for patients presenting in the first hour of symptoms, if there are logistical concerns about
+transportation of the patient to a suitable PCI center (experienced operator and team with a track record for a
+"door-to-balloon" time of <2 h), or there is an anticipated delay of at least 1 h between the time that fibrinolysis
+could be started versus implementation of PCI. Although patients <75 years achieve a greater relative reduction in
+the mortality rate with fibrinolytic therapy than do older patients, the higher absolute mortality rate (1525%) in the
+latter results in similar absolute reductions in the mortality rates for both age groups.
+tPA and the other relatively fibrin-specific plasminogen activators, rPA and TNK, are more effective than
+streptokinase at restoring full perfusioni.e., TIMI grade 3 coronary flowand have a small edge in improving
+survival as well. The current recommended regimen of tPA consists of a 15-mg bolus followed by 50 mg
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+12/29
+
+2/4/2015
+intravenously over the first 30 min, followed by 35 mg over the next 60 min. Streptokinase is administered as 1.5
+million units (MU) intravenously over 1 h. rPA is administered in a double-bolus regimen consisting of a 10-MU
+bolus given over 23 min, followed by a second 10-MU bolus 30 min later. TNK is given as a single weight-based
+intravenous bolus of 0.53 mg/kg over 10 s. In addition to the fibrinolytic agents discussed above, pharmacologic
+reperfusion typically involves adjunctive antiplatelet and antithrombotic drugs, as discussed subsequently.
+Alternative pharmacologic regimens for reperfusion combine an intravenous glycoprotein IIb/IIIa inhibitor with a
+reduced dose of a fibrinolytic agent. Compared with fibrinolytic agents that involve a prolonged infusion (e.g., tPA),
+such combination reperfusion regimens facilitate the rate and extent of fibrinolysis by inhibiting platelet
+aggregation, weakening the clot structure, and allowing penetration of the fibrinolytic agent deeper into the clot.
+However, combination reperfusion regimens have similar efficacy as compared with bolus fibrinolytics and are
+associated with an increased risk of bleeding, especially in patients >75 years. Therefore, combination reperfusion
+regimens are not recommended for routine use. Glycoprotein IIb/IIIa inhibitors, given alone or in combination with a
+reduced dose of a fibrinolytic agent as part of a preparatory regimen before planned immediate PCI (facilitated
+PCI), have not been shown to reduce infarct size or improve outcomes and, furthermore, are associated with
+increased bleeding. Facilitated PCI is, therefore, also not a strategy that is recommended for routine use.
+Integrated Reperfusion Strategy
+Evidence has emerged that suggests PCI plays an increasingly important role in the management of STEMI. Prior
+approaches that segregated the pharmacologic and catheter-based approaches to reperfusion have now been
+replaced with an integrated approach to triage and transfer of STEMI patients to receive PCI (Fig. 245-5).
+FIGURE 245-5
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+13/29
+
+2/4/2015
+
+Each community and each facility in that community should have an agreed-upon plan for how STEMI patients are
+to be treated that includes which hospitals should receive STEMI patients from EMS units capable of obtaining
+diagnostic ECGs, management at the initial receiving hospital, and written criteria and agreements for expeditious
+transfer of patients from non-PCI-capable facilities. Patients initially seen at a PCI-capable facility (left side of
+diagram) should be sent promptly to the cardiac catheterization laboratory with the intent to perform primary PCI.
+Patients initially seen at a non-PCI-capable facility (right side of diagram) should rapidly be assessed for the
+optimum reperfusion therapy (see box in top right corner for assessment criteria). This may include transfer for
+primary PCI or initial treatment with a fibrinolytic. Following administration of a fibrinolytic, management is dictated
+by the patient's overall risk for death/serious complications of STEMI, and whether or not they experience
+recurrent ischemic symptoms or left-ventricular failure (see the two boxes at the bottom right of diagram). [Adapted
+from Kushner FG et al: 2009 focused update of the ACC/AHA Guidelines for the Management of Patients with ST-
+Elevation Myocardial Infarction (updating the 2004 guideline and 2007 focused update): a report of the American
+College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation
+120:2271, 2009.]
+Contraindications and Complications
+Clear contraindications to the use of fibrinolytic agents include a history of cerebrovascular hemorrhage at any
+time, a nonhemorrhagic stroke or other cerebrovascular event within the past year, marked hypertension (a reliably
+determined systolic arterial pressure >180 mmHg and/or a diastolic pressure >110 mmHg) at any time during the
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+14/29
+
+2/4/2015
+acute presentation, suspicion of aortic dissection, and active internal bleeding (excluding menses). While advanced
+age is associated with an increase in hemorrhagic complications, the benefit of fibrinolytic therapy in the elderly
+appears to justify its use if no other contraindications are present and the amount of myocardium in jeopardy
+appears to be substantial.
+Relative contraindications to fibrinolytic therapy, which require assessment of the risk:benefit ratio, include current
+use of anticoagulants (international normalized ratio2), a recent (<2 weeks) invasive or surgical procedure or
+prolonged (>10 min) cardiopulmonary resuscitation, known bleeding diathesis, pregnancy, a hemorrhagic
+ophthalmic condition (e.g., hemorrhagic diabetic retinopathy), active peptic ulcer disease, and a history of severe
+hypertension that is currently adequately controlled. Because of the risk of an allergic reaction, patients should not
+receive streptokinase if that agent had been received within the preceding five days to two years.
+Allergic reactions to streptokinase occur in 2% of patients who receive it. While a minor degree of hypotension
+occurs in 410% of patients given this agent, marked hypotension occurs, although rarely, in association with
+severe allergic reactions.
+Hemorrhage is the most frequent and potentially the most serious complication. Because bleeding episodes that
+require transfusion are more common when patients require invasive procedures, unnecessary venous or arterial
+interventions should be avoided in patients receiving fibrinolytic agents. Hemorrhagic stroke is the most serious
+complication and occurs in 0.50.9% of patients being treated with these agents. This rate increases with
+advancing age, with patients >70 years experiencing roughly twice the rate of intracranial hemorrhage as those
+<65 years. Large-scale trials have suggested that the rate of intracranial hemorrhage with tPA or rPA is slightly
+higher than with streptokinase.
+Cardiac catheterization and coronary angiography should be carried out after fibrinolytic therapy if there is
+evidence of either (1) failure of reperfusion (persistent chest pain and ST-segment elevation >90 min), in which case
+a rescue PCI should be considered; or (2) coronary artery reocclusion (re-elevation of ST segments and/or
+recurrent chest pain) or the development of recurrent ischemia (such as recurrent angina in the early hospital
+course or a positive exercise stress test before discharge), in which case an urgent PCI should be considered. The
+potential benefits of routine angiography and elective PCI even in asymptomatic patients following administration
+of fibrinolytic therapy are controversial, but such an approach may have merit given the numerous technological
+advances that have occurred in the catheterization laboratory and the increasing number of skilled
+interventionalists. Coronary artery bypass surgery should be reserved for patients whose coronary anatomy is
+unsuited to PCI but in whom revascularization appears to be advisable because of extensive jeopardized
+myocardium or recurrent ischemia.
+Hospital Phase Management
+
+Coronary Care Units
+These units are routinely equipped with a system that permits continuous monitoring of the cardiac rhythm of each
+patient and hemodynamic monitoring in selected patients. Defibrillators, respirators, noninvasive transthoracic
+pacemakers, and facilities for introducing pacing catheters and flow-directed balloon-tipped catheters are also
+usually available. Equally important is the organization of a highly trained team of nurses who can recognize
+arrhythmias; adjust the dosage of antiarrhythmic, vasoactive, and anticoagulant drugs; and perform cardiac
+resuscitation, including electroshock, when necessary.
+Patients should be admitted to a coronary care unit early in their illness when it is expected that they will derive
+benefit from the sophisticated and expensive care provided. The availability of electrocardiographic monitoring and
+trained personnel outside the coronary care unit has made it possible to admit lower-risk patients (e.g., those not
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+15/29
+
+2/4/2015
+hemodynamically compromised and without active arrhythmias) to "intermediate care units."
+The duration of stay in the coronary care unit is dictated by the ongoing need for intensive care. If symptoms are
+controlled with oral therapy, patients may be transferred out of the coronary care unit. Also, patients who have a
+confirmed STEMI but who are considered to be at low risk [no prior infarction and no persistent chest discomfort,
+congestive heart failure (CHF), hypotension, or cardiac arrhythmias] may be safely transferred out of the coronary
+care unit within 24 h.
+Activity
+Factors that increase the work of the heart during the initial hours of infarction may increase the size of the infarct.
+Therefore, patients with STEMI should be kept at bed rest for the first 12 h. However, in the absence of
+complications, patients should be encouraged, under supervision, to resume an upright posture by dangling their
+feet over the side of the bed and sitting in a chair within the first 24 h. This practice is psychologically beneficial
+and usually results in a reduction in the pulmonary capillary wedge pressure. In the absence of hypotension and
+other complications, by the second or third day, patients typically are ambulating in their room with increasing
+duration and frequency, and they may shower or stand at the sink to bathe. By day 3 after infarction, patients
+should be increasing their ambulation progressively to a goal of 185 m (600 ft) at least 3 times a day.
+Diet
+Because of the risk of emesis and aspiration soon after STEMI, patients should receive either nothing or only clear
+liquids by mouth for the first 412 h. The typical coronary care unit diet should provide 30% of total calories as fat
+and have a cholesterol content of 300 mg/d. Complex carbohydrates should make up 5055% of total calories.
+Portions should not be unusually large, and the menu should be enriched with foods that are high in potassium,
+magnesium, and fiber, but low in sodium. Diabetes mellitus and hypertriglyceridemia are managed by restriction of
+concentrated sweets in the diet.
+Bowel Management
+Bed rest and the effect of the narcotics used for the relief of pain often lead to constipation. A bedside commode
+rather than a bedpan, a diet rich in bulk, and the routine use of a stool softener such as dioctyl sodium
+sulfosuccinate (200 mg/d) are recommended. If the patient remains constipated despite these measures, a laxative
+can be prescribed. Contrary to prior belief, it is safe to perform a gentle rectal examination on patients with STEMI.
+Sedation
+Many patients require sedation during hospitalization to withstand the period of enforced inactivity with tranquillity.
+Diazepam (5 mg), oxazepam (1530 mg), or lorazepam (0.52 mg), given 34 times daily, is usually effective. An
+additional dose of any of the above medications may be given at night to ensure adequate sleep. Attention to this
+problem is especially important during the first few days in the coronary care unit, where the atmosphere of 24-h
+vigilance may interfere with the patient's sleep. However, sedation is no substitute for reassuring, quiet
+surroundings. Many drugs used in the coronary care unit, such as atropine, H2 blockers, and narcotics, can
+produce delirium, particularly in the elderly. This effect should not be confused with agitation, and it is wise to
+conduct a thorough review of the patient's medications before arbitrarily prescribing additional doses of
+anxiolytics.
+Pharmacotherapy
+
+Antithrombotic Agents
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+16/29
+
+2/4/2015
+The use of antiplatelet and anticoagulant therapy during the initial phase of STEMI is based on extensive laboratory
+and clinical evidence that thrombosis plays an important role in the pathogenesis of this condition. The primary
+goal of treatment with antiplatelet and anticoagulant agents is to maintain patency of the infarct-related artery, in
+conjunction with reperfusion strategies. A secondary goal is to reduce the patient's tendency to thrombosis and,
+thus, the likelihood of mural thrombus formation or deep venous thrombosis, either of which could result in
+pulmonary embolization. The degree to which antiplatelet and anticoagulant therapy achieves these goals partly
+determines how effectively it reduces the risk of mortality from STEMI.
+As noted previously (see "Management in the Emergency Department" above), aspirin is the standard antiplatelet
+agent for patients with STEMI. The most compelling evidence for the benefits of antiplatelet therapy (mainly with
+aspirin) in STEMI is found in the comprehensive overview by the Antiplatelet Trialists' Collaboration. Data from
+nearly 20,000 patients with MI enrolled in 15 randomized trials were pooled and revealed a relative reduction of
+27% in the mortality rate, from 14.2% in control patients to 10.4% in patients receiving antiplatelet agents.
+Inhibitors of the P2Y12 ADP receptor prevent activation and aggregation of platelets. The addition of the P2Y12
+inhibitor clopidogrel to background treatment with aspirin to STEMI patients reduces the risk of clinical events
+(death, reinfarction, stroke) and, in patients receiving fibrinolytic therapy, has been shown to prevent reocclusion of
+a successfully reperfused infarct artery. New P2Y12 ADP receptor antagonists, such as prasugrel and ticagrelor,
+are more effective than clopidogrel in preventing ischemic complications in STEMI patients undergoing PCI, but
+are associated with an increased risk of bleeding. Glycoprotein IIb/IIIa receptor inhibitors appear useful for
+preventing thrombotic complications in patients with STEMI undergoing PCI.
+The standard anticoagulant agent used in clinical practice is unfractionated heparin (UFH). The available data
+suggest that when UFH is added to a regimen of aspirin and a non-fibrin-specific thrombolytic agent such as
+streptokinase, additional mortality benefit occurs (about 5 lives saved per 1000 patients treated). It appears that
+the immediate administration of intravenous UFH, in addition to a regimen of aspirin and relatively fibrin-specific
+fibrinolytic agents (tPA, rPA, or TNK), helps to maintain patency of the infarct-related artery. This effect is achieved
+at the cost of a small increased risk of bleeding. The recommended dose of UFH is an initial bolus of 60 U/kg
+(maximum 4000 U) followed by an initial infusion of 12 U/kg per hour (maximum 1000 U/h). The activated partial
+thromboplastin time during maintenance therapy should be 1.52 times the control value.
+Alternatives to UFH for anticoagulation of patients with STEMI are the low-molecular-weight heparin (LMWH)
+preparations, a synthetic version of the critical pentasaccharide sequence (fondaparinux), and the direct
+antithrombin bivalirudin. Advantages of LMWHs include high bioavailability permitting administration
+subcutaneously, reliable anticoagulation without monitoring, and greater antiXa:IIa activity. Enoxaparin has been
+shown to reduce significantly the composite endpoints of death/nonfatal reinfarction and death/nonfatal
+reinfarction/urgent revascularization compared with UFH in STEMI patients who receive fibrinolysis. Treatment with
+enoxaparin is associated with higher rates of serious bleeding, but net clinical benefita composite endpoint that
+combines efficacy and safetystill favors enoxaparin over UFH. Interpretation of the data on fondaparinux is
+difficult because of the complex nature of the pivotal clinical trial evaluating it in STEMI (OASIS-6). Fondaparinux
+appears superior to placebo in STEMI patients not receiving reperfusion therapy, but its relative efficacy and safety
+compared with UFH is less certain. Owing to the risk of catheter thrombosis, fondaparinux should not be used
+alone at the time of coronary angiography and PCI but should be combined with another anticoagulant with
+antithrombin activity such as UFH or bivalirudin. Contemporary trials of bivalirudin used an open-label design to
+evaluate its efficacy and safety compared with UFH plus a glycoprotein IIb/IIIa inhibitor. Bivalirudin was associated
+with a lower rate of bleeding, largely driven by reductions in vascular access site hematomas 5 cm or the
+administration of blood transfusions.
+Patients with an anterior location of the infarction, severe LV dysfunction, heart failure, a history of embolism, two-
+dimensional echocardiographic evidence of mural thrombus, or atrial fibrillation are at increased risk of systemic or
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+17/29
+
+2/4/2015
+pulmonary thromboembolism. Such individuals should receive full therapeutic levels of anticoagulant therapy
+(LMWH or UFH) while hospitalized, followed by at least three months of warfarin therapy.
+Beta-Adrenoceptor Blockers
+The benefits of beta blockers in patients with STEMI can be divided into those that occur immediately when the
+drug is given acutely and those that accrue over the long term when the drug is given for secondary prevention
+after an infarction. Acute intravenous beta blockade improves the myocardial O2 supply-demand relationship,
+decreases pain, reduces infarct size, and decreases the incidence of serious ventricular arrhythmias. In patients
+who undergo fibrinolysis soon after the onset of chest pain, no incremental reduction in mortality rate is seen with
+beta blockers, but recurrent ischemia and reinfarction are reduced.
+Thus, beta-blocker therapy after STEMI is useful for most patients [including those treated with an angiotensin-
+converting enzyme (ACE) inhibitor] except those in whom it is specifically contraindicated (patients with heart
+failure or severely compromised LV function, heart block, orthostatic hypotension, or a history of asthma) and
+perhaps those whose excellent long-term prognosis (defined as an expected mortality rate of <1% per year,
+patients <55 years, no previous MI, with normal ventricular function, no complex ventricular ectopy, and no angina)
+markedly diminishes any potential benefit.
+Inhibition of the Renin-Angiotensin-Aldosterone System
+ACE inhibitors reduce the mortality rate after STEMI, and the mortality benefits are additive to those achieved with
+aspirin and beta blockers. The maximum benefit is seen in high-risk patients (those who are elderly or who have an
+anterior infarction, a prior infarction, and/or globally depressed LV function), but evidence suggests that a short-
+term benefit occurs when ACE inhibitors are prescribed unselectively to all hemodynamically stable patients with
+STEMI (i.e., those with a systolic pressure >100 mmHg). The mechanism involves a reduction in ventricular
+remodeling after infarction (see "Ventricular Dysfunction" below) with a subsequent reduction in the risk of CHF.
+The rate of recurrent infarction may also be lower in patients treated chronically with ACE inhibitors after infarction.
+Before hospital discharge, LV function should be assessed with an imaging study. ACE inhibitors should be
+continued indefinitely in patients who have clinically evident CHF, in patients in whom an imaging study shows a
+reduction in global LV function or a large regional wall motion abnormality, or in those who are hypertensive.
+Angiotensin receptor blockers (ARBs) should be administered to STEMI patients who are intolerant of ACE
+inhibitors and who have either clinical or radiological signs of heart failure. Long-term aldosterone blockade should
+be prescribed for STEMI patients without significant renal dysfunction (creatinine 2.5 mg/dL in men and 2.0
+mg/dL in women) or hyperkalemia (potassium 5.0 mEq/L) who are already receiving therapeutic doses of an ACE
+inhibitor, an LV ejection fraction40 percent, and either symptomatic heart failure or diabetes mellitus. A multidrug
+regimen for inhibiting the renin-angiotensin-aldosterone system has been shown to reduce both heart failure
+related and sudden cardiac deathrelated cardiovascular mortality after STEMI, but has not been as thoroughly
+explored as ACE inhibitors in STEMI patients.
+Other Agents
+Favorable effects on the ischemic process and ventricular remodeling (see below) previously led many physicians
+to routinely use intravenous nitroglycerin (510 g/min initial dose and up to 200 g/min as long as hemodynamic
+stability is maintained) for the first 2448 h after the onset of infarction. However, the benefits of routine use of
+intravenous nitroglycerin are less in the contemporary era where beta-adrenoceptor blockers and ACE inhibitors
+are routinely prescribed for patients with STEMI.
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+18/29
+
+2/4/2015
+Results of multiple trials of different calcium antagonists have failed to establish a role for these agents in the
+treatment of most patients with STEMI. Therefore, the routine use of calcium antagonists cannot be recommended.
+Strict control of blood glucose in diabetic patients with STEMI has been shown to reduce the mortality rate. Serum
+magnesium should be measured in all patients on admission, and any demonstrated deficits should be corrected
+to minimize the risk of arrhythmias.
+Complications and Their Management
+
+Ventricular Dysfunction
+After STEMI, the left ventricle undergoes a series of changes in shape, size, and thickness in both the infarcted and
+noninfarcted segments. This process is referred to as ventricular remodeling and generally precedes the
+development of clinically evident CHF in the months to years after infarction. Soon after STEMI, the left ventricle
+begins to dilate. Acutely, this results from expansion of the infarct, i.e., slippage of muscle bundles, disruption of
+normal myocardial cells, and tissue loss within the necrotic zone, resulting in disproportionate thinning and
+elongation of the infarct zone. Later, lengthening of the noninfarcted segments occurs as well. The overall chamber
+enlargement that occurs is related to the size and location of the infarct, with greater dilation following infarction of
+the anterior wall and apex of the left ventricle and causing more marked hemodynamic impairment, more frequent
+heart failure, and a poorer prognosis. Progressive dilation and its clinical consequences may be ameliorated by
+therapy with ACE inhibitors and other vasodilators (e.g., nitrates). In patients with an ejection fraction<40%,
+regardless of whether or not heart failure is present, ACE inhibitors or ARBs should be prescribed (see "Inhibition
+of the Renin-Angiotensin-Aldosterone System" above).
+Hemodynamic Assessment
+Pump failure is now the primary cause of in-hospital death from STEMI. The extent of infarction correlates well with
+the degree of pump failure and with mortality, both early (within 10 days of infarction) and later. The most common
+clinical signs are pulmonary rales and S3 and S4 gallop sounds. Pulmonary congestion is also frequently seen on
+the chest roentgenogram. Elevated LV filling pressure and elevated pulmonary artery pressure are the
+characteristic hemodynamic findings, but these findings may result from a reduction of ventricular compliance
+(diastolic failure) and/or a reduction of stroke volume with secondary cardiac dilation (systolic failure) (Chap. 234).
+A classification originally proposed by Killip divides patients into four groups: class I, no signs of pulmonary or
+venous congestion; class II, moderate heart failure as evidenced by rales at the lung bases, S3 gallop, tachypnea,
+or signs of failure of the right side of the heart, including venous and hepatic congestion; class III, severe heart
+failure, pulmonary edema; and class IV, shock with systolic pressure <90 mmHg and evidence of peripheral
+vasoconstriction, peripheral cyanosis, mental confusion, and oliguria. When this classification was established in
+1967, the expected hospital mortality rate of patients in these classes was as follows: class I, 05%; class II, 10
+20%; class III, 3545%; and class IV, 8595%. With advances in management, the mortality rate in each class has
+fallen, perhaps by as much as one-third to one-half.
+Hemodynamic evidence of abnormal global LV function appears when contraction is seriously impaired in 2025%
+of the left ventricle. Infarction of 40% of the left ventricle usually results in cardiogenic shock (Chap. 272).
+Positioning of a balloon flotation (Swan-Ganz) catheter in the pulmonary artery permits monitoring of LV filling
+pressure; this technique is useful in patients who exhibit hypotension and/or clinical evidence of CHF. Cardiac
+output can also be determined with a pulmonary artery catheter. With the addition of intra-arterial pressure
+monitoring, systemic vascular resistance can be calculated as a guide to adjusting vasopressor and vasodilator
+therapy. Some patients with STEMI have markedly elevated LV filling pressures (>22 mmHg) and normal cardiac
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+19/29
+
+2/4/2015
+indices [2.63.6 L/(min/m2)], while others have relatively low LV filling pressures (<15 mmHg) and reduced cardiac
+indices. The former patients usually benefit from diuresis, while the latter may respond to volume expansion.
+Hypovolemia
+This is an easily corrected condition that may contribute to the hypotension and vascular collapse associated with
+STEMI in some patients. It may be secondary to previous diuretic use, to reduced fluid intake during the early
+stages of the illness, and/or to vomiting associated with pain or medications. Consequently, hypovolemia should
+be identified and corrected in patients with STEMI and hypotension before more vigorous forms of therapy are
+begun. Central venous pressure reflects RV rather than LV filling pressure and is an inadequate guide for
+adjustment of blood volume, because LV function is almost always affected much more adversely than RV function
+in patients with STEMI. The optimal LV filling or pulmonary artery wedge pressure may vary considerably among
+patients. Each patient's ideal level (generally 20 mmHg) is reached by cautious fluid administration during careful
+monitoring of oxygenation and cardiac output. Eventually, the cardiac output level plateaus, and further increases
+in LV filling pressure only increase congestive symptoms and decrease systemic oxygenation without raising
+arterial pressure.
+Treatment: Congestive Heart Failure
+The management of CHF in association with STEMI is similar to that of acute heart failure secondary to other forms
+of heart disease (avoidance of hypoxemia, diuresis, afterload reduction, inotropic support) (Chap. 234), except that
+the benefits of digitalis administration to patients with STEMI are unimpressive. By contrast, diuretic agents are
+extremely effective, as they diminish pulmonary congestion in the presence of systolic and/or diastolic heart failure.
+LV filling pressure falls and orthopnea and dyspnea improve after the intravenous administration of furosemide or
+other loop diuretics. These drugs should be used with caution, however, as they can result in a massive diuresis
+with associated decreases in plasma volume, cardiac output, systemic blood pressure, and, hence, coronary
+perfusion. Nitrates in various forms may be used to decrease preload and congestive symptoms. Oral isosorbide
+dinitrate, topical nitroglycerin ointment, or intravenous nitroglycerin all have the advantage over a diuretic of
+lowering preload through venodilation without decreasing the total plasma volume. In addition, nitrates may
+improve ventricular compliance if ischemia is present, as ischemia causes an elevation of LV filling pressure.
+Vasodilators must be used with caution to prevent serious hypotension. As noted earlier, ACE inhibitors are an
+ideal class of drugs for management of ventricular dysfunction after STEMI, especially for the long term. (See
+"Inhibition of the Renin-Angiotensin-Aldosterone System" above.)
+Cardiogenic Shock
+Prompt reperfusion, efforts to reduce infarct size and treatment of ongoing ischemia and other complications of MI
+appear to have reduced the incidence of cardiogenic shock from 20% to about 7%. Only 10% of patients with this
+condition present with it on admission, while 90% develop it during hospitalization. Typically, patients who develop
+cardiogenic shock have severe multivessel coronary artery disease with evidence of "piecemeal" necrosis
+extending outward from the original infarct zone. The evaluation and management of cardiogenic shock and
+severe power failure after STEMI are discussed in detail in Chap. 272.
+Right Ventricular Infarction
+Approximately one-third of patients with inferior infarction demonstrate at least a minor degree of RV necrosis. An
+occasional patient with inferoposterior LV infarction also has extensive RV infarction, and rare patients present with
+infarction limited primarily to the RV. Clinically significant RV infarction causes signs of severe RV failure [jugular
+venous distention, Kussmaul's sign, hepatomegaly (Chap. 227)] with or without hypotension. ST-segment
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+20/29
+
+2/4/2015
+elevations of right-sided precordial ECG leads, particularly lead V4R, are frequently present in the first 24 h in
+patients with RV infarction. Two-dimensional echocardiography is helpful in determining the degree of RV
+dysfunction. Catheterization of the right side of the heart often reveals a distinctive hemodynamic pattern
+resembling constrictive pericarditis (steep right atrial "y" descent and an early diastolic dip and plateau in RV
+waveforms) (Chap. 239). Therapy consists of volume expansion to maintain adequate RV preload and efforts to
+improve LV performance with attendant reduction in pulmonary capillary wedge and pulmonary arterial pressures.
+Arrhythmias
+(See also Chaps. 232 and 233) The incidence of arrhythmias after STEMI is higher in patients seen early after the
+onset of symptoms. The mechanisms responsible for infarction-related arrhythmias include autonomic nervous
+system imbalance, electrolyte disturbances, ischemia, and slowed conduction in zones of ischemic myocardium.
+An arrhythmia can usually be managed successfully if trained personnel and appropriate equipment are available
+when it develops. Since most deaths from arrhythmia occur during the first few hours after infarction, the
+effectiveness of treatment relates directly to the speed with which patients come under medical observation. The
+prompt management of arrhythmias constitutes a significant advance in the treatment of STEMI.
+Ventricular Premature Beats
+Infrequent, sporadic ventricular premature depolarizations occur in almost all patients with STEMI and do not
+require therapy. Whereas in the past, frequent, multifocal, or early diastolic ventricular extrasystoles (so-called
+warning arrhythmias) were routinely treated with antiarrhythmic drugs to reduce the risk of development of
+ventricular tachycardia and ventricular fibrillation, pharmacologic therapy is now reserved for patients with
+sustained ventricular arrhythmias. Prophylactic antiarrhythmic therapy (either intravenous lidocaine early or oral
+agents later) is contraindicated for ventricular premature beats in the absence of clinically important ventricular
+tachyarrhythmias, as such therapy may actually increase the mortality rate. Beta-adrenoceptor blocking agents are
+effective in abolishing ventricular ectopic activity in patients with STEMI and in the prevention of ventricular
+fibrillation. As described above (see "Beta-Adrenoceptor Blockers"), they should be used routinely in patients
+without contraindications. In addition, hypokalemia and hypomagnesemia are risk factors for ventricular fibrillation
+in patients with STEMI; to reduce the risk, the serum potassium concentration should be adjusted to approximately
+4.5 mmol/L and magnesium to about 2.0 mmol/L.
+Ventricular Tachycardia and Fibrillation
+Within the first 24 h of STEMI, ventricular tachycardia and fibrillation can occur without prior warning arrhythmias.
+The occurrence of ventricular fibrillation can be reduced by prophylactic administration of intravenous lidocaine.
+However, prophylactic use of lidocaine has not been shown to reduce overall mortality from STEMI. In fact, in
+addition to causing possible noncardiac complications, lidocaine may predispose to an excess risk of bradycardia
+and asystole. For these reasons, and with earlier treatment of active ischemia, more frequent use of beta-blocking
+agents, and the nearly universal success of electrical cardioversion or defibrillation, routine prophylactic
+antiarrhythmic drug therapyis no longer recommended.
+Sustained ventricular tachycardia that is well tolerated hemodynamically should be treated with an intravenous
+regimen of amiodarone (bolus of 150 mg over 10 min, followed by infusion of 1.0 mg/min for 6 h and then 0.5
+mg/min) or procainamide (bolus of 15 mg/kg over 2030 min; infusion of 14 mg/min); if it does not stop promptly,
+electroversion should be used (Chap. 233). An unsynchronized discharge of 200300 J (monophasic wave form;
+approximately 50% of these energies with biphasic wave forms) is used immediately in patients with ventricular
+fibrillation or when ventricular tachycardia causes hemodynamic deterioration. Ventricular tachycardia or fibrillation
+that is refractory to electroshock may be more responsive after the patient is treated with epinephrine (1 mg
+intravenously or 10 mL of a 1:10,000 solution via the intracardiac route) or amiodarone (a 75150-mg bolus).
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+21/29
+
+2/4/2015
+Ventricular arrhythmias, including the unusual form of ventricular tachycardia known as torsades des pointes
+(Chap. 233), may occur in patients with STEMI as a consequence of other concurrent problems (such as hypoxia,
+hypokalemia, or other electrolyte disturbances) or of the toxic effects of an agent being administered to the patient
+(such as digoxin or quinidine). A search for such secondary causes should always be undertaken.
+Although the in-hospital mortality rate is increased, the long-term survival is excellent in patients who survive to
+hospital discharge after primary ventricular fibrillation; i.e., ventricular fibrillation that is a primary response to acute
+ischemia that occurs during the first 48 h and is not associated with predisposing factors such as CHF, shock,
+bundle branch block, or ventricular aneurysm. This result is in sharp contrast to the poor prognosis for patients
+who develop ventricular fibrillation secondary to severe pump failure. For patients who develop ventricular
+tachycardia or ventricular fibrillation late in their hospital course (i.e., after the first 48 h), the mortality rate is
+increased both in-hospital and during long-term follow-up. Such patients should be considered for
+electrophysiologic study and implantation of a cardioverter/defibrillator (ICD) (Chap. 233). A more challenging issue
+is the prevention of sudden cardiac death from ventricular fibrillation late after STEMI in patients who have not
+exhibited sustained ventricular tachyarrhythmias during their index hospitalization. An algorithm for selection of
+patients who warrant prophylactic implantation of an ICD is shown in Fig. 245-6.
+FIGURE 245-6
+
+Algorithm for assessment of need for implantation of a cardioverter/defibrillator. The appropriate
+management is selected based upon measurement of left ventricular ejection fraction and assessment of the
+NYHA functional class. Patients with depressed left ventricular function at least 40 days post-STEMI are referred
+for insertion of an implantable cardioverter/defibrillator (ICD) if the LVEF is <3040% and they are in NYHA class II
+III or if the LVEF is <3035% and they are in NYHA class I functional status. Patients with preserved left ventricular
+function (LVEF >40%) do not receive an ICD regardless of NYHA functional class. All patients are treated with
+medical therapy post-STEMI. [Adapted from data contained in Zipes DP, et al: ACC/AHA/ESC 2006 guidelines for
+management of patients with ventricular arrhythmias and the prevention of sudden cardiac death; a report of the
+American College of Cardiology/American Heart Association Task Force and the European Society of Cardiology
+Committee for Practice Guidelines (Writing Committee to Develop Guidelines for Management of Patients with
+Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death). J Am Coll Cardiol 48:1064, 2006.]
+Accelerated Idioventricular Rhythm
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+22/29
+
+2/4/2015
+Accelerated idioventricular rhythm (AIVR, "slow ventricular tachycardia"), a ventricular rhythm with a rate of 60100
+bpm, often occurs transiently during fibrinolytic therapy at the time of reperfusion. For the most part, AIVR, whether
+it occurs in association with fibrinolytic therapy or spontaneously, is benign and does not presage the development
+of classic ventricular tachycardia. Most episodes of AIVR do not require treatment if the patient is monitored
+carefully, as degeneration into a more serious arrhythmia is rare.
+Supraventricular Arrhythmias
+Sinus tachycardia is the most common supraventricular arrhythmia. If it occurs secondary to another cause (such
+as anemia, fever, heart failure, or a metabolic derangement), the primary problem should be treated first. However,
+if it appears to be due to sympathetic overstimulation (e.g., as part of a hyperdynamic state), then treatment with a
+beta blocker is indicated. Other common arrhythmias in this group are atrial flutter and atrial fibrillation, which are
+often secondary to LV failure. Digoxin is usually the treatment of choice for supraventricular arrhythmias if heart
+failure is present. If heart failure is absent, beta blockers, verapamil, or diltiazem are suitable alternatives for
+controlling the ventricular rate, as they may also help to control ischemia. If the abnormal rhythm persists for >2 h
+with a ventricular rate >120 bpm, or if tachycardia induces heart failure, shock, or ischemia (as manifested by
+recurrent pain or ECG changes), a synchronized electroshock (100200 J monophasic wave form) should be used.
+Accelerated junctional rhythms have diverse causes but may occur in patients with inferoposterior infarction.
+Digitalis excess must be ruled out. In some patients with severely compromised LV function, the loss of
+appropriately timed atrial systole results in a marked reduction of cardiac output. Right atrial or coronary sinus
+pacing is indicated in such instances.
+Sinus Bradycardia
+Treatment of sinus bradycardia is indicated if hemodynamic compromise results from the slow heart rate. Atropine
+is the most useful drug for increasing heart rate and should be given intravenously in doses of 0.5 mg initially. If the
+rate remains <5060 bpm, additional doses of 0.2 mg, up to a total of 2.0 mg, may be given. Persistent
+bradycardia (<40 bpm) despite atropine may be treated with electrical pacing. Isoproterenol should be avoided.
+Atrioventricular and Intraventricular Conduction Disturbances
+(See also Chap. 232) Both the in-hospital mortality rate and the post-discharge mortality rate of patients who have
+complete atrioventricular (AV) block in association with anterior infarction are markedly higher than those of
+patients who develop AV block with inferior infarction. This difference is related to the fact that heart block in
+inferior infarction is commonly a result of increased vagal tone and/or the release of adenosine and therefore is
+transient. In anterior wall infarction, however, heart block is usually related to ischemic malfunction of the
+conduction system, which is commonly associated with extensive myocardial necrosis.
+Temporary electrical pacing provides an effective means of increasing the heart rate of patients with bradycardia
+due to AV block. However, acceleration of the heart rate may have only a limited impact on prognosis in patients
+with anterior wall infarction and complete heart block in whom the large size of the infarct is the major factor
+determining outcome. It should be carried out if it improves hemodynamics. Pacing does appear to be beneficial in
+patients with inferoposterior infarction who have complete heart block associated with heart failure, hypotension,
+marked bradycardia, or significant ventricular ectopic activity. A subgroup of these patients, those with RV
+infarction, often respond poorly to ventricular pacing because of the loss of the atrial contribution to ventricular
+filling. In such patients, dual-chamber AV sequential pacing may be required.
+External noninvasive pacing electrodes should be positioned in a "demand" mode for patients with sinus
+bradycardia (rate <50 bpm) that is unresponsive to drug therapy, Mobitz II second-degree AV block, third-degree
+heart block, or bilateral bundle branch block (e.g., right bundle branch block plus left anterior fascicular block).
+Retrospective studies suggest that permanent pacing may reduce the long-term risk of sudden death due to
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+23/29
+
+2/4/2015
+bradyarrhythmias in the rare patient who develops combined persistent bifascicular and transient third-degree
+heart block during the acute phase of MI.
+Other Complications
+Recurrent Chest Discomfort
+Recurrent angina develops in 25% of patients hospitalized for STEMI. This percentage is even higher in patients
+who undergo successful fibrinolysis. Because recurrent or persistent ischemia often heralds extension of the
+original infarct or reinfarction in a new myocardial zone and is associated with a near tripling of mortality after
+STEMI, patients with these symptoms should be referred for prompt coronary arteriography and mechanical
+revascularization. Repeat administration of a fibrinolytic agent is an alternative to early mechanical
+revascularization.
+Pericarditis
+(See also Chap. 239) Pericardial friction rubs and/or pericardial pain are frequently encountered in patients with
+STEMI involving the epicardium. This complication can usually be managed with aspirin (650 mg 4 times daily). It is
+important to diagnose the chest pain of pericarditis accurately, because failure to recognize it may lead to the
+erroneous diagnosis of recurrent ischemic pain and/or infarct extension, with resulting inappropriate use of
+anticoagulants, nitrates, beta blockers, or coronary arteriography. When it occurs, complaints of pain radiating to
+either trapezius muscle is helpful, because such a pattern of discomfort is typical of pericarditis but rarely occurs
+with ischemic discomfort. Anticoagulants potentially could cause tamponade in the presence of acute pericarditis
+(as manifested by either pain or persistent rub) and therefore should not be used unless there is a compelling
+indication.
+Thromboembolism
+Clinically apparent thromboembolism complicates STEMI in 10% of cases, but embolic lesions are found in 20%
+of patients in necropsy series, suggesting that thromboembolism is often clinically silent. Thromboembolism is
+considered to be an important contributing cause of death in 25% of patients with STEMI who die after admission
+to the hospital. Arterial emboli originate from LV mural thrombi, while most pulmonary emboli arise in the leg veins.
+Thromboembolism typically occurs in association with large infarcts (especially anterior), CHF, and a LV thrombus
+detected by echocardiography. The incidence of arterial embolism from a clot originating in the ventricle at the site
+of an infarction is small but real. Two-dimensional echocardiography reveals LV thrombi in about one-third of
+patients with anterior wall infarction but in few patients with inferior or posterior infarction. Arterial embolism often
+presents as a major complication, such as hemiparesis when the cerebral circulation is involved or hypertension if
+the renal circulation is compromised. When a thrombus has been clearly demonstrated by echocardiographic or
+other techniques or when a large area of regional wall motion abnormality is seen even in the absence of a
+detectable mural thrombus, systemic anticoagulation should be undertaken (in the absence of contraindications),
+as the incidence of embolic complications appears to be markedly lowered by such therapy. The appropriate
+duration of therapy is unknown, but 36 months is probably prudent.
+Left Ventricular Aneurysm
+The term ventricular aneurysm is usually used to describe dyskinesis or local expansile paradoxical wall motion.
+Normally functioning myocardial fibers must shorten more if stroke volume and cardiac output are to be
+maintained in patients with ventricular aneurysm; if they cannot, overall ventricular function is impaired. True
+aneurysms are composed of scar tissue and neither predispose to nor are associated with cardiac rupture.
+The complications of LV aneurysm do not usually occur for weeks to months after STEMI; they include CHF,
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+24/29
+
+2/4/2015
+arterial embolism, and ventricular arrhythmias. Apical aneurysms are the most common and the most easily
+detected by clinical examination. The physical finding of greatest value is a double, diffuse, or displaced apical
+impulse. Ventricular aneurysms are readily detected by two-dimensional echocardiography, which may also reveal
+a mural thrombus in an aneurysm.
+Rarely, myocardial rupture may be contained by a local area of pericardium, along with organizing thrombus and
+hematoma. Over time, this pseudoaneurysm enlarges, maintaining communication with the LV cavity through a
+narrow neck. Because a pseudoaneurysm often ruptures spontaneously, it should be surgically repaired if
+recognized.
+Postinfarction Risk Stratication and Management
+Many clinical and laboratory factors have been identified that are associated with an increase in cardiovascular risk
+after initial recovery from STEMI. Some of the most important factors include persistent ischemia (spontaneous or
+provoked), depressed LV ejection fraction (<40%), rales above the lung bases on physical examination or
+congestion on chest radiograph, and symptomatic ventricular arrhythmias. Other features associated with
+increased risk include a history of previous MI, age >75, diabetes mellitus, prolonged sinus tachycardia,
+hypotension, ST-segment changes at rest without angina ("silent ischemia"), an abnormal signal-averaged ECG,
+nonpatency of the infarct-related coronary artery (if angiography is undertaken), and persistent advanced heart
+block or a new intraventricular conduction abnormality on the ECG. Therapy must be individualized on the basis of
+the relative importance of the risk(s) present.
+The goal of preventing reinfarction and death after recovery from STEMI has led to strategies to evaluate risk after
+infarction. In stable patients, submaximal exercise stress testing may be carried out before hospital discharge to
+detect residual ischemia and ventricular ectopy and to provide the patient with a guideline for exercise in the early
+recovery period. Alternatively, or in addition, a maximal (symptom-limited) exercise stress test may be carried out
+46 weeks after infarction. Evaluation of LV function is usually warranted as well. Recognition of a depressed LV
+ejection fraction by echocardiography or radionuclide ventriculography identifies patients who should receive
+medications to inhibit the renin-angiotensin-aldosterone system. Patients in whom angina is induced at relatively
+low workloads, those who have a large reversible defect on perfusion imaging or a depressed ejection fraction,
+those with demonstrable ischemia, and those in whom exercise provokes symptomatic ventricular arrhythmias
+should be considered at high risk for recurrent MI or death from arrhythmia (Fig. 245-6). Cardiac catheterization
+with coronary angiography and/or invasive electrophysiologic evaluation is advised.
+Exercise tests also aid in formulating an individualized exercise prescription, which can be much more vigorous in
+patients who tolerate exercise without any of the above-mentioned adverse signs. In addition, predischarge stress
+testing may provide an important psychological benefit, building the patient's confidence by demonstrating a
+reasonable exercise tolerance.
+In many hospitals, a cardiac rehabilitation program with progressive exercise is initiated in the hospital and
+continued after discharge. Ideally, such programs should include an educational component that informs patients
+about their disease and its risk factors.
+The usual duration of hospitalization for an uncomplicated STEMI is about 5 days. The remainder of the
+convalescent phase may be accomplished at home. During the first 12 weeks, the patient should be encouraged
+to increase activity by walking about the house and outdoors in good weather. Normal sexual activity may be
+resumed during this period. After 2 weeks, the physician must regulate the patient's activity on the basis of
+exercise tolerance. Most patients will be able to return to work within 24 weeks.
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+25/29
+
+2/4/2015
+
+Secondary Prevention
+Various secondary preventive measures are at least partly responsible for the improvement in the long-term
+mortality and morbidity rates after STEMI. Long-term treatment with an antiplatelet agent (usually aspirin) after
+STEMI is associated with a 25% reduction in the risk of recurrent infarction, stroke, or cardiovascular mortality (36
+fewer events for every 1000 patients treated). An alternative antiplatelet agent that may be used for secondary
+prevention in patients intolerant of aspirin is clopidogrel (75 mg orally daily). ACE inhibitors or ARBs and, in
+appropriate patients, aldosterone antagonists should be used indefinitely by patients with clinically evident heart
+failure, a moderate decrease in global ejection fraction, or a large regional wall motion abnormality to prevent late
+ventricular remodeling and recurrent ischemic events.
+The chronic routine use of oral beta-adrenoceptor blockers for at least two years after STEMI is supported by well-
+conducted, placebo-controlled trials.
+Evidence suggests that warfarin lowers the risk of late mortality and the incidence of reinfarction after STEMI. Most
+physicians prescribe aspirin routinely for all patients without contraindications and add warfarin for patients at
+increased risk of embolism (see "Thromboembolism" above). Several studies suggest that in patients <75 years a
+low dose of aspirin (7581 mg/d) in combination with warfarin administered to achieve an INR>2.0 is more
+effective than aspirin alone for preventing recurrent MI and embolic cerebrovascular accident. However, there is an
+increased risk of bleeding and a high rate of discontinuation of warfarin that has limited clinical acceptance of
+combination antithrombotic therapy. There is increased risk of bleeding when warfarin is added to dual antiplatelet
+therapy (aspirin and clopidogrel). However, patients who have had a stent implanted and have an indication for
+anticoagulation should receive dual antiplatelet therapies in combination with warfarin. Such patients should also
+receive a proton pump inhibitor to minimize the risk of gastrointestinal bleeding and should have regular monitoring
+of their hemoglobin levels and stool hematest while on combination antithrombotic therapy.
+Finally, risk factors for atherosclerosis (Chap. 224) should be discussed with the patient, and, when possible,
+favorably modified.
+Further Readings
+Antman EM: ST-Elevation Myocardial Infarction: Management, in: P Libby, RO Bonow, DL Mann, DP Zipes (eds)
+Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine, 8th ed, Philadelphia, Saunders Elsevier, 2008,
+pp 12331299 
+: Time is muscle: Translation into practice. J Am Coll Cardiol 52:1216, 2008 
+Braunwald E, Antman EM: ST-Elevation Myocardial Infarction: Pathology, Pathophysiology, and Clinical Features in
+P Libby, RO Bonow, DL Mann, DP Zipes (eds) Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine,
+8th ed, Philadelphia, Saunders Elsevier, 2008, pp 12071232 
+Jacobs AK et al: Development of systems of care for ST-elevation myocardial infarction patients: executive
+summary. Circulation 116:217, 2007  [PubMed: 17538045] 
+Kushner FG et al: 2009 Focused Updates: ACC/AHA Guidelines for the Management of Patients With ST-Elevation
+Myocardial Infarction (updating the 2004 Guideline and 2007 Focused Update) and ACC/AHA/SCAI Guidelines on
+Percutaneous Coronary Intervention (updating the 2005 Guideline and 2007 Focused Update): A report of the
+American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines.
+Circulation 120:2271, 2009  [PubMed: 19923169] 
+Lloyd-Jones D et al: Heart disease and stroke statistics2009 update: A report from the American Heart
+Association Statistics Committee and Stroke Statistics Subcommittee. Circulation 119:e21, 2009 
+Mehran R et al: Bivalirudin in patients undergoing Primary angioplasty for acute myocardial infarction (HORIZONS-
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+26/29
+
+2/4/2015
+AMI): 1-year results of a randomised controlled trial. Lancet 374:1149, 2009  [PubMed: 19717185] 
+White HD, Chew DP: Acute myocardial infarction. Lancet 372:570, 2008  [PubMed: 18707987] 
+Wiviott SD et al: Prasugrel versus clopidogrel in patients with acute coronary syndromes. N Engl J Med 357:2001,
+2007  [PubMed: 17982182] 
+
+Copyright © McGraw-Hill Global Education Holdings, LLC.
+
+All rights reserved.
+
+Your IP address is 146.203.126.89
+
+Acute coronary syndromes. Following disruption of a vulnerable plaque, patients experience ischemic discomfort
+resulting from a reduction of flow through the affected epicardial coronary artery. The flow reduction may be
+caused by a completely occlusive thrombus (right) or subtotally occlusive thrombus (left). Patients with ischemic
+discomfort may present with or without ST-segment elevation. Of patients with ST-segment elevation, the majority
+(wide red arrow) ultimately develop a Q wave on the ECG (QwMI), while a minority (thin red arrow) do not develop
+Q wave and, in older literature, were said to have sustained a non-Q-wave MI (NQMI). Patients who present
+without ST-segment elevation are suffering from either unstable angina or a non-ST-segment elevation MI
+(NSTEMI) (wide green arrows), a distinction that is ultimately made on the presence or absence of a serum cardiac
+marker such as CKMB or a cardiac troponin detected in the blood. The majority of patients presenting with
+NSTEMI do not develop a Q wave on the ECG; a minority develop a QwMI (thin green arrow). (Adapted from CW
+Hamm et al: Lancet 358:1533, 2001, and MJ Davies: Heart 83:361, 2000; with permission from the BMJ Publishing
+Group.)
+The zone of necrosing myocardium is shown at the top of the figure, followed in the middle portion of the figure by
+a diagram of a cardiomyocyte that is in the process of releasing biomarkers. The biomarkers that are released into
+the interstitium are first cleared by lymphatics followed subsequently by spillover into the venous system. After
+disruption of the sarcolemmal membrane of the cardiomyocyte, the cytoplasmic pool of biomarkers is released first
+(left-most arrow in bottom portion of figure). Markers such as myoglobin and CK isoforms are rapidly released, and
+blood levels rise quickly above the cutoff limit; this is then followed by a more protracted release of biomarkers
+from the disintegrating myofilaments that may continue for several days. Cardiac troponin levels rise to about 20 to
+50 times the upper reference limit (the 99th percentile of values in a reference control group) in patients who have a
+"classic" acute myocardial infarction (MI) and sustain sufficient myocardial necrosis to result in abnormally elevated
+levels of the MB fraction of creatine kinase (CKMB). Clinicians can now diagnose episodes of microinfarction by
+sensitive assays that detect cardiac troponin elevations above the upper reference limit, even though CKMB levels
+may still be in the normal reference range (not shown). CV = coefficient of variation. (Modified from Antman EM:
+Decision making with cardiac troponin tests. N Engl J Med 346:2079, 2002 and Jaffe AS, Babiun L, Apple FS:
+Biomarkers in acute cardiac disease: The present and the future. J Am Coll Cardiol 48:1, 2006.)
+Major components of time delay between onset of symptoms from STEMI and restoration of flow in the
+infarct-related artery. Plotted sequentially from left to right are the times for patients to recognize symptoms and
+seek medical attention, transportation to the hospital, in-hospital decision making, implementation of reperfusion
+strategy, and restoration of flow once the reperfusion strategy has been initiated. The time to initiate fibrinolytic
+therapy is the "door-to-needle" (D-N) time; this is followed by the period of time required for pharmacologic
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+27/29
+
+2/4/2015
+restoration of flow. More time is required to move the patient to the catheterization laboratory for a percutaneous
+coronary interventional (PCI) procedure, referred to as the "door-to-balloon" (D-B) time, but restoration of flow in
+the epicardial infarctrelated artery occurs promptly after PCI. At the bottom is a variety of methods for speeding
+the time to reperfusion along with the goals for the time intervals for the various components of the time delay.
+(Adapted from CP Cannon et al: J Thromb Thrombol 1:27, 1994.)
+Options for transportation of patients with STEMI and initial reperfusion treatment. Patient transported by EMS
+after calling 911: Reperfusion in patients with STEMI can be accomplished by the pharmacologic (fibrinolysis) or
+catheter-based (primary PCI) approaches. Implementation of these strategies varies based on the mode of
+transportation of the patient and capabilities at the receiving hospital. Transport time to the hospital is variable
+from case to case, but the goal is to keep total ischemic time within 120 min. There are three possible scenarios:
+(1) If EMS has fibrinolytic capability and the patient qualifies for therapy, prehospital fibrinolysis should be started
+within 30 min of EMS arrival on scene. (2) If EMS is not capable of administering prehospital fibrinolysis and the
+patient is transported to a non-PCI-capable hospital, the hospital door-to-needle time should be within 30 min for
+patients in whom fibrinolysis is indicated. (3) If EMS is not capable of administering prehospital fibrinolysis and the
+patient is transported to a PCI-capable hospital, the hospital door-to-balloon time should be within 90 min.
+Interhospital transfer: It is also appropriate to consider emergency interhospital transfer of the patient to a PCI-
+capable hospital for mechanical revascularization if: (1) there is a contraindication to fibrinolysis, (2) PCI can be
+initiated promptly (within 90 minutes after the patient presented to the initial receiving hospital or within 60 min
+compared to when fibrinolysis with a fibrin-specific agent could be initiated at the initial receiving hospital), (3)
+fibrinolysis is administered and is unsuccessful (i.e., "rescue PCI"). Secondary nonemergency interhospital transfer
+can be considered for recurrent ischemia. Patient self-transport: Patient self-transportation is discouraged. If the
+patient arrives at a non-PCI-capable hospital, the door-to-needle time should be within 30 min. If the patient
+arrives at a PCI-capable hospital, the door-to-balloon time should be within 90 min. The treatment options and
+time recommended after first hospital arrival are the same. [Adapted with permission from Antman et al: ACC/AHA
+guidelines for the management of patients with ST-elevation myocardial infarction: A report of the American
+College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee to Revise the
+1999 Guidelines for the Management of Patients with Acute Myocardial Infarction). Circulation 110:e82, 2004.]
+Each community and each facility in that community should have an agreed-upon plan for how STEMI patients are
+to be treated that includes which hospitals should receive STEMI patients from EMS units capable of obtaining
+diagnostic ECGs, management at the initial receiving hospital, and written criteria and agreements for expeditious
+transfer of patients from non-PCI-capable facilities. Patients initially seen at a PCI-capable facility (left side of
+diagram) should be sent promptly to the cardiac catheterization laboratory with the intent to perform primary PCI.
+Patients initially seen at a non-PCI-capable facility (right side of diagram) should rapidly be assessed for the
+optimum reperfusion therapy (see box in top right corner for assessment criteria). This may include transfer for
+primary PCI or initial treatment with a fibrinolytic. Following administration of a fibrinolytic, management is dictated
+by the patient's overall risk for death/serious complications of STEMI, and whether or not they experience
+recurrent ischemic symptoms or left-ventricular failure (see the two boxes at the bottom right of diagram). [Adapted
+from Kushner FG et al: 2009 focused update of the ACC/AHA Guidelines for the Management of Patients with ST-
+Elevation Myocardial Infarction (updating the 2004 guideline and 2007 focused update): a report of the American
+College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation
+120:2271, 2009.]
+Algorithm for assessment of need for implantation of a cardioverter/defibrillator. The appropriate
+management is selected based upon measurement of left ventricular ejection fraction and assessment of the
+NYHA functional class. Patients with depressed left ventricular function at least 40 days post-STEMI are referred
+for insertion of an implantable cardioverter/defibrillator (ICD) if the LVEF is <3040% and they are in NYHA class II
+III or if the LVEF is <3035% and they are in NYHA class I functional status. Patients with preserved left ventricular
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+28/29
+
+2/4/2015
+function (LVEF >40%) do not receive an ICD regardless of NYHA functional class. All patients are treated with
+medical therapy post-STEMI. [Adapted from data contained in Zipes DP, et al: ACC/AHA/ESC 2006 guidelines for
+management of patients with ventricular arrhythmias and the prevention of sudden cardiac death; a report of the
+American College of Cardiology/American Heart Association Task Force and the European Society of Cardiology
+Committee for Practice Guidelines (Writing Committee to Develop Guidelines for Management of Patients with
+Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death). J Am Coll Cardiol 48:1064, 2006.]
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727023
+
+29/29
+
+

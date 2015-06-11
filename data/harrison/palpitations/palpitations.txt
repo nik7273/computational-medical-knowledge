@@ -1,0 +1,77 @@
+Harrison's Principles of Internal Medicine, 19e >
+52: Palpitations
+Joseph Loscalzo
+
+INTRODUCTION
+
+Palpitations are extremely common among patients who present to their internists and can best be defined as an
+intermittent thumping, pounding, or fluttering sensation in the chest. This sensation can be either intermittent
+or sustained and either regular or irregular. Most patients interpret palpitations as an unusual awareness of the
+heartbeat and become especially concerned when they sense that they have had skipped or missing
+heartbeats. Palpitations are often noted when the patient is quietly resting, during which time other stimuli are
+minimal. Palpitations that are positional generally reflect a structural process within (e.g., atrial myxoma) or
+adjacent to (e.g., mediastinal mass) the heart.
+
+Palpitations are brought about by cardiac (43%), psychiatric (31%), miscellaneous (10%), and unknown (16%)
+causes, according to one large series. Among the cardiovascular causes are premature atrial and ventricular
+contractions, supraventricular and ventricular arrhythmias, mitral valve prolapse (with or without associated
+arrhythmias), aortic insufficiency, atrial myxoma, and pulmonary embolism. Intermittent palpitations are commonly
+caused by premature atrial or ventricular contractions: the post-extrasystolic beat is sensed by the patient owing to
+the increase in ventricular end-diastolic dimension following the pause in the cardiac cycle and the increased
+strength of contraction (post-extrasystolic potentiation) of that beat. Regular, sustained palpitations can be caused
+by regular supraventricular and ventricular tachycardias. Irregular, sustained palpitations can be caused by atrial
+fibrillation. It is important to note that most arrhythmias are not associated with palpitations. In those that are, it is
+often useful either to ask the patient to tap out the rhythm of the palpitations or to take his/her pulse during
+palpitations. In general, hyperdynamic cardiovascular states caused by catecholaminergic stimulation from
+exercise, stress, or pheochromocytoma can lead to palpitations. Palpitations are common among athletes,
+especially older endurance athletes. In addition, the enlarged ventricle of aortic regurgitation and accompanying
+hyperdynamic precordium frequently lead to the sensation of palpitations. Other factors that enhance the strength
+of myocardial contraction, including tobacco, caffeine, aminophylline, atropine, thyroxine, cocaine, and
+amphetamines, can cause palpitations.
+
+Psychiatric causes of palpitations include panic attacks or disorders, anxiety states, and somatization, alone or in
+combination. Patients with psychiatric causes for palpitations more commonly report a longer duration of the
+sensation (>15 min) and other accompanying symptoms than do patients with other causes. Among the
+miscellaneous causes of palpitations are thyrotoxicosis, drugs (see above) and ethanol, spontaneous skeletal
+muscle contractions of the chest wall, pheochromocytoma, and systemic mastocytosis.
+
+APPROACH TO THE PATIENT: Palpitations
+
+The principal goal in assessing patients with palpitations is to determine whether the symptom is caused by a life-
+threatening arrhythmia. Patients with preexisting coronary artery disease (CAD) or risk factors for CAD are at
+greatest risk for ventricular arrhythmias (Chap. 276) as a cause for palpitations. In addition, the association of
+palpitations with other symptoms suggesting hemodynamic compromise, including syncope or lightheadedness,
+supports this diagnosis. Palpitations caused by sustained tachyarrhythmias in patients with CAD can be
+accompanied by angina pectoris or dyspnea, and, in patients with ventricular dysfunction (systolic or diastolic),
+aortic stenosis, hypertrophic cardiomyopathy, or mitral stenosis (with or without CAD), can be accompanied by
+
+dyspnea from increased left atrial and pulmonary venous pressure.
+
+Key features of the physical examination that will help confirm or refute the presence of an arrhythmia as a cause
+for palpitations (as well as its adverse hemodynamic consequences) include measurement of the vital signs,
+assessment of the jugular venous pressure and pulse, and auscultation of the chest and precordium. A resting
+electrocardiogram can be used to document the arrhythmia. If exertion is known to induce the arrhythmia and
+accompanying palpitations, exercise electrocardiography can be used to make the diagnosis. If the arrhythmia is
+sufficiently infrequent, other methods must be used, including continuous electrocardiographic (Holter) monitoring;
+telephonic monitoring, through which the patient can transmit an electrocardiographic tracing during a sensed
+episode; loop recordings (external or implantable), which can capture the electrocardiographic event for later
+review; and mobile cardiac outpatient telemetry. Data suggest that Holter monitoring is of limited clinical utility,
+while the implantable loop recorder and mobile cardiac outpatient telemetry are safe and possibly more cost-
+effective in the assessment of patients with (infrequent) recurrent, unexplained palpitations.
+
+Most patients with palpitations do not have serious arrhythmias or underlying structural heart disease. If sufficiently
+troubling to the patient, occasional benign atrial or ventricular premature contractions can often be managed with
+beta-blocker therapy. Palpitations incited by alcohol, tobacco, or illicit drugs need to be managed by abstention,
+while those caused by pharmacologic agents should be addressed by considering alternative therapies when
+appropriate or possible. Psychiatric causes of palpitations may benefit from cognitive therapy or pharmacotherapy.
+The physician should note that palpitations are at the very least bothersome and, on occasion, frightening to the
+patient. Once serious causes for the symptom have been excluded, the patient should be reassured that the
+palpitations will not adversely affect prognosis.
+
+Copyright © McGraw-Hill Global Education Holdings, LLC.
+
+All rights reserved.
+
+Your IP address is 146.203.126.93
+
+

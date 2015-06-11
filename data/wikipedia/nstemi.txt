@@ -1,0 +1,609 @@
+2/4/2015
+
+Myocardial Infarction
+Christopher P. Cannon; Eugene Braunwald
+
+Harrison's Principles of Internal Medicine, 18e >
+Chapter 244. Unstable Angina and
+Non-ST-Segment Elevation
+
+Unstable Angina and INon-ST-Segment Elevation Myocardial
+Infarction: Introduction
+Patients with ischemic heart disease fall into two large groups: patients with chronic coronary artery disease (CAD)
+who most commonly present with stable angina (Chap. 243) and patients with acute coronary syndromes (ACSs).
+The latter group, in turn, is composed of patients with acute myocardial infarction (MI) with ST-segment elevation
+on their presenting electrocardiogram (ECG) (STEMI; Chap. 245) and those with unstable angina (UA) and non-ST-
+segment elevation MI (UA/NSTEMI; Fig. 245-1). Every year in the United States, approximately 1 million patients
+are admitted to hospitals with UA/NSTEMI as compared with 300,000 patients with acute STEMI. The relative
+incidence of UA/NSTEMI compared to STEMI appears to be increasing. More than one-third of patients with
+UA/NSTEMI are women, while less than one-fourth of patients with STEMI are women.
+Denition
+The diagnosis of UA is based largely on the clinical presentation. Stable angina pectoris is characterized by chest
+or arm discomfort that may not be described as pain but is reproducibly associated with physical exertion or stress
+and is relieved within 510 minutes by rest and/or sublingual nitroglycerin (Chaps. 12 and 343). UA is defined as
+angina pectoris or equivalent ischemic discomfort with at least one of three features: (1) it occurs at rest (or with
+minimal exertion), usually lasting >10 minutes; (2) it is severe and of new onset (i.e., within the prior 46 weeks);
+and/or (3) it occurs with a crescendo pattern (i.e., distinctly more severe, prolonged, or frequent than previously).
+The diagnosis of NSTEMI is established if a patient with the clinical features of UA develops evidence of
+myocardial necrosis, as reflected in elevated cardiac biomarkers.
+Pathophysiology
+UA/NSTEMI is most commonly caused by a reduction in oxygen supply and/or by an increase in myocardial
+oxygen demand superimposed on a lesion that causes coronary arterial obstruction, usually an atherothrombotic
+coronary plaque. Four pathophysiologic processes that may contribute to the development of UA/NSTEMI have
+been identified: (1) plaque rupture or erosion with a superimposed nonocclusive thrombus, believed to be the most
+common cause; in such patients, NSTEMI may occur with downstream embolization of platelet aggregates and/or
+atherosclerotic debris; (2) dynamic obstruction [e.g., coronary spasm, as in Prinzmetal's variant angina (PVA) (p.
+2020)]; (3) progressive mechanical obstruction [e.g., rapidly advancing coronary atherosclerosis or restenosis
+following percutaneous coronary intervention (PCI)]; and (4) UA secondary to increased myocardial oxygen
+demand and/or decreased supply (e.g., tachycardia, anemia). More than one of these processes may be involved.
+Among patients with UA/NSTEMI studied at angiography, approximately 5% have stenosis of the left main
+coronary artery, 15% have three-vessel CAD, 30% have two-vessel disease, 40% have single-vessel disease, and
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+1/14
+
+2/4/2015
+10% have no apparent critical epicardial coronary artery stenosis; some of the latter may have obstruction of the
+coronary microcirculation. The "culprit lesion" may show an eccentric stenosis with scalloped or overhanging
+edges and a narrow neck on angiography. Angioscopy has been reported to show "white" (platelet-rich) thrombi,
+as opposed to "red" (fibrin- and cell-rich) thrombi; the latter are more often seen in patients with acute STEMI.
+Patients with UA/NSTEMI frequently have multiple plaques at risk of disruption (vulnerable plaques).
+Clinical Presentation
+History and Physical Examination
+The clinical hallmark of UA/NSTEMI is chest pain, typically located in the substernal region or sometimes in the
+epigastrium, that radiates to the neck, left shoulder, and/or the left arm (Chap. 12). This discomfort is usually
+severe enough to be described as frank pain. Anginal "equivalents" such as dyspnea and epigastric discomfort
+may also occur, and these appear to be more frequent in women. The physical examination resembles that in
+patients with stable angina (Chap. 243) and may be unremarkable. If the patient has a large area of myocardial
+ischemia or a large NSTEMI, the physical findings can include diaphoresis; pale, cool skin; sinus tachycardia; a
+third and/or fourth heart sound; basilar rales; and, sometimes, hypotension, resembling the findings of large
+STEMI.
+Electrocardiogram
+In UA, ST-segment depression, transient ST-segment elevation, and/or T-wave inversion occur in 30 to 50% of
+patients. In patients with the clinical features of UA, the presence of new ST-segment deviation, even of only 0.05
+mV, is an important predictor of adverse outcome. T-wave changes are sensitive for ischemia but less specific,
+unless they are new, deep T-wave inversions (0.3 mV).
+Cardiac Biomarkers
+Patients with UA/NSTEMI who have elevated biomarkers of necrosis, such as CK-MB and troponin (a much more
+specific and sensitive marker of myocardial necrosis), are at increased risk for death or recurrent MI. Elevated
+levels of these markers distinguish patients with NSTEMI from those with UA. There is a direct relationship
+between the degree of troponin elevation and mortality. However, in patients without a clear clinical history of
+myocardial ischemia, minor troponin elevations have been reported and can be caused by congestive heart failure
+(CHF), myocarditis, or pulmonary embolism, or they may be false-positive readings. Thus, in patients with an
+unclear history, small troponin elevations may not be diagnostic of an ACS.
+Diagnostic Evaluation
+(See also Chap. 12) Approximately six million persons per year in the United States present to hospital emergency
+departments (EDs) with a complaint of chest pain or other symptoms suggestive of ACS. A diagnosis of an ACS is
+established in 20 to 25% of such patients. The first step in evaluating patients with possible UA/NSTEMI is to
+determine the likelihood that CAD is the cause of the presenting symptoms. The American College of
+Cardiology/American Heart Association (ACC/AHA) Guidelines include, among the factors associated with a high
+likelihood of ACS, a prior history typical of stable angina, a history of established CAD by angiography, prior MI,
+CHF, new ECG changes, or elevated cardiac biomarkers.
+Diagnostic Pathways
+Four major diagnostic tools are used in the diagnosis of UA/NSTEMI in the ED: clinical history, the ECG, cardiac
+markers, and stress testing (coronary imaging is an emerging option). The goals are to: (1) recognize or exclude MI
+(using cardiac markers), (2) evaluate for rest ischemia (using serial or continuous ECGs), and (3) evaluate for
+significant CAD (using provocative stress testing). Patients with a low likelihood of ischemia are usually managed
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+2/14
+
+2/4/2015
+with an ED-based critical pathway (which, in some institutions, is carried out in a "chest-pain unit" Fig. 244-1).
+Evaluation of such patients includes clinical monitoring for recurrent ischemic discomfort, serial ECGs, and cardiac
+markers, typically obtained at baseline and at 46 h and 12 h after presentation. If new elevations in cardiac
+markers or ECG changes are noted, the patient should be admitted to the hospital. If the patient remains pain free
+and the markers are negative, the patient may proceed to stress testing. CT angiography is used with increasing
+frequency to exclude obstructive CAD (Chap. 229).
+FIGURE 244-1
+
+Algorithm for risk stratification and treatment of patients with suspected coronary artery disease. Using the clinical
+history of the type of pain and medical history, the ECG, and cardiac markers, one can identify patients who have a
+low likelihood of UA/NSTEMI, for whom a diagnostic "ruleout myocardial infarction (MI) or acute coronary
+syndrome (ACS)" is warranted. If this is negative, the patient may be discharged, but if positive, the patient is
+admitted and treated for UA/NSTEMI. On the other end of the spectrum, patients with acute ongoing pain and ST-
+segment elevation are treated with percutaneous coronary intervention (PCI) or fibrinolysis (Chap. 245). For those
+with UA/NSTEMI, risk stratification is used to identify patients at medium to high risk, for whom an early invasive
+strategy is warranted. Antithrombotic therapy should include aspirin, an anticoagulant, an ADP antagonist
+(clopidogrel or prasugrel), with GP IIb/IIIa inhibition considered for use during PCI. For patients at low risk,
+treatment with aspirin, clopidogrel, an anticoagulant such as unfractionated or low molecularweight heparin
+(LMWH) or fondaparinux and anti-ischemic therapy with beta blockers and nitrates, and a conservative strategy are
+indicated. ASA, aspirin; DM, diabetes mellitus; ECG, electrocardiogram; MI, myocardial infarction; Rx, treatment;
+STEMI, ST-segment elevation myocardial infarction. (Adapted from CP Cannon, E Braunwald, in Braunwald's Heart
+Disease: A Textbook of Cardiovascular Medicine, 9th ed, R Bonow et al (eds). Philadelphia, Saunders, 2011.)
+Risk Stratication and Prognosis
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+3/14
+
+2/4/2015
+Patients with documented UA/NSTEMI exhibit a wide spectrum of early (30 days) risk of death, ranging from 1 to
+10%, and of new or recurrent infarction of 35% or recurrent ACS (5-15%). Assessment of risk can be
+accomplished by clinical risk scoring systems such as that developed from the Thrombolysis in Myocardial
+Infarction (TIMI) Trials, which includes seven independent risk factors: age  65 years, three or more risk factors for
+CAD, documented CAD at catheterization, development of UA/NSTEMI while on aspirin, more than two episodes
+of angina within the preceding 24 h, ST deviation 0.5 mm, and an elevated cardiac marker (Fig. 244-2). Other risk
+factors include diabetes mellitus, left ventricular dysfunction, renal dysfunction and elevated levels of brain
+natriuretic peptides and C-reactive protein. Multimarker strategies involving several biomarkers are now gaining
+favor, both to define more fully the pathophysiologic mechanisms underlying a given patient's presentation and to
+stratify the patient's risk further. Early risk assessment (especially using troponin, ST-segment changes, and/or a
+global risk-scoring system) is useful both in predicting the risk of recurrent cardiac events and in identifying those
+patients who would derive the greatest benefit from antithrombotic therapies more potent than unfractionated
+heparin, such as low molecularweight heparin (LMWH) and glycoprotein IIb/IIIa inhibitors, and from an early
+invasive strategy. For example, in the TACTICS-TIMI 18 Trial, an early invasive strategy conferred a 40% reduction
+in recurrent cardiac events in patients with a positive troponin level, whereas no benefit was observed in those
+without detectable troponin.
+FIGURE 244-2
+
+The TIMI Risk Score for UA/NSTEMI, a simple but comprehensive clinical risk stratification score to identify
+increasing risk of death, myocardial infarction, or urgent revascularization to day 14. CAD, coronary artery disease;
+ASA, aspirin. (Adapted from Antman et al.)
+Treatment: Unstable Angina and Non-ST-Segment Elevation Myocardial Infarction
+Medical Treatment
+Patients with UA/NSTEMI should be placed at bed rest with continuous ECG monitoring for ST-segment deviation
+and cardiac arrhythmias. Ambulation is permitted if the patient shows no recurrence of ischemia (discomfort or
+ECG changes) and does not develop a biomarker of necrosis for 1224 h. Medical therapy involves simultaneous
+anti-ischemic treatment and antithrombotic treatment.
+Anti-Ischemic Treatment
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+4/14
+
+2/4/2015
+(Table 244-1) To provide relief and prevention of recurrence of chest pain, initial treatment should include bed rest,
+nitrates, and beta blockers.
+Table 2441. Drugs Commonly Used in Intensive Medical Management of Patients with Unstable Angina and Non-
+ST Segment Elevation MI
+Drug
+Category Clinical Condition
+
+Dosage
+
+When to
+Avoida
+
+Nitrates
+
+Administer sublingually, and,
+if symptoms persist,
+intravenously
+
+Beta
+blockersb Unstable angina
+
+Patients whose symptoms
+are not relieved by adequate
+doses of nitrates and beta
+blockers, or in patients
+unable to tolerate adequate
+
+Calcium
+channel
+blockers
+
+Topical, oral, or buccal nitrates
+are acceptable alternatives for
+patients without ongoing or
+refractory symptoms
+510 g/min by continuous
+infusion titrated up to 75100
+g/min until relief of symptoms or
+limiting side effects (headache or
+hypotension with a systolic blood
+pressure<90 mmHg or more than
+30% below starting mean arterial
+pressure levels if significant
+hypertension is present)
+
+Metoprolol 2550 mg by mouth
+every 6 h
+If needed, and no heart failure, 5-
+mg increments by slow (over 12
+min)
+IV administration
+
+Dependent on specific agent
+
+Hypotension
+Patient
+receiving
+sildenafil or
+other PDE-5
+inhibitor
+
+PR interval
+(ECG)
+>0.24 s
+2° or 3°
+atrioventricular
+block
+Heart rate <60
+beats/min
+Systolic
+pressure <90
+mmHg
+Shock
+Left ventricular
+failure
+Severe
+reactive airway
+disease
+
+Pulmonary
+edema
+Evidence of
+left ventricular
+dysfunction
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+5/14
+
+2/4/2015
+
+Morphine
+sulfate
+
+doses of one or both of these
+agents, or in patients with
+variant angina
+
+(for diltiazem
+or verapamil)
+
+Patients whose symptoms
+are not relieved after three
+serial sublingual nitroglycerin
+tablets or whose symptoms
+recur with adequate anti-
+ischemic therapy
+
+Hypotension
+Respiratory
+depression
+Confusion
+Obtundation
+
+25 mg IV dose
+May be repeated every 530 min
+as needed to relieve symptoms
+and maintain patient comfort
+
+aAllergy or prior intolerance is a contraindication for all categories of drugs
+listed in this chart.
+bChoice of the specific agent is not as important as ensuring that
+appropriate candidates receive this therapy. If there are concerns about
+patient intolerance owing to existing pulmonary disease, especially asthma,
+left ventricular dysfunction, risk of hypotension or severe bradycardia, initial
+selection should favor a short-acting agent, such as propranolol or
+metoprolol or the ultra-short-acting agent esmolol. Mild wheezing or a
+history of chronic obstructive pulmonary disease should prompt a trial of a
+short-acting agent at a reduced dose (e.g., 2.5 mg IV metoprolol, 12.5 mg
+oral metoprolol, or 25 g/kg per min esmolol as initial doses) rather than
+complete avoidance of beta-blocker therapy.
+Note: Some of the recommendations in this guide suggest the use of agents
+for purposes or in doses other than those specified by the U.S. Food and
+Drug Administration. Such recommendations are made after consideration
+of concerns regarding nonapproved indications. Where made, such
+recommendations are based on more recent clinical trials or expert
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+6/14
+
+2/4/2015
+consensus. IV, intravenous; ECG, electrocardiogram; 2°, second-degree; 3°,
+third-degree.
+Source: Modified from E Braunwald et al: Circulation 90:613, 1994.
+
+Nitrates
+Nitrates should first be given sublingually or by buccal spray (0.30.6 mg) if the patient is experiencing ischemic
+pain. If pain persists after 3 doses given 5 min apart, intravenous nitroglycerin (510 g/min using nonabsorbing
+tubing) is recommended. The rate of the infusion may be increased by 10 g/min every 35 min until symptoms are
+relieved or systolic arterial pressure falls to <100 mmHg. Topical or oral nitrates (Chap. 243) can be used once the
+pain has resolved or they may replace intravenous nitroglycerin when the patient has been pain-free for 1224 h.
+The only absolute contraindications to the use of nitrates are hypotension or the use of sildenafil or other drugs in
+that class within the previous 2448 h.
+Beta Adrenergic Blockers and Other Agents
+Beta blockers are the other mainstay of anti-ischemic treatment. Oral beta blockade targeted to a heart rate of 50
+60 beats/min is recommended as first-line treatment. A caution has been raised in the new ACC/AHA guidelines for
+use of intravenous beta blockade in patients with any evidence of acute heart failure, where they could increase
+the risk of cardiogenic shock. Heart rateslowing calcium channel blockers, e.g., verapamil or diltiazem, are
+recommended for patients who have persistent or recurrent symptoms after treatment with full-dose nitrates and
+beta blockers and in patients with contraindications to beta blockade. Additional medical therapy includes
+angiotensin-converting enzyme (ACE) inhibition and HMG-CoA reductase inhibitors (statins) for long-term
+secondary prevention. Early administration of intensive statin therapy (e.g., atorvastatin 80 mg) prior to
+percutaneous coronary intervention (PCI) has been shown to reduce complications, suggesting that high-dose
+statin therapy should be started at the time of admission.
+Antithrombotic Therapy
+(Table 244-2) This is the other main component of treatment for UA/NSTEMI. Initial treatment should begin with
+the platelet cyclooxygenase inhibitor aspirin(Fig. 244-3). The typical initial dose is 325 mg/d, with lower doses (75
+162 mg/d) recommended for long-term therapy. The OASIS-7 trial randomized 25,087 ACS patients to receive
+high-dose (300325 mg/d) vs. low-dose (75-100 mg/d) aspirin for 30 days and reported no differences in the risk of
+major bleeding or in efficacy over this period of time. "Aspirin resistance" has been noted in 510% of patients and
+more frequently in patients treated with lower doses of aspirin, but frequently has been related to noncompliance.
+Table 2442. Clinical Use of Antithrombotic Therapy
+Oral
+Antiplatelet
+Therapy
+
+Aspirin
+
+Clopidogrel
+
+Initial dose of 162325 mg nonenteric formulation followed by 75162 mg/d of
+an enteric or a nonenteric formulation
+Loading dose of 300-600 mg followed by 75 mg/d
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+7/14
+
+2/4/2015
+
+Prasugrel
+Intravenous
+Antiplatelet
+Therapy
+
+Abciximab
+
+Eptifibatide
+
+Tirofiban
+
+Heparins*
+Unfractionated
+Heparin (UFH)
+
+Enoxaparin
+
+Fondaparinux
+
+Bivalirudin
+
+Pre-PCI: Loading dose 60 mg followed by 10 mg/d
+
+0.25 mg/kg bolus followed by infusion of 0.125 g/kg per min (maximum 10
+g/min) for 12 to 24 h
+180 g/kg bolus followed by infusion of 2.0 g/kg per min for 72 to 96 h
+0.4 g/kg per min for 30 min followed by infusion of 0.1 g/kg per min for 48 to
+96 h
+
+Bolus 6070 U/kg (maximum 5000 U) IV followed by infusion of 1215 U/kg per
+h (initial maximum 1000 U/h) titrated to a PTT 5070 s
+1 mg/kg SC every 12 h; the first dose may be preceded by a 30-mg IV bolus;
+renal adjustment to 1 mg/kg once daily if creatine Cl < 30 cc/min
+2.5 mg SC qd
+Initial bolus intravenous bolus of 0.1 mg/kg and an infusion of 0.25 mg/kg per
+hour. Before PCI, an additional intravenous bolus of 0.5 mg/kg was
+administered, and the infusion was increased to 1.75 mg/kg per hour.
+
+*Other LMWH exist beyond those listed.
+Abbreviations: IV, intravenous; SC, subcutaneously.
+Source: Modified from J Anderson et al: JACO 50:e1, 2007.
+
+FIGURE 244-3
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+8/14
+
+2/4/2015
+
+Platelets initiate thrombosis at the site of a ruptured plaque with denuded endothelium: platelet adhesion occurs
+via (1) the GP 1b receptor in conjunction with von Willebrand factor. This is followed by platelet activation (2), which
+leads to a shape change of the platelet, degranulation of the alpha and dense granules, and expression of
+glycoprotein IIb/IIIa receptors on the platelet surface with activation of the receptor, such that it can bind
+fibrinogen. The final step is platelet aggregation (3), in which fibrinogen (or von Willebrand factor) binds to the
+activated GP IIb/IIIa receptors. Aspirin (ASA) and clopidogrel act to decrease platelet activation, whereas the GP
+IIb/IIIa inhibitors inhibit the final step of platelet aggregation. GP, glycoprotein. [Modified from CP Cannon, E
+Braunwald, in Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine, 8th ed, R Bonow et al (eds).
+Philadelphia, Saunders, 2008.]
+The thienopyridine, clopidogrel, an inactive prodrug that is converted into an active metabolite, which blocks the
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+9/14
+
+2/4/2015
+platelet P2Y12 component or the adenosine diphosphate receptor, in combination with aspirin, was shown in the
+CURE trial to confer a 20% relative reduction in cardiovascular death, MI, or stroke, compared with aspirin alone in
+both low- and high-risk patients, but to be associated with a moderate (absolute 1%) increase in major bleeding.
+Pretreatment with clopidogrel (a 300 or 600 mg loading dose, followed by 75 mg qd) is recommended prior to PCI.
+The OASIS-7 trial reported that one week of a higher dose of clopidogrel (600 mg loading dose and 150 mg/d for
+one week) did not result in an overall improvement in outcomes in ACS patients, but did so in patients receiving
+325 mg of aspirin, especially those who underwent PCI.
+Continued benefit of one year of treatment with the combination of clopidogrel and aspirin has been observed both
+in patients treated conservatively and in those who underwent PCI and should certainly continue for at least one
+year in patients with a drug-eluting stent. Up to one-third of patients have low response to clopidogrel, and a
+substantial proportion of these are related to a genetic variant of the cytochrome P450 system. A variant of the
+2C19 gene leads to reduced conversion of clopidogrel into its active metabolite, which, in turn, causes lower
+platelet inhibition and a higher risk of cardiovascular events. Alternate agents, such as prasugrel, should be
+considered for ACS patients who are hyporesponsive to clopidogrel as identified by platelet and/or genetic testing,
+although such testing is not yet widespread.
+A recently approved thienopyridine, prasugrel, has been shown to achieve a more rapid onset, and higher level of
+platelet inhibition than clopidogrel. It has been used in ACS patients following angiography in whom PCI is planned
+at a dose of 60 mg load followed by 10 mg/d for up to 15 months. The TRITON-TIMI 38 trial showed that relative to
+clopidogrel, prasugrel reduced the risk of cardiovascular death, MI, or stroke significantly by 19%, albeit with an
+increase in major bleeding. Stent thrombosis was also reduced by 52%. This agent is contraindicated in patients
+with prior stroke or transient ischemic attack. Ticagrelor is a novel, reversible ADP inhibitor that has recently been
+reported to reduce the risk of cardiovascular death, MI, or stroke by 16% compared with clopidogrel in a broad
+population of ACS patients. This agent also reduced mortality and did not increase the risk of total bleeding; it is
+not yet FDA approved at the time of this writing.
+Four options are available for anticoagulant therapy to be added to aspirin and clopidogrel. Unfractionated heparin
+(UFH) is the mainstay of therapy. The low-molecular-weight heparin (LMWH), enoxaparin, has been shown in
+several studies to be superior to UFH in reducing recurrent cardiac events, especially in conservatively managed
+patients. The indirect Factor Xa inhibitor, fondaparinux, is equivalent for early efficacy compared with enoxaparin
+but appears to have a lower risk of major bleeding. Bivalirudin, a direct thrombin inhibitor, is similar in efficacy to
+either UFH or LMWH among patients treated with a GP IIb/IIIa inhibitor, but use of bivalirudin alone causes less
+bleeding than the combination of heparin and a GP IIb/IIIa inhibitor in patients with UA/NSTEMI undergoing
+catheterization and/or PCI.
+Prior to the advent of clopidogrel, many trials had shown the benefit of intravenous GP IIb/IIIa inhibitors. The
+benefit, however, has been small, i.e., only a 9% reduction in death or MI, with a significant increase in major
+bleeding. Two recent studies also failed to show a benefit for early initiation compared with use only for PCI. The
+use of these agents may be reserved for unstable patients with recurrent rest pain and ECG changes who undergo
+PCI.
+Excessive bleeding is the most important adverse effect of all antithrombotic agents, including anticoagulants and
+antiplatelet agents. Therefore, attention must be directed to the doses of antithrombotic agents, accounting for
+weight, creatinine clearance, and a previous history of excessive bleeding, as a means of reducing the risk of
+bleeding.
+Invasive versus Conservative Strategy
+Multiple clinical trials have demonstrated the benefit of an early invasive strategy in high-risk patients, i.e., patients
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+10/14
+
+2/4/2015
+with multiple clinical risk factors, ST-segment deviation, and/or positive biomarkers (Table 244-3). In this strategy,
+following treatment with anti-ischemic and antithrombotic agents, coronary arteriography is carried out within 48
+h of admission, followed by coronary revascularization (PCI or coronary artery bypass grafting), depending on the
+coronary anatomy.
+Table 2443. Class I Recommendations for Use of an Early Invasive Strategy*
+Class I (Level of Evidence: A) Indications
+Recurrent angina at rest/low-level activity despite Rx
+Elevated TnT or TnI
+New ST-segment depression
+Rec. angina/ischemia with CHF symptoms, rales, MR
+Positive stress test
+EF < 0.40
+Decreased BP
+Sustained VT
+PCI< 6 months, prior CABG
+High-risk score
+*Any one of the high-risk indicators.
+Abbreviations: BP, blood pressure; CABG, coronary artery bypass grafting;
+CHF, congestive heart failure; EF, ejection fraction; MR, mitral regurgitation;
+PCI, percutaneous coronary intervention; Rec, recurrent; TnI, troponin I; TnT,
+troponin T; VT, ventricular tachycardia.
+Source: J Anderson et al: JACO 50:e1, 2007.
+
+In low-risk patients, the outcomes from an invasive strategy are similar to those obtained from a conservative
+strategy, which consists of anti-ischemic and antithrombotic therapy followed by "watchful waiting," and in which
+coronary arteriography is carried out only if rest pain or ST-segment changes recur or there is evidence of ischemia
+on a stress test.
+Long-Term Management
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+11/14
+
+2/4/2015
+The time of hospital discharge is a "teachable moment" for the patient with UA/NSTEMI, when the physician can
+review and optimize the medical regimen. Risk-factor modification is key, and the caregiver should discuss with
+the patient the importance of smoking cessation, achieving optimal weight, daily exercise following an appropriate
+diet, blood-pressure control, tight control of hyperglycemia (for diabetic patients), and lipid management, as
+recommended for patients with chronic stable angina (Chap. 243).
+There is evidence of benefit with long-term therapy with five classes of drugs that are directed at different
+components of the atherothrombotic process. Beta blockers, statins (at a high dose, e.g., atorvastatin 80 mg/d),
+and ACE inhibitors or angiotensin receptor blockers are recommended for long-term plaque stabilization.
+Antiplatelet therapy, now recommended to be the combination of aspirin and clopidogrel (or prasugrel in post PCS
+patients) for one year, with aspirin continued thereafter, prevents or reduces the severity of any thrombosis that
+would occur if a plaque were to rupture.
+Observational registries have shown that patients with UA/NSTEMI at high risk, including women and the elderly as
+well as racial minorities, are less likely to receive evidence-based pharmacologic and interventional therapies with
+resultant poorer clinical outcomes and quality of life.
+Prinzmetal's Variant Angina
+In 1959 Prinzmetal et al. described a syndrome of severe ischemic pain that occurs at rest but not usually with
+exertion and is associated with transient ST-segment elevation. This syndrome is due to focal spasm of an
+epicardial coronary artery, leading to severe myocardial ischemia. The cause of the spasm is not well defined, but
+it may be related to hypercontractility of vascular smooth muscle due to vasoconstrictor mitogens, leukotrienes, or
+serotonin.
+Clinical and Angiographic Manifestations
+Patients with Prinzmetal's variant angina (PVA) are generally younger and have fewer coronary risk factors (with the
+exception of cigarette smoking) than patients with UA secondary to coronary atherosclerosis. Cardiac examination
+is usually unremarkable in the absence of ischemia. The clinical diagnosis of variant angina is made with the
+detection of transient ST-segment elevation with rest pain. Many patients also exhibit multiple episodes of
+asymptomatic ST-segment elevation (silent ischemia). Small elevations of troponin may occur in patients with
+prolonged attacks of variant angina.
+Coronary angiography demonstrates transient coronary spasm as the diagnostic hallmark of PVA. Atherosclerotic
+plaques, which do not usually cause critical obstruction, in at least one proximal coronary artery occur in the
+majority of patients, and in them spasm usually occurs within 1 cm of the plaque. Focal spasm is most common in
+the right coronary artery, and it may occur at one or more sites in one artery or in multiple arteries simultaneously.
+Ergonovine, acetylcholine, other vasoconstrictor medications, and hyperventilation have been used to provoke
+focal coronary stenosis on angiography to establish the diagnosis. Hyperventilation has also been used to provoke
+rest angina, ST-segment elevation, and spasm on coronary arteriography.
+Treatment: Prinzmetal's Variant Angina
+Nitrates and calcium channel blockers are the main agents used to treat acute episodes and to abolish recurrent
+episodes of PVA. Aspirin may actually increase the severity of ischemic episodes, possibly as a result of the
+exquisite sensitivity of coronary tone to modest changes in the synthesis of prostacyclin. The response to beta
+blockers is variable. Coronary revascularization may be helpful in patients who also have discrete, proximal fixed
+obstructive lesions.
+Prognosis
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+12/14
+
+2/4/2015
+Many patients with PVA pass through an acute, active phase, with frequent episodes of angina and cardiac events
+during the first 6 months after presentation. Long-term survival at 5 years is excellent (9095%). Patients with no
+or mild fixed coronary obstruction tend to experience a more benign course than do patients with associated
+severe obstructive lesions. Nonfatal MI occurs in up to 20% of patients by 5 years. Patients with PVA who develop
+serious arrhythmias during spontaneous episodes of pain are at a higher risk for sudden cardiac death. In most
+patients who survive an infarction or the initial 3- to 6-month period of frequent episodes, the condition stabilizes,
+and there is a tendency for symptoms and cardiac events to diminish over time.
+Further Readings
+Alexander KP et al: Excess dosing of antiplatelet and antithrombin agents in the treatment of non-ST-segment
+elevation acute coronary syndromes. JAMA 294:3108, 2005  [PubMed: 16380591] 
+Anderson JL et al: ACC/AHA 2007 guidelines for the management of patients with unstable angina/non-ST-
+elevation myocardial infarction: A report of the American College of Cardiology/American Heart Association Task
+Force on Practice Guidelines. Circulation 116:e148, 2007 
+Antman EM et al: The TIMI risk score for unstable angina/non-ST elevation MI: A method for prognostication and
+therapeutic decision-making. JAMA 284:835, 2000  [PubMed: 10938172] 
+Cannon CP, Braunwald E: Unstable angina, in Braunwald's Heart Disease, 9th ed, R Bonow et al (eds).
+Philadelphia, Saunders, 2011 
+Cannon CP et al: Intensive versus moderate lipid lowering with statins after acute coronary syndromes. N Engl J
+Med 350:1495, 2004  [PubMed: 15007110] 
+Giugliano RP et al: Early versus delayed, provisional eptifibatide in acute coronary syndromes. N Engl J Med
+360:2176, 2009  [PubMed: 19332455] 
+O'Donoghue M et al: Early invasive vs. conservative treatment strategies in women and men with unstable angina
+and non-ST-segment elevation myocardial infarction: a meta-analysis. JAMA 300:71, 2008  [PubMed: 18594042] 
+Wallentin LT et al: Ticagrelor versus clopidogrel in patients with acute coronary syndromes. N Engl J Med
+361:1045, 2009  [PubMed: 19717846] 
+Wiviott SD et al: Prasugrel versus clopidogrel in patients with acute coronary syndromes. N Engl J Med 357:2001,
+2007  [PubMed: 17982182] 
+
+Copyright © McGraw-Hill Global Education Holdings, LLC.
+
+All rights reserved.
+
+Your IP address is 146.203.126.89
+
+Algorithm for risk stratification and treatment of patients with suspected coronary artery disease. Using the clinical
+history of the type of pain and medical history, the ECG, and cardiac markers, one can identify patients who have a
+low likelihood of UA/NSTEMI, for whom a diagnostic "ruleout myocardial infarction (MI) or acute coronary
+syndrome (ACS)" is warranted. If this is negative, the patient may be discharged, but if positive, the patient is
+admitted and treated for UA/NSTEMI. On the other end of the spectrum, patients with acute ongoing pain and ST-
+segment elevation are treated with percutaneous coronary intervention (PCI) or fibrinolysis (Chap. 245). For those
+with UA/NSTEMI, risk stratification is used to identify patients at medium to high risk, for whom an early invasive
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+13/14
+
+2/4/2015
+strategy is warranted. Antithrombotic therapy should include aspirin, an anticoagulant, an ADP antagonist
+(clopidogrel or prasugrel), with GP IIb/IIIa inhibition considered for use during PCI. For patients at low risk,
+treatment with aspirin, clopidogrel, an anticoagulant such as unfractionated or low molecularweight heparin
+(LMWH) or fondaparinux and anti-ischemic therapy with beta blockers and nitrates, and a conservative strategy are
+indicated. ASA, aspirin; DM, diabetes mellitus; ECG, electrocardiogram; MI, myocardial infarction; Rx, treatment;
+STEMI, ST-segment elevation myocardial infarction. (Adapted from CP Cannon, E Braunwald, in Braunwald's Heart
+Disease: A Textbook of Cardiovascular Medicine, 9th ed, R Bonow et al (eds). Philadelphia, Saunders, 2011.)
+The TIMI Risk Score for UA/NSTEMI, a simple but comprehensive clinical risk stratification score to identify
+increasing risk of death, myocardial infarction, or urgent revascularization to day 14. CAD, coronary artery disease;
+ASA, aspirin. (Adapted from Antman et al.)
+Platelets initiate thrombosis at the site of a ruptured plaque with denuded endothelium: platelet adhesion occurs
+via (1) the GP 1b receptor in conjunction with von Willebrand factor. This is followed by platelet activation (2), which
+leads to a shape change of the platelet, degranulation of the alpha and dense granules, and expression of
+glycoprotein IIb/IIIa receptors on the platelet surface with activation of the receptor, such that it can bind
+fibrinogen. The final step is platelet aggregation (3), in which fibrinogen (or von Willebrand factor) binds to the
+activated GP IIb/IIIa receptors. Aspirin (ASA) and clopidogrel act to decrease platelet activation, whereas the GP
+IIb/IIIa inhibitors inhibit the final step of platelet aggregation. GP, glycoprotein. [Modified from CP Cannon, E
+Braunwald, in Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine, 8th ed, R Bonow et al (eds).
+Philadelphia, Saunders, 2008.]
+
+http://accessmedicine.mhmedical.com/content.aspx?bookid=331&sectionid=40727022
+
+14/14
+
+

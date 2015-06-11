@@ -1,0 +1,5497 @@
+Diagnosis of Cardiac Arrhythmias
+John M. Miller and Douglas P. Zipes
+
+34
+
+HISTORY, 662
+
+PHYSICAL EXAMINATION, 662
+
+ELECTROCARDIOGRAM, 663
+
+ADDITIONAL TESTS, 664
+Exercise Testing, 666
+In-Hospital Electrocardiographic  
+
+Recording, 666
+
+Long-Term Electrocardiographic  
+
+Recording, 666
+
+Heart Rate Variability, 668
+
+Heart Rate Turbulence, 669
+QT Dispersion, 669
+Signal-Averaged Electrocardiography and 
+
+Late Potentials, 669
+T Wave Alternans, 669
+Baroreceptor Reflex Sensitivity Testing, 669
+Body Surface Mapping, 669
+Electrocardiographic Imaging, 670
+Upright Tilt-Table Testing, 670
+Esophageal Electrocardiography, 670
+
+INVASIVE ELECTROPHYSIOLOGIC 
+STUDIES, 670
+Complications of Electrophysiologic  
+
+Studies, 674
+
+DIRECT CARDIAC MAPPING:  
+RECORDING POTENTIALS DIRECTLY  
+FROM THE HEART, 674
+
+REFERENCES, 676
+
+GUIDELINES, 676
+
+In managing clinical arrhythmias, physicians must evaluate and treat 
+the  whole  patient,  not  just  the  rhythm  disturbance.1  Some  arrhyth-
+mias are hazardous to the patient, regardless of the clinical setting 
+(e.g.,  ventricular  fibrillation  [VF]),  whereas  others  are  hazardous 
+because of the clinical setting (e.g., rapidly conducted atrial fibrilla-
+tion  [AF]  in  a  patient  with  severe  coronary  artery  stenoses).  Some 
+rhythm  abnormalities,  such  as  premature  ventricular  complexes 
+(PVCs),  may  be  highly  symptomatic  but  not  associated  with  any 
+adverse outcomes, whereas some patients with AF have no symptoms 
+at all but may still be at significant risk for stroke. Evaluation of the 
+patient begins with a careful history and physical examination and 
+should usually progress from the simplest to the most complex test, 
+from the least invasive and safest to the most invasive and risky, and 
+from  the  least  expensive  out-of-hospital  evaluations  to  those  that 
+require hospitalization and sophisticated, costly, and potentially risky 
+procedures. On occasion, depending on the clinical circumstances, 
+the physician may wish to proceed directly to an expensive proce-
+dure associated with some risk, such as an electrophysiologic study 
+(EPS), before obtaining a 24-hour electrocardiographic recording. In 
+most cases, management of arrhythmia has a dual purpose: evalua-
+tion and treatment must address not only the patients symptoms but 
+also whatever risks that the arrhythmia poses to the individual.
+
+HISTORY
+
+Patients with disturbances in cardiac rhythm can have various com-
+plaints, but symptoms such as palpitations, syncope, presyncope, or 
+dyspnea  commonly  cause  them  to  seek  a  physicians  help.  Their 
+awareness of palpitations and a regular or irregular cardiac rhythm 
+varies greatly. Some patients perceive slight variations in their heart 
+rhythm  with  uncommon  accuracy,  whereas  others  are  oblivious  to 
+even sustained episodes of ventricular tachycardia (VT); still others 
+complain  of  palpitations  when  they  actually  have  regular  sinus 
+rhythm.
+
+In  assessing  a  patient  with  a  known  or  suspected  arrhythmia, 
+several key pieces of information should be obtained that can help 
+determine a diagnosis or guide further diagnostic testing. The mode 
+of onset of an episode may provide clues about the type of arrhythmia 
+or  preferred  treatment  option.  For  example,  palpitations  that  occur 
+in  the  setting  of  exercise,  fright,  or  anger  are  often  caused  by 
+catecholamine-sensitive  automatic  or  triggered  tachycardias  that 
+may respond to adrenergic blocking agents (see Chapter 35); palpi-
+tations that occur at rest or that awaken the patient may be caused 
+by  vagal  initiation,  such  as  AF.  Lightheadedness  or  syncope  occur-
+ring in the setting of a tightly fitting collar, shaving the neck, or turning 
+the head suggests carotid sinus hypersensitivity. The triggering event 
+
+may help establish the presence of an inherited ion channel abnor-
+mality (see Chapter 32). The mode of termination of episodes can 
+also  be  helpful:  palpitations  that  are  reliably  terminated  by  breath-
+holding or by Valsalva or other vagal maneuvers probably involve the 
+atrioventricular (AV) node as an integral part of a tachycardia circuit; 
+on occasion, focal atrial tachycardias or VTs can be terminated with 
+vagal maneuvers. Patients should be asked about the frequency and 
+duration of episodes and the severity of symptoms. In some women 
+the  features  of  their  episodes  vary  according  to  the  menstrual  
+cycle. These features can help guide how aggressively and quickly 
+the  physician  needs  to  pursue  a  diagnostic  or  therapeutic  plan  (a 
+patient with daily episodes associated with near-syncope or severe 
+dyspnea warrants a more expeditious evaluation than does one with 
+infrequent  episodes  of  mild  palpitations  and  no  other  symptoms). 
+Patients  can  sometimes  report  their  heart  rate  during  an  episode 
+(either  rapid  or  slow,  regular  or  irregular)  by  counting  the  pulse 
+directly or by using an automatic blood pressure or heart rate monitor 
+or  smart  phone  application.  Characteristics  of  the  mode  of  onset  
+and frequency of episodes can guide the choice of diagnostic tests 
+(see later).
+
+A  careful  drug  and  dietary  history  should  also  be  sought;  some 
+nasal  decongestants  can  provoke  tachycardia  episodes,  whereas 
+beta-adrenergic  blocking  eye  drops  for  the  treatment  of  glaucoma 
+can drain into tear ducts, be absorbed systemically, and precipitate 
+syncope secondary to bradycardia. Dietary supplements, particularly 
+those  containing  stimulants  such  as  ephedrine,  can  cause  arrhyth-
+mias. A growing list of drugs can directly or indirectly affect ventricu-
+lar repolarization and produce or exacerbate longQT intervalrelated 
+tachyarrhythmias (see Chapter 9; see also www.crediblemeds.org). 
+The  patient  should  be  questioned  about  the  presence  of  systemic 
+illnesses that may be associated with arrhythmias, such as chronic 
+obstructive  pulmonary  disease,  thyrotoxicosis  (see  Chapter  81), 
+pericarditis (see Chapter 71), and chronic heart failure (see Chap-
+ters 24 and 25), as well as previous chest injury, surgery, or radiation 
+therapy or chemotherapy. A family history of rhythm disturbances is 
+often present in those with long-QT syndrome, AF or other inherited 
+arrhythmia syndromes, hypertrophic cardiomyopathy (see Chapter 
+66), and muscular or myotonic dystrophy (see Chapter 87).
+
+PHYSICALEXAMINATION
+
+Examination of a patient during an arrhythmia episode can be reveal-
+ing.  Heart  rate  and  blood  pressure  should  be  evaluated,  as  well  as 
+how ill the person appears. Assessment of jugular venous pressure 
+and waveform can disclose the rapid oscillations of atrial flutter or 
+cannon A waves indicative of contraction of the right atrium against 
+
+662
+
+ AdditionalcontentisavailableonlineatExpertConsult.
+
+a closed tricuspid valve in patients with AV dissociation in disorders 
+such as complete heart block or VT. Variations in the intensity of the 
+first  heart  sound  and  systolic  blood  pressure  have  the  same 
+implications.
+
+Physical  maneuvers  during  tachycardia  can  have  diagnostic  and 
+therapeutic  value.  As  noted,  the  Valsalva  maneuver2  (as  well  as 
+carotid  sinus  massage)  causes  a  transient  increase  in  vagal  tone; 
+tachyarrhythmias that depend on the AV node for continuation can 
+terminate  or  slow  with  these  maneuvers  but  may  also  show  no 
+change. Even though focal atrial and VTs occasionally terminate in 
+response  to  vagal  stimulation,  sinus  tachycardia  slows  slightly  but 
+returns  to  its  original  rate  soon  thereafter;  the  ventricular  response 
+during atrial flutter and fibrillation and other atrial tachycardias can 
+decrease  briefly.  During  wide-QRS  tachycardias  with  a  1:1  relation-
+ship  between  P  waves  and  QRS  complexes,  vagal  influence  can 
+terminate or slow a supraventricular tachycardia (SVT) that depends 
+on  the  AV  node  for  perpetuation;  on  the  other  hand,  vagal  effects 
+on  the  AV  node  can  transiently  block  retrograde  conduction  and 
+thus  establish  the  diagnosis  of  VT  by  demonstrating  AV  dissocia-
+tion. Because the effect of either of these physical maneuvers typi-
+cally  lasts  only  seconds,  clinicians  must  be  ready  to  observe  or 
+record  any  changes  in  rhythm  on  an  electrocardiogram  (ECG) 
+when  the  maneuver  is  performed  or  the  response  may  not  be 
+appreciated.
+
+Carotid  massage  is  performed  with  the  patient  supine  and  com-
+fortable  and  the  head  tipped  away  from  the  side  being  stimulated. 
+Careful  auscultation  for  carotid  bruits  must  always  precede  any 
+attempt  at  carotid  massage  (embolic  events  have  been  associated 
+with massage3). The area of the carotid sinus, at the arterys bifurca-
+tion, is palpated with two fingers at the angle of the jaw until a good 
+pulse  is  felt.  Even  this  minimal  amount  of  pressure  can  induce  a 
+hypersensitive response in susceptible individuals. If no initial effect 
+is noted, a side-to-side or rotating motion of the fingers over the site 
+is  performed  for  up  to  5  seconds.  A  negative  response  is  lack  of 
+effect on the ECG after 5 seconds of pressure adequate to cause mild 
+discomfort. Because responses to carotid massage may differ on the 
+two  sides,  the  maneuver  can  be  repeated  on  the  opposite  side; 
+however,  both  sides  should  never  be  stimulated  simultaneously. 
+Findings may not be readily reproducible, even within minutes of a 
+prior attempt.
+
+Physical  findings  can  suggest  the  presence  of  structural  heart 
+disease (and thus generally a clinically more serious situation with a 
+worse  overall  prognosis),  even  in  the  absence  of  an  arrhythmia 
+episode.  For  example,  a  laterally  displaced  or  dyskinetic  apical 
+impulse, a regurgitant or stenotic murmur, or a third heart sound in 
+an older adult can denote significant myocardial or valvular dysfunc-
+tion or damage.
+
+ELECTROCARDIOGRAM
+
+The ECG is the primary tool for analysis of arrhythmias (see Chapter 
+12); an EPS, in which intracardiac catheters are used to record activ-
+ity from several regions of the heart at one time, is more definitive 
+but  not  always  immediately  available.  Initially,  a  12-lead  ECG  is 
+recorded.  In  addition,  a  long  continuous  recording  with  use  of  the 
+lead that shows distinct P waves is often helpful for closer analysis; 
+typically, this is one of the inferior leads (2, 3, aVF), V1, or aVR. The 
+ECG  obtained  during  an  arrhythmia  episode  may  be  diagnostic  by 
+itself and obviate the need for further diagnostic testing. Figure 34-1 
+depicts an algorithm for the diagnosis of specific tachyarrhythmias 
+from the 12-lead ECG (see Chapter 37). A major branch point in the 
+differential  diagnosis  concerns  the  QRS  duration:  wide-QRS  (>0.12 
+second) tachycardias are often VTs, and narrow-QRS (0.12 second) 
+tachycardias  are  almost  always  SVTs,  but  there  is  some  overlap 
+(Table 34-1). Next, the most important questions to answer, regard-
+less of QRS width, concern the characteristics of P waves. If P waves 
+are not clearly visible on the regular ECG, atrial activity can occasion-
+ally be discerned by placing the right and left arm leads in various 
+anterior  chest  positions  (so-called  Lewis  leads),  by  recording  atrial 
+
+663
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+TACHYCARDIA
+
+TACHYCARDIA
+
+i
+
+TABLE34-1  Electrocardiographic Distinctions for Diagnosis 
+of WideQRS Complex Tachycardia
+FAVORSUPRAVENTRICULAR
+
+FAVORVENTRICULAR
+
+Initiation with a premature P wave
+
+Initiation with a premature QRS 
+
+complex
+
+Tachycardia complexes identical to 
+
+those in resting rhythm
+
+Tachycardia beats identical to 
+
+PVCs during sinus rhythm
+
+Long-short sequence preceding 
+
+Short-long sequence preceding 
+
+initiation
+
+initiation
+
+Changes in the P-P interval 
+
+preceding changes in the R-R 
+interval
+
+QRS contours consistent with 
+aberrant conduction (V1, V6)
+
+Changes in the R-R interval 
+
+preceding changes in the P-P 
+interval
+
+QRS contours inconsistent with 
+
+aberrant conduction (V1, V6)
+
+Slowing or termination with vagal 
+
+AV dissociation or other non-1:1 
+
+maneuvers
+
+AV relationship
+
+Onset of the QRS to its peak 
+
+(positive or negative) <50 msec
+
+Onset of the QRS to its peak 
+
+(positive or negative) 50 msec
+
+QRS duration 0.14 sec
+
+Fusion beats, capture beats
+QRS duration >0.14 sec
+Left axis deviation (especially 90° 
+
+to 180°)
+
+Concordant R wave progression 
+
+pattern
+
+Contralateral bundle branch block 
+pattern from the resting rhythm
+
+Initial R, q, or r >40 msec or 
+
+notched Q in aVR
+
+Absence of an rS complex in 
+
+any precordial lead
+
+electrograms  using  intracardiac  right  atrial  recordings  (via  perma-
+nent or temporary transvenous pacing leads), or by using esophageal 
+electrodes  or  an  echocardiogram;  the  last  methods  are  not  readily 
+available in most clinical situations and consume valuable time when 
+dealing  with  a  sick  patient.  A  long  rhythm  strip  can  usually  be 
+obtained and may yield important clues by revealing P waves if per-
+turbations occur during the arrhythmia (e.g., changes in rate, prema-
+ture complexes, sudden termination, and effect of physical maneuvers, 
+as noted earlier).
+
+Each arrhythmia should be approached in a systematic manner to 
+answer  several  key  questions;  as  suggested  earlier,  many  of  these 
+questions relate to P wave characteristics and underscore the impor-
+tance of assessing the ECG carefully for them. If P waves are visible, 
+are  the  atrial  and  ventricular  rates  identical?  Are  the  P-P  and  R-R 
+intervals regular or irregular? If irregular, is it a consistent, repeating 
+irregularity? Is there a P wave related to each QRS complex? Does the 
+P wave seem to precede (long RP interval) or follow (short RP inter-
+val)  the  QRS  complex  (Fig.  34-2)?  Are  the  resultant  RP  and  PR 
+intervals constant? Are all P waves and QRS complexes identical? Is 
+the P wave vector normal or abnormal? Are P, PR, QRS, and QT dura-
+tions normal? Once these questions have been addressed, one needs 
+to  assess  the  significance  of  the  arrhythmia  in  view  of  the  clinical 
+setting. Should it be treated, and if so, how? For SVTs with a normal 
+QRS complex, a branching decision tree such as that shown in Figure 
+34-1 may be useful.4
+
+The Ladder Diagram
+A ladder diagram, derived from the ECG, is used to depict depolariza-
+tion  and  conduction  schematically  to  aid  in  understanding  the 
+rhythm. Straight or slightly slanting lines drawn on a tiered framework 
+beneath an ECG represent electrical events occurring in the various 
+
+664
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+Tachycardia
+
+Assess QRS width
+
+Narrow QRS (0.12)
+
+Wide QRS (>0.12)
+
+SVT
+
+Assess regularity of ventricles
+
+Ventricular
+tachycardia
+
+Supraventricular
+
+tachycardia
+
+Preexcited
+tachycardia
+
+Regular
+
+Regularly irregular
+
+Irregularly irregular
+
+Assess P waves
+
+Not clear
+
+Response to CSM 
+
+or adenosine
+
+Atrial fibrillation
+
+Clearly visible
+
+1:1 association with 
+
+QRS complex?
+
+Aberrant conduction
+
+Abnormal baseline QRS
+Drug/electrolyte effects
+
+Ventricular pacing
+
+Terminates 
+after P wave
+
+Terminates 
+after QRS
+
+Tachycardia persists
+
+with AV block
+
+No
+
+Yes
+
+AVNRT
+AVRT
+
+AVNRT
+AVRT
+
+AT
+
+SANRT
+
+Atrial flutter
+
+AT
+
+SANRT
+
+Atrial flutter or AT
+
+AVNRT possible (rare)
+
+(AVRT excluded)
+
+Pseudo R (V1) or 
+
+Pseudo S (2, 3, aVF)?
+
+Yes
+
+AVNRT
+likely
+
+No
+
+Assess 
+
+RP interval
+
+Assess P wave
+
+morphology
+
+Assess atrial rate 
+
+and P wave 
+morphology
+
+Retrograde 
+
+P wave
+
+P different from sinus 
+Rate = 120-250/min
+
+P similar to sinus 
+Rate = 100-180/min
+
+Sawtooth P waves 
+Rate = 250-320/min
+
+Short RP interval
+
+Long RP interval
+
+AVNRT
+AVRT
+
+AT possible
+
+AT
+
+SANRT
+
+Atrial flutter
+
+AVNRT
+AVRT
+
+AT with long PR
+
+SANRT with long PR
+
+AT
+
+SANRT
+
+AVNRT (atypical)
+AVRT with slow AP
+
+FIGURE34-1  Stepwise approach to diagnosis of the type of tachycardia based on a 12-lead ECG during the episode. The initial step is to determine whether the tachycardia 
+has a wide or narrow QRS complex. For wide-complex tachycardia, see Table 34-1; the remainder of the algorithm is helpful in diagnosis of the type of narrow-complex tachy-
+cardia. AP = accessory pathway; AT = atrial tachycardia; AVNRT = atrioventricular nodal reentrant tachycardia; AVRT = atrioventricular reciprocating tachycardia; CSM = carotid 
+sinus massage; SANRT = sinoatrial nodal reentry tachycardia. 
+
+Response to CSM 
+
+or adenosine
+
+cardiac  structures  (Fig.  34-3).  Because  the  ECG  and  therefore  the 
+ladder diagram represent electrical activity against a time base, con-
+duction is indicated by the lines of the ladder diagram sloping in a 
+left-to-right direction. A steep line represents rapid conduction; more 
+slanting lines depict slower conduction. A short bar drawn perpen-
+dicular to a sloping line represents blocked conduction. Activity origi-
+nating  in  an  ectopic  site  such  as  the  ventricle  is  indicated  by  lines 
+emanating from that tier. Sinus nodal discharge and conduction and, 
+under  certain  circumstances,  AV  junctional  discharge  and  conduc-
+tion  can  only  be  inferred;  their  activity  is  not  directly  recorded  on  
+the ECG.
+
+ADDITIONALTESTS
+
+Most  patients  have  only  occasional  episodes  of  arrhythmia  and 
+spend most of the time in their baseline rhythm (e.g., sinus, AF). The 
+ECG during the patients resting rhythm can provide clues about the 
+presence of a substrate for arrhythmia (i.e., structural or physiologic 
+abnormalities  from  which  arrhythmias  can  arise).  Several  of  these 
+abnormalities  are  shown  in  Figure  34-4.  Recently,  the  common 
+finding on the ECG of early repolarization (in the lateral precordial 
+and inferior leads) has been observed in some patients with primary 
+VF (i.e., without identifiable structural heart disease). In most patients 
+
+665
+
+Baseline
+
+No visible P wave
+
+Short-RP SVT
+
+Long-RP SVT
+
+AV nodal reentry SVT
+(junctional tachycardia)
+
+Orthodromic SVT
+AV nodal reentry SVT
+(atrial tachycardia)
+
+Atrial tachycardia
+Atypical AV nodal reentry 
+Orthodromic SVT (slowly
+conducting AP)
+
+FIGURE34-2  Differential diagnosis of different types of SVT based on timing of atrial activity (RP and PR intervals). Left, Normal beat. Different types of tachycardia are listed 
+below the representative electrocardiographic patterns that they can produce, as categorized by P wave position relative to the QRS complex. An arrowhead shows the location 
+of the P wave in each example. Diagnoses in parentheses are rare causes of the noted findings. AP = accessory pathway. 
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+ECG
+
+Sinus node
+Atrium
+AV node
+His bundle
+
+Ventricle
+
+B
+
+*
+
+1
+
+2
+
+3
+
+*
+
+4
+
+5*
+
+ECG
+Sinus node
+
+Atrium
+
+AV node
+His bundle
+Ventricle
+
+A
+
+V
+
+A    H
+
+ECG
+
+Atrium
+
+AV junction
+
+Ventricle
+
+C
+
+ECG
+
+Atrium
+
+AV junction
+
+Ventricle
+
+D
+
+FIGURE34-3  Intracardiac signals and ladder diagrams. A, A single beat is shown with accompanying intracardiac signals from the sinus node, right atrium, AV nodal and His 
+bundle regions, and right ventricle. B, The same beat is shown with the accompanying ladder diagram below. Cardiac regions have been divided into tiers separated by horizontal 
+lines. Vertical dotted lines denote onset of the P wave and QRS complexes. Note the relatively steep lines (rapid conduction through the atrium, His bundle, and ventricular mus-
+cle) and more gently sloping lines as the impulse traverses the sinus and AV nodes (signifying slow conduction). C, Several different situations are depicted with accompanying 
+explanatory ladder diagrams. Beat 1 is normal, as in B; beat 2 shows first-degree AV delay, with the more gradual slope than normal in the AV nodal tier signifying very slow 
+conduction in this region. In beat 3, an atrial premature complex is shown (starting in the atrial tier at the asterisk) and is producing an inverted P wave on the ECG. In beat 4, 
+an ectopic impulse arises in the His bundle (asterisk) and propagates to the ventricle, as well as retrogradely through the AV node to the atrium. In beat 5, a ventricular ectopic 
+complex (asterisk) conducts retrogradely through the His bundle and AV node and eventually to the atrium. D, A Wenckebach AV cycle (type I second-degree block) is shown. As 
+the PR interval progressively increases from left to right in the figure, the slope of the line in the AV nodal region is progressively less steep until it fails to propagate at all after the 
+fourth P wave (small line perpendicular to the sloping AV nodal conduction line), after which the cycle repeats. A = atrial recording; H = His recording; V = ventricular recording. 
+
+666
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+ wave
+
+ wave
+
+RBBB + long PR
+
+Wolff-Parkinson-White
+
+Brugada sign
+
+RV dysplasia
+
+(delayed conduction)
+
+(delta wave  slurred QRS)
+
+(coved ST elevation)
+
+(epsilon wave  rippled ST)
+
+AV block
+
+SVT, preexcited AF
+
+VT, VF
+
+VT, VF
+
+Normal
+
+Long QT
+
+(QT >440 msec)
+
+VT, VF
+
+Short QT
+
+(QT <300 msec)
+
+VT, VF
+
+Hypertrophic CM
+
+(tall R, deep S waves)
+
+VT, VF
+
+Fragmented QRS
+(multiple notches)
+
+VT, VF
+
+FIGURE34-4  Electrocardiographic abnormalities in resting rhythm that suggest potential for arrhythmia. Lead V1 is shown in each example; a normal complex is presented 
+at the left for reference. CM = cardiomyopathy; RBBB = right bundle branch block; RV = right ventricular. 
+
+with  SVT  (aside  from  those  with  Wolff-Parkinson-White  syndrome), 
+findings  on  the  resting  ECG  are  normal.  This  is  also  true  for  many 
+patients  with  ventricular  tachyarrhythmias.  Thus  although  it  is 
+capable of showing an abnormality with possible arrhythmic impli-
+cations, the resting ECG is not a very sensitive tool. In light of this, 
+the following additional tests can be used to evaluate patients who 
+have cardiac arrhythmias. The physicians choice of which test to use 
+depends on the clinical circumstances. For example, a patient with 
+multiple  daily  episodes  of  presyncope  is  likely  to  have  an  event 
+recorded  on  a  24-hour  ambulatory  electrocardiographic  (Holter) 
+monitor, whereas in a patient who complains of infrequent exercise-
+induced  palpitations,  exercise  stress  testing  may  be  more  likely  to 
+provide a diagnosis.
+
+ExerciseTesting
+Exercise can induce various types of supraventricular and ventricular 
+tachyarrhythmias and, uncommonly, bradyarrhythmias (see Chapter 
+13). Ventricular ectopy develops in approximately a third of normal 
+subjects in response to exercise testing. Ectopy is more likely to occur 
+at faster heart rates, usually in the form of occasional PVCs of con-
+stant morphology or even pairs of PVCs, and is often not reproducible 
+from one stress test to the next. Three to six beats of nonsustained 
+VT can occur in normal patients, especially the elderly, and its occur-
+rence does not establish the existence of ischemic or other forms of 
+heart disease or predict increased cardiovascular morbidity or mor-
+tality. PVCs are often more common during exercise than at rest and 
+increase in frequency with age; their occurrence does not imply the 
+presence of structural heart disease. A persistent elevation in heart 
+rate after the end of exercise (delay in return to baseline) is associ-
+ated with a worse cardiovascular prognosis.
+
+PVCs  develop  in  approximately  50%  of  patients  with  coronary 
+artery  disease  in  response  to  exercise  testing.  Ventricular  ectopy 
+appears in these patients at lower heart rates (<130 beats/min) than 
+in  the  normal  population  and  often  occurs  in  the  early  recovery 
+period as well. Frequent (>7 PVCs/min) or complex ectopy is associ-
+ated with a worse prognosis. Exercise reproduces sustained VT or VF 
+in  less  than  10%  of  patients  with  spontaneous  VT  or  VF  late  after 
+myocardial  infarction,  and  these  patients  have  a  worse  prognosis. 
+The relationship of exercise to ventricular arrhythmia in patients with 
+structurally normal hearts has no prognostic implications.
+
+Patients  who  have  symptoms  consistent  with  an  arrhythmia 
+induced by exercise (e.g., syncope, sustained palpitations) should be 
+considered  for  stress  testing.  Stress  testing  may  be  indicated  to 
+provoke supraventricular and ventricular arrhythmias, to determine 
+
+the relationship of the arrhythmia to activity, to aid in choosing antiar-
+rhythmic therapy and uncovering proarrhythmic responses, and pos-
+sibly to provide some insight into the mechanism of the tachycardia. 
+The  test  can  be  performed  safely;  however,  prolonged  ambulatory 
+recording  is  more  sensitive  than  exercise  testing  in  detecting  most 
+arrhythmias. Because either technique can uncover serious arrhyth-
+mias  that  the  other  technique  misses,  both  examinations  may  be 
+indicated for selected patients. Stress testing is frequently useful in 
+patients  with  long-QT  syndrome  and  catecholaminergic  VT  (see 
+Chapters 13 and 32).5
+
+In-HospitalElectrocardiographicRecording
+Electrocardiographic monitoring systems are used in increasing pro-
+portions  of  inpatients  regardless  of  history  or  suspicion  of  arrhyth-
+mias. These systems can provide valuable information about rhythm 
+abnormalities, including mode of onset and termination, and allow 
+prompt  acquisition  of  a  full  12-lead  ECG  for  more  detail.  Telemetry 
+may disclose intermittent heart block in a patient with presyncope 
+that may warrant consideration of pacemaker implantation or reveal 
+nonsustained VT in a patient with previous myocardial infarction and 
+left  ventricular  dysfunction  and  prompt  an  electrophysiology  study 
+for further assessment of risk. As often as telemetry is helpful in such 
+cases, however, it can be misleading: artifact can simulate VT or VF, 
+heart block, or asystole. Careful scrutiny is necessary to avoid unnec-
+essary tests and procedures in patients with these artifactual arrhyth-
+mias (Fig. 34-5; real and artifact on monitor).
+
+Long-TermElectrocardiographicRecording
+Prolonged  electrocardiographic  recording  in  patients  engaged  in 
+normal  daily  activities  is  the  most  useful  noninvasive  method  to 
+document and quantitate the frequency and complexity of an arrhyth-
+mia, to correlate the arrhythmia with the patients symptoms, and to 
+evaluate the effect of antiarrhythmic therapy on spontaneous arrhyth-
+mia. For example, recording normal sinus rhythm during the patients 
+typical symptomatic episode effectively excludes cardiac arrhythmia 
+as a cause. In addition, some recorders can document alterations in 
+QRS, ST, and T contours.
+
+Ambulatory Electrocardiographic (Holter) Recording
+Continuous electrocardiographic tape recorders represent the tradi-
+tional Holter monitor and digitally record three or more electrocar-
+diographic channels for 24 to 48 hours. Computers scan the recording 
+media,  with  human  oversight,  to  provide  a  report  with  snapshot 
+
+A
+
+B
+
+C
+
+D
+
+E
+
+FIGURE 34-5  Electrocardiographic  events  and  artifacts.  A,  Sinus  rhythm  punctuated  by  short  episodes  of  atrial 
+tachycardia with a more rapid ventricular rate (between the white arrows). B, Pseudoatrial arrhythmia. Sinus rhythm 
+is present throughout (no variation in the R-R interval) despite the appearance of a short episode of atrial flutter or 
+fibrillation (between the black arrows). C, nonsustained VT (between the white arrows) with wide rapid QRS complexes 
+not preceded by a P wave and seen in two monitor leads. D, Pseudo-VT. Despite the appearance of VT (between the 
+black arrows), sinus rhythm is present throughout (including complexes indicated by asterisks). E, Pseudopacemaker 
+failure. After the first five paced complexes, the ECG is flat in both monitor leads, thus suggesting failure of pacemaker 
+output; however, the pulse contour on the blood pressure (BP) tracing indicates that the heart is still contracting and 
+the pacemaker is still working whereas the ECG monitor is not. 
+
+recordings  of  symptomatic  events  and  other  important  findings 
+(asymptomatic  arrhythmias,  ST-segment  changes).  All  systems  can 
+potentially record more information than the physician needs or can 
+assimilate.  As  long  as  the  system  detects  important  episodes  of 
+ectopic activity, VT, or asystolic intervals and semiquantitates these 
+abnormalities, the physician probably receives all the clinical infor-
+mation that is needed. Twenty-five percent to 50% of patients experi-
+ence  a  complaint  during  a  24-hour  recording;  in  2%  to  15%  the 
+complaint is caused by an arrhythmia (Fig. 34-6). The ability to cor-
+relate symptoms temporally with abnormalities on the ECG is one of 
+the strengths of this technique.
+
+Significant rhythm disturbances are uncommon in healthy young 
+persons.  Sinus  bradycardia  with  heart  rates  of  35  to  40  beats/min, 
+sinus  arrhythmia  with  pauses  exceeding  3  seconds,  sinoatrial  exit 
+block,  type  I  (Wenckebach)  second-degree  AV  block  (often  during 
+sleep),  wandering  atrial  pacemaker,  junctional  escape  complexes, 
+and premature atrial complexes and PVCs can be observed and are 
+not necessarily abnormal. Frequent and complex atrial and ventricu-
+lar rhythm disturbances are less commonly observed, however, and 
+type II second-degree AV conduction disturbances (see Chapter 37) 
+are not recorded in normal patients. Elderly patients (see Chapter 
+76) have a higher prevalence of arrhythmias, some of which may be 
+responsible  for  neurologic  symptoms  (Fig.  34-7;  also  see  Chapter 
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+667
+
+87).  The  long-term  prognosis  in  asymp-
+tomatic  healthy  subjects  with  frequent 
+and complex PVCs usually resembles that 
+of the healthy U.S. population, without an 
+increased  risk  for  death.  However,  fre-
+quent  PVCs  (>15%  of  the  total)  have 
+recently  been  shown  to  produce  cardio-
+myopathy  and  heart  failure 
+in  some 
+people, which can be reversed following 
+elimination of the PVCs.
+Most  patients  with 
+
+ischemic  heart 
+disease,  particularly  after  myocardial 
+infarction  (see  Chapters  51  and  52), 
+exhibit PVCs when they are monitored for 
+24  hours.  The  frequency  of  PVCs  progres-
+sively  increases  during  the  first  several 
+weeks  and  then  decreases  at  about  6 
+months  after 
+infarction.  Frequent  and 
+complex  PVCs  are  associated  with  a 
+twofold 
+for 
+cardiac  or  sudden  death  in  patients  after 
+myocardial  infarction,  but  treating  these 
+PVCs may not improve the prognosis. CAST 
+(Cardiac  Arrhythmia  Suppression  Trial) 
+showed  that  PVCs  identified  patients  at 
+increased  risk  for  sudden  death  but  that 
+successful  suppression  of  PVCs  with  fle-
+cainide,  encainide,  or  moricizine  was  
+associated  with  increased  mortality  in 
+comparison 
+to  placebo.  Recent  data  
+indicate that ablation of PVCs after myocar-
+dial  infarction  may  improve  previously 
+depressed ventricular function.
+
+increased  risk 
+
+to  fivefold 
+
+Long-term  recording  of  the  ECG  has 
+also  exposed  potentially  serious  arrhyth-
+mias  and  complex  ventricular  ectopy  in 
+patients with left ventricular hypertrophy, 
+as  well  as  in  those  with  hypertrophic, 
+dilated, and ischemic cardiomyopathy; in 
+those  with  mitral  valve  prolapse  (see 
+Chapter  63);  in  those  with  otherwise 
+unexplained  syncope  (see  Chapter  40) 
+or transient vague cerebrovascular symp-
+toms; and in those with conduction distur-
+bances, 
+dysfunction, 
+bradycardia-tachycardia syndrome, Wolff-
+Parkinson-White syndrome (see Chapter 
+37),  and  pacemaker  malfunction  (see  Chapter  36).  It  has  been 
+shown that asymptomatic AF occurs far more often than symptomatic 
+episodes in patients with AF.
+
+node 
+
+sinus 
+
+Variations of Holter recording have been used for particular appli-
+cations.  Some  monitoring  systems  are  able  to  reconstruct  a  full 
+12-lead ECG from a 7-electrode recording system. This is especially 
+useful  in  trying  to  document  the  electrocardiographic  morphology 
+of  VT  before  an  ablation  procedure  or  a  consistent  morphology  of 
+PVCs that may arise from an ablatable focus of VT or VF. Most Holter 
+recording  and  analysis  systems  can  place  a  clearly  recognizable 
+deflection on the recording when a pacemaker stimulus is detected. 
+This greatly facilitates diagnosis of potential pacemaker malfunction. 
+On  occasion,  artifacts  on  the  ECG  caused  by  alterations  in  tape 
+recording or playback speed can mimic bradycardias or tachycardias 
+and lead to erroneous therapy. Newer digital Holter systems are less 
+subject to this phenomenon. Finally, most systems can also provide 
+heart rate variability and QT data (see later). Use of these systems for 
+detection of myocardial ischemia (ST-segment analysis) has yielded 
+mixed results (in both specificity and sensitivity).
+
+Event Recording
+In many patients, the 24- or 48-hour snapshot provided by the Holter 
+recording  is  incapable  of  documenting  the  cause  of  the  patients 
+
+668
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+6/25/2003  8:01:15  PM[M]
+0h02m01s85
+
+Event 2 continued
+
+6/25/2003  8:01:15  PM[M]
+0h02m09s88
+
+FIGURE34-6  Long-term electrocardiographic recording in a patient with palpitations. A three-channel monitor shows 
+sinus rhythm followed by nine wide QRS complexes of VT (labeled V); the complex that precedes these is a fusion be-
+tween the normal complex and wide (F). Arrows indicate retrograde P waves during tachycardia. The presence of fewer 
+P waves than QRS complexes and a fusion complex at the outset confirm the diagnosis of VT (which correlated with the 
+patients palpitations). 
+
+Speed: 25 mm/s  Gain: 10 mm/mV  High-pass filter: none  Low-pass filter: 40Hz
+
+Speed: 25 mm/s  Gain: 10 mm/mV  High-pass filter: none  Low-pass filter: 40Hz
+
+from 
+
+these  events 
+
+Most  currently  available  pacemak-
+ers  and  implantable  defibrillators  are 
+capable  of  providing  Holter-like  data 
+when premature beats or tachycardia 
+episodes occur and can store electro-
+grams  of 
+the 
+implanted leads.7 The device can then 
+be interrogated and the electrograms 
+printed  for  analysis.  Many  implanted 
+device  systems  incorporate  remote 
+monitoring  so 
+if  symptoms 
+develop, patients can perform device 
+interrogation at home; the information 
+is then transmitted via the Internet to 
+the physicians office and thus enables 
+more prompt diagnosis and treatment 
+than if the patient had to schedule an 
+outpatient visit.
+
+that 
+
+CH1
+
+0h02m09s98
+
+Implantable Loop Recorder
+For patients with very infrequent symp-
+toms,  neither  Holter  recorders  nor 
+30-day event recorders may yield diag-
+nostic  information.  In  such  patients, 
+an implantable loop recorder may be 
+used. This device (about the size of a 
+pack  of  chewing  gum)  is  inserted 
+under the skin at about the second rib 
+on the left front aspect of the chest and 
+is  activated  by  passing  a  special 
+magnet over the device. It is capable 
+of  recording  up  to  42  minutes  of  a 
+single channel of the ECG that can be 
+partitioned for one to seven episodes, 
+with up to 20 minutes of the preactiva-
+tion  ECG  being  saved  for  subsequent 
+downloading  to  a  programming  unit 
+for  analysis.  Both  P  waves  and  QRS 
+complexes  can  usually  be  identified. 
+The device can be configured to store 
+patient-activated  episodes,  automati-
+cally activated recordings (heart rate 
+outside preset parameters), or a com-
+bination  of  these.  In  one  report  of 
+patients with unexplained syncope, a 
+diagnosis  was  ultimately  made  in  80%  by  long-term  monitoring,  in 
+26% of them after 18 months of monitoring.8
+
+0h02m18s01
+
+CH1
+
+FIGURE34-7  Continuous electrocardiographic recording from a patient-activated event monitor during an episode of 
+lightheadedness. Sinus rhythm at 75 beats/min with sudden AV block is present with pauses of longer than 4 seconds, and 
+in the bottom strip there is an effective heart rate of approximately 8 beats/min. 
+
+symptoms. Longer-term monitoring, such as with an event recorder, 
+is necessary in these cases, which occur frequently. These devices 
+are about the size of a pager and are kept by the patient for 30 days. 
+During that time, digital recordings can be made during symptomatic 
+episodes  and  be  transmitted  to  a  receiving  station  over  standard 
+telephone lines at the patients convenience (see Fig. 34-7). Some of 
+these  recorders  store  more  than  30  seconds  of  the  ECG  before  the 
+patient activates the recording. These loop recorders record continu-
+ously, but only a small window of time is present in memory at any 
+moment; when the event button is pressed by the patient, the current 
+window is frozen while the device continues recording for another 
+30 to 60 seconds, depending on how it is configured. Event recorders 
+are highly effective in documenting infrequent events, but the quality 
+of the recordings is more subject to motion artifact than with Holter 
+recorders, and usually only one channel can be recorded. With some 
+systems the patient must be able to press the event button to begin 
+recording; if syncope occurs without warning and the patient is not 
+able to actuate the device, it cannot provide diagnostic information. 
+With  other  systems,  the  device  automatically  begins  recording  the 
+rhythm  when  the  heart  rate  increases  or  decreases  outside  preset 
+parameters.  Some  systems  incorporate  cell  phone  technology  that 
+automatically notifies a central monitoring facility when certain con-
+ditions are met (e.g., extreme bradycardia or tachycardia). In this way 
+the  time  between  occurrence  and  effective  treatment  of  serious 
+arrhythmias can be significantly shortened.6
+
+A  variety  of  additional  noninvasive  tests  have  been  developed 
+primarily to assess the risk for arrhythmic death in different groups 
+of patients; although each has some applicability, none has enjoyed 
+widespread  use  because  of  suboptimal  sensitivity  and  specificity. 
+Several of these tests are discussed in the following sections.
+
+Heart Rate Variability
+Heart rate variability is used to evaluate vagal and sympathetic influ-
+ences on the sinus node (inferring that the same activity is also occur-
+ring in the ventricles) and to identify patients at risk for a cardiovascular 
+event or death.9 Frequency domain analysis resolves parasympathetic 
+and  sympathetic  influences  better  than  time  domain  analysis  does, 
+but both types of analysis are useful. R-R variability predicts all-cause 
+mortality, as well as left ventricular ejection fraction or nonsustained 
+VT  in  patients  after  myocardial  infarction,  and  can  be  added  to   
+other measures of risk to enhance predictive accuracy. Similar results 
+have  been  obtained  in  patients  with  dilated  cardiomyopathy  (see 
+Chapters  25  and  65).  High-frequency  components  of  R-R  interval 
+variability reflect tonic vagal activity. Reduced R-R interval variability, 
+a marker of increased risk, indicates loss or reduction of the physio-
+logic  periodic  sinus  node  fluctuations,  which  has  many  potential 
+causes and may not necessarily represent a significant shift in auto-
+nomic modulation. New indices of heart rate variability are continually 
+being  evaluated.  Even  the  simple  measure  of  resting  heart  rate  has 
+been shown to be an independent cardiovascular risk factor, although 
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+a target safe heart rate has not been established, as has the heart 
+rate obtained during and after exercise.
+
+Heart Rate Turbulence
+Heart  rate  turbulence  is  an  index  of  changes  in  the  sinus  discharge 
+rate after a PVC that is followed by a compensatory pause.10 In normal 
+individuals,  the  sinus  rate  initially  accelerates  and  then  slows;  this 
+phenomenon is blunted or absent in patients with various heart dis-
+eases.  Heart  rate  turbulence  is  a  measure  of  reflex  vagal  control  of 
+the heart, whereas heart rate variability is more indicative of overall 
+vagal tone. Abnormal heart rate turbulence is a strong independent 
+predictor  of  mortality  in  patients  with  coronary  artery  disease  and 
+dilated  cardiomyopathy;  abnormal  indices  in  some  patients  can  be 
+improved or normalized after treatment with beta blockers and statin 
+drugs.
+
+QT Dispersion
+Heterogeneity in refractoriness and conduction velocity is a hallmark 
+of reentrant arrhythmias. One index of the heterogeneity of ventricu-
+lar refractoriness can be found in differences in the length of the QT 
+interval on surface leads of the ECG. The index most commonly used 
+to calculate this QT dispersion has been the difference between the 
+longest and shortest QT intervals on the 12-lead ECG, which is often 
+adjusted for heart rate and the number of leads sampled (when the 
+T  wave  is  flat  in  some).  Other  indices  have  also  been  developed. 
+Abnormally  high  QT  dispersion  has  been  correlated  with  risk  for 
+arrhythmic  death  in  patients  with  various  disorders,  although  the 
+results  are  not  consistent.  Its  mechanism  has  been  characterized  in 
+several  disease  states.  QT  dispersion  has  been  correlated  with  both 
+efficacy  and  the  proarrhythmic  potential  of  drug  therapy.  Different 
+techniques  exist  for  determining  dispersion  (including  automated 
+algorithms), and the results of one study are often difficult to compare 
+with those of another; in addition, the test is sensitive to age, time of 
+day, season of year, and even body position.11 Overall, assessment of 
+QT dispersion has not gained popularity as a useful clinical tool.
+
+Signal-Averaged Electrocardiography and Late Potentials
+Signal averaging is a method that improves the signal-to-noise ratio 
+when the signals are recurrent and the noise is random. In conjunction 
+with appropriate filtering and other methods of noise reduction, signal 
+averaging can detect cardiac signals of a few microvolts in amplitude 
+and  reduce  noise  amplitude,  such  as  muscle  potentials,  which  are 
+typically 5 to 25 mV, to less than 1 mV. With this method, very low-
+amplitude electrical potentials generated by the sinus and AV nodes, 
+His bundle, and bundle branches are detectable at the body surface.
+One  constituent  of  reentrant  ventricular  arrhythmias  in  patients 
+with previous myocardial damage is slow conduction. Direct cardiac 
+mapping  techniques  can  record  the  myocardial  activation  from 
+damaged areas that occurs after the end of the surface electrocardio-
+graphic QRS complex during sinus rhythm. These delayed signals have 
+a very low amplitude that cannot be discerned by routine electrocar-
+diography and correspond to the delayed and fragmented conduction 
+in the ventricles recorded with direct mapping techniques (Fig. e34-1). 
+Signal averaging has been applied clinically most often to detect such 
+late ventricular potentials of 1 to 25 mV. Criteria for late potentials are 
+the  following:  (1)  filtered  QRS  complex  duration  longer  than  114  to 
+120 milliseconds, (2) less than 20 mV of the root mean square signal 
+amplitude in the last 40 milliseconds of the filtered QRS complex, and 
+(3) terminal filtered QRS complex remaining below 40 mV for longer 
+than 39 milliseconds. Such late potentials have been recorded in more 
+than 70% of patients with spontaneous sustained and inducible VT 
+after myocardial infarction but in only 0% to 6% of normal volunteers. 
+Late potentials can be detected as early as 3 hours after the onset of 
+coronary artery occlusion, increase in prevalence in the first week after 
+myocardial infarction, and disappear in some patients after 1 year. If 
+they are not present initially, late potentials do not usually appear later. 
+Patients  with  bundle  branch  block  or  paced  ventricular  rhythms 
+already have wide QRS complexes, thus rendering the technique less 
+useful in these cases.
+
+Late  potentials  have  also  been  recorded  in  patients  with  VT  not 
+related to ischemia, such as in those with dilated cardiomyopathy. The 
+presence  of  a  late  potential  is  a  sensitive  but  not  specific  marker  of 
+arrhythmic risk, and therefore its prognostic use is limited. In specific 
+situations  it  can  be  helpful,  for  example,  in  a  patient  suspected  of 
+having arrhythmogenic right ventricular cardiomyopathy12 or a patient 
+with  a  previous  inferior  wall  myocardial  infarction  (normally  the  last 
+portion of the heart to be activated), in whom the absence of a late 
+potential suggests very low risk of having VT episodes.
+
+669
+
+The  high-pass  filtering  used  to  record  late  potentials  meeting  the 
+criteria  just  noted  is  called  time  domain  analysis  because  the  filter 
+output corresponds in time to the input signal. Because late potentials 
+are high-frequency signals, Fourier transform can be applied to extract 
+high-frequency  content  from  the  signal-averaged  ECG,  called  fre-
+quency domain analysis. Some data suggest that frequency domain 
+analysis  provides  useful  information  not  available  with  time  domain 
+analysis.
+
+Signal averaging has been applied to the P wave to determine risk 
+for  the  development  of  AF  (especially  after  cardiac  surgery),  as  well 
+as  maintenance  of  sinus  rhythm  after  cardioversion.13  Overall  use  of 
+the technique remains limited at present.
+
+TWaveAlternans
+Beat-to-beat alternation in the amplitude or morphology of the elec-
+trocardiographic  recording  of  ventricular  repolarization,  the  ST 
+segment  and  T  wave,  has  been  found  in  conditions  favoring  the 
+development of ventricular tachyarrhythmias, such as ischemia and 
+long-QT syndrome, and in patients with ventricular arrhythmias. The 
+electrophysiologic basis appears to be the alternation of repolariza-
+tion of ventricular myocytes. In the presence of a long QT interval, 
+the  cellular  basis  of  alternation  may  be  beat-to-beat  repolarization 
+changes  in  midmyocardial  cells  (so-called  M  cells).  Whether  this 
+mechanism applies to different disease states is not known. T wave 
+alternans testing requires exercise or atrial pacing to achieve a heart 
+rate of 100 to 120 beats/min with relatively little atrial or ventricular 
+ectopic  activity.  The  test  is  less  useful  in  patients  with  a  wide  QRS 
+complex (>120 milliseconds). A positive T wave alternans test result 
+(Fig. e34-2) has been associated with a worse arrhythmic prognosis 
+in various disorders, including ischemic heart disease and nonisch-
+emic cardiomyopathy. Although the predictive value of a positive test 
+result varies greatly, depending on the population studied, a negative 
+test  result  strongly  predicts  freedom  from  VT  and  VF  in  all  group 
+studied  thus  far,  at  least  during  a  short  follow-up  period.  Thus  the 
+tests best application appears to be in patients whose arrhythmic risk 
+is equivocal, in whom a negative T wave alternans test result suggests 
+low risk for the development of life-threatening ventricular arrhyth-
+mias. T wave alternans testing alone has not helped segregate patients 
+more  likely  to  benefit  from  implantable  cardioverter-defibrillator 
+(ICD) use (positive test result) from those who are not (negative test 
+result) and should therefore not undergo ICD implantation. Both fre-
+quency  domain  (spectral  method)  and  time  domain  (modified 
+moving  average)  analyses  have  usefulness  in  risk  stratification.  T 
+wave  alternans  may  represent  a  fundamental  marker  of  an  electri-
+cally  unstable  myocardium  prone  to  the  development  of  VT  or  VF, 
+but  because  of  its  relatively  minor  incremental  value  in  defining 
+arrhythmic risk, it is not frequently used at present.14
+
+Baroreceptor Reflex Sensitivity Testing
+Acute  blood  pressure  elevation  triggers  a  baroreceptor  reflex  that 
+augments  vagal  tone  to  the  heart  and  slows  the  sinus  rate.  The 
+increase in sinus cycle length per millimeter mercury increase in sys-
+tolic blood pressure is a measure of the sensitivity of the baroreceptor 
+reflex and, when reduced, identifies patients susceptible to the devel-
+opment of VT and VF. The mechanism of the reduction in barorecep-
+tor reflex sensitivity is not certain. However, this test may be useful to 
+identify patients at risk for the development of a serious ventricular 
+arrhythmia after myocardial infarction.
+
+Body Surface Mapping
+Isopotential body surface maps are used to provide a complete picture 
+of  the  effects  of  currents  from  the  heart  on  the  body  surface.  The 
+potential distributions are represented by contour lines of equal poten-
+tial, and each distribution is displayed instant by instant throughout 
+activation, recovery, or both.
+
+Body  surface  maps  have  been  used  clinically  to  localize  and  size 
+areas  of  myocardial  ischemia,  to  localize  ectopic  foci  or  accessory 
+pathways, to differentiate aberrant supraventricular conduction from 
+ventricular origin, to recognize patients at risk for the development of 
+arrhythmias,  and  possibly  to  understand  the  mechanisms  involved. 
+Although these procedures are of interest, their clinical usefulness has 
+not yet been established. In addition, the technique is cumbersome 
+and the analysis is complex.
+
+SIGNAL-AVERAGED ECG
+
+669.e1
+
+ABNORMAL
+
+z
+
+x
+
+y
+
+NORMAL
+
+z
+
+x
+
+y
+
+S
+T
+L
+O
+V
+O
+R
+C
+M
+
+I
+
+S
+T
+L
+O
+V
+O
+R
+C
+M
+
+I
+
+250
+
+0
+
+250
+100
+
+50
+
+0
+
+S
+T
+L
+O
+V
+O
+R
+C
+M
+
+I
+
+S
+T
+L
+O
+V
+O
+R
+C
+M
+
+I
+
+250
+
+0
+
+250
+100
+
+50
+
+0
+
+0
+
+100
+
+200
+
+300
+
+0
+
+100
+
+200
+
+300
+
+TIME (msec)
+
+TIME (msec)
+
+FIGUREe34-1  Signal-averaged ECG. Normal (left) and abnormal (right) results are shown from a patient with previous myocardial infarction and VT. Bottom panels, 
+Shaded blue areas at the end of each tracing represent the voltage content of the last 40 milliseconds of the filtered QRS integral. The small shaded area (red arrowhead) in 
+the abnormal study denotes prolonged, slow conduction and suggests the potential for reentrant ventricular arrhythmias. 
+
+NEGATIVE STUDY
+
+POSITIVE STUDY
+
+T WAVE ALTERNANS
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+120
+
+100
+
+i
+
+/
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+ 
+
+D
+A
+B
+
+)
+
+%
+
+(
+
+ 
+
+I
+
+E
+S
+O
+N
+
+)
+
+V
+
+(
+
+2
+V
+e
+
+3
+V
+e
+
+80
+
+60
+
+20
+0
+2
+1
+0
+
+Ectopics/noise
+
+Ectopics/noise
+
+Ectopics/noise
+
+140
+
+120
+
+100
+
+/
+
+i
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+ 
+
+80
+20
+
+0
+2
+1
+0
+
+Ectopics/noise
+
+2.8, 4.7, 1.5
+Ectopics/noise
+
+3.5, 4.2, 2.0
+Ectopics/noise
+
+2 µV
+
+Min
+
+D
+A
+B
+
+)
+
+%
+
+(
+
+ 
+
+I
+
+E
+S
+O
+N
+
+)
+
+V
+
+(
+
+2
+V
+e
+
+3
+V
+e
+
+2 µV
+
+Min
+
+0
+
+4
+
+8 12 16 20 24 28 32 36 40 44
+
+0
+
+2
+
+4
+
+6
+
+8 10 12 14 16 18 20 22
+
+TIME
+
+TIME
+
+FIGUREe34-2  T wave alternans. Reports of T wave alternans analysis from two patients are shown and display the heart rate in beats/min (HR BPM), proportion of beats 
+rejected from analysis (% BAD), ECG noise level (in microvolts), and selected precordial leads (eV2 and eV3) as a function of time. Left panel, Records from a patient with no 
+structural heart disease; the amplitude of T wave alternans was minimal. Right panel, Records from a patient hospitalized for sustained VT after myocardial infarction show 
+T wave alternans (blue shaded area, arrowhead). 
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+670
+
+Electrocardiographic Imaging
+Another  promising  technology  is  electrocardiographic  imaging,  in 
+which cardiac electrical activity recorded at the skin surface is spatially 
+integrated with imaging data (currently, cardiac computed tomogra-
+phy  scanning).  Using  complex  mathematical  processing  of  electrical 
+data collected from 224 electrodes on the skin surface, this technique 
+can plot or project atrial and ventricular electrical activity on an epi-
+cardial  shell  of  the  patients  own  heart  and  thereby  follow  the 
+course  of  activation  during  sinus  rhythm  or  an  arrhythmia.  Clinical 
+experience is limited thus far, but both SVTs and VTs have been able 
+to be localized in a variety of settings.15
+
+UprightTilt-TableTesting
+The tilt-table test is used to identify patients who have a vasodepressor 
+or cardioinhibitory response as a cause of syncope (see Chapter 40). 
+Patients  are  placed  on  a  tilt  table  in  the  supine  position  and  tilted 
+upright to a maximum of 60 to 80 degrees for 20 to 45 minutes or longer 
+if  necessary  (Fig.  e34-3).  Isoproterenol,  administered  as  a  bolus  or 
+infusion,  may  provoke  syncope  in  patients  whose  initial  upright  tilt-
+table test result shows no abnormalities or, after a few minutes of tilt, 
+may shorten the time needed to produce a positive response on the 
+test.  An  initial  intravenous  isoproterenol  dose  of  1 µg/min  can  be 
+increased in 0.5-µg/min steps until symptoms occur or a maximum of 
+4 µg/min is given. Isoproterenol induces a vasodepressor response in 
+upright susceptible patients (decrease in heart rate and blood pres-
+sure  along  with  near-syncope  or  syncope).  Tilt-table  test  results  are 
+positive in two thirds to three fourths of patients susceptible to neu-
+rally  mediated  syncope  and  are  reproducible  in  approximately  80% 
+but have a 10% to 15% false-positive response rate. A positive test result 
+is more meaningful when it reproduces symptoms that have occurred 
+spontaneously.  Positive  responses  can  be  divided  into  cardioinhibi-
+tory, vasodepressor, and mixed categories. Therapy with beta block-
+ers,  disopyramide, 
+reuptake 
+inhibitors,  midodrine,  fludrocortisone,  salt  loading,  and  thigh-high 
+support stockings, alone or in combination, has been reported to be 
+successful but not with reliable reproducibility. Tilt training, in which 
+the patient leans against a wall for prolonged periods to increase toler-
+ance to this body position, as well as isometric muscle flexing to abort 
+or lessen an episode, may help. Permanent pacing has been useful in 
+a subset of patients with significant bradycardia.
+
+theophylline,  selective  serotonin 
+
+A  variant  of  the  neurocardiogenic  response,  postural  orthostatic 
+tachycardia syndrome (POTS), is characterized by dramatic increases 
+in heart rate during the first 10 minutes of tilt-table testing. POTS appears 
+to  be  distinct  from  simple  orthostatic  hypotension,  as  well  as  from 
+standard neurocardiogenic responses, and is thought to be caused by 
+various forms of autonomic imbalance. Relief of symptoms has been 
+effected with fludrocortisone, beta blockers, or combinations.
+
+Esophageal Electrocardiography
+Esophageal electrocardiography is a useful noninvasive technique for 
+diagnosing arrhythmias. The esophagus is located immediately behind 
+the left atrium, between the left and right pulmonary veins. An elec-
+trode  in  the  lumen  of  the  esophagus  can  record  atrial  potentials. 
+Bipolar  recording  is  superior  to  unipolar  recording  because  far-field 
+ventricular events can lead to possible diagnostic confusion with uni-
+polar recording. In addition, atrial and occasionally ventricular pacing 
+can be performed by means of a catheter electrode inserted into the 
+esophagus, and tachycardias can be initiated and terminated. Optimal 
+electrode position for atrial pacing correlates with the patients height 
+and is within about 1 cm of the site at which the maximum amplitude 
+of the atrial electrogram is recorded. When it is recorded simultane-
+ously  with  the  surface  ECG,  the  esophageal  atrial  electrogram  can   
+be  used  to  differentiate  SVT  with  aberrancy  from  VT  and  to  define 
+the mechanism of SVTs. Complications of transesophageal recording 
+and  pacing  are  uncommon,  but  the  technique  is  cumbersome  and 
+uncomfortable  for  most  patients,  and  it  is  therefore  not  commonly 
+used.
+
+INVASIVEELECTROPHYSIOLOGICSTUDIES
+
+An invasive EPS involves introducing multipolar catheter electrodes 
+into  the  venous  or  arterial  system  and  positioning  them  at  various 
+
+intracardiac  sites  to  record  or  stimulate  cardiac  electrical  activity. 
+Assessment of AV conduction at rest is done by positioning the cath-
+eter along the septal leaflet of the tricuspid valve and measuring the 
+atrial-His  interval  (an  estimate  of  AV  nodal  conduction  time;  nor-
+mally, 60 to 125 milliseconds) and the His-ventricular (H-V) interval 
+(a  measure  of  infranodal  conduction;  normally,  35  to  55  millisec-
+onds). The heart is stimulated from portions of the atria or ventricles 
+and from the region of the His bundle, bundle branches, accessory 
+pathways, and other structures. Such studies are performed diagnos-
+tically to provide information about the type of clinical rhythm dis-
+turbance and insight into its electrophysiologic mechanism. An EPS 
+is used therapeutically to terminate a tachycardia by electrical stimu-
+lation or electroshock, to evaluate the effects of therapy by determin-
+ing whether a particular intervention modifies or prevents electrical 
+induction of a tachycardia or whether an electrical device properly 
+senses  and  terminates  an  induced  tachyarrhythmia,  and  to  ablate 
+myocardium  involved  in  the  tachycardia  and  prevent  further  epi-
+sodes. Finally, these tests have been used prognostically to identify 
+patients at risk for sudden cardiac death. The study may be helpful 
+in  patients  with  AV  block,  intraventricular  conduction  disturbance, 
+sinus  node  dysfunction,  tachycardia,  and  unexplained  syncope  or 
+palpitations (see Chapter 40).
+
+An  EPS  is  effective  at  initiating  VT  and  SVT  when  these  tachyar-
+rhythmias  have  occurred  spontaneously.  This  enables  the  use  of 
+similar stimulation techniques after an intervention (e.g., drug therapy 
+or catheter or surgical ablation) to assess the efficacy of treatment. 
+However, false-negative responses (not finding a particular electrical 
+abnormality  known  to  be  present)  and  false-positive  responses 
+(induction  of  a  nonclinical  arrhythmia)  may  complicate  interpreta-
+tion of the results because many lack reproducibility. Altered auto-
+nomic tone in a supine patient undergoing study, hemodynamic or 
+ischemic  influences,  changing  anatomy  (e.g.,  new  infarction)  after 
+the  study,  day-to-day  variability,  and  the  fact  that  the  test  uses  an 
+artificial trigger (electrical stimulation) to induce the arrhythmia are 
+several  of  many  factors  that  can  explain  the  occasional  disparity 
+between  test  results  and  spontaneous  occurrence  of  arrhythmia. 
+Overall,  the  diagnostic  validity  and  reproducibility  of  these  studies 
+are  good,  and  they  are  safe  when  performed  by  skilled  clinical 
+electrophysiologists.
+
+Atrioventricular Block
+In patients with AV block, the site of block usually dictates the clinical 
+course  of  the  patient  and  whether  a  pacemaker  is  needed  (see 
+Chapter 37). In general, the site of AV block can be determined from 
+analysis of the regular ECG. When the site of block cannot be deter-
+mined from such an analysis and when knowing the site of block is 
+imperative  for  management  of  the  patient,  an  invasive  EPS  is  indi-
+cated.  Candidates  include  symptomatic  patients  in  whom  a  His-
+Purkinje block is suspected but not established and patients with AV 
+block treated with a pacemaker who continue to be symptomatic and 
+in whom a causal ventricular tachyarrhythmia is suspected. Possible 
+candidates  are  those  with  second-  or  third-degree  AV  block,  for 
+whom information about the site of block or its mechanism may help 
+direct therapy or assess prognosis, and patients suspected of having 
+concealed His bundle extrasystoles. Patients with block in the His-
+Purkinje system become symptomatic because of periods of brady-
+cardia  or  asystole  and  require  pacemaker  implantation  more  often 
+than do patients who have AV nodal block. Type I (Wenckebach) AV 
+block in older patients may have clinical implications similar to those 
+for type II AV block. The results of EPS for evaluating the conduction 
+system must be interpreted with caution, however. In rare cases, the 
+process  of  recording  conduction  intervals  alters  their  values.  For 
+example, catheter pressure on the AV node or His bundle can cause 
+prolongation of the atrial-His or H-V interval and could lead to errone-
+ous diagnosis and therapy.
+
+Intraventricular Conduction Disturbance
+For patients with an intraventricular conduction disturbance, an EPS 
+provides  information  about  the  duration  of  the  H-V  interval,  which 
+can  be  prolonged  with  a  normal  PR  interval  or  normal  with  a 
+
+NORMAL
+
+AUTONOMIC FAILURE
+
+POSTURAL TACHYCARDIA
+
+670.e1
+
+i
+
+/
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+i
+
+/
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+VASODEPRESSOR
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+i
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+/
+
+R
+H
+
+i
+
+/
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+i
+
+/
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+/
+
+i
+
+)
+n
+m
+s
+t
+a
+e
+b
+(
+ 
+
+R
+H
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+CARDIOINHIBITORY
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+HR (beats/min)
+BP (mm Hg)
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+B
+P
+
+ 
+(
+
+m
+m
+H
+g
+)
+
+ 
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+MIXED
+
+0
+
+5
+
+10
+
+15 20 25
+
+TIME (min)
+
+FIGUREe34-3  Head-up tilt-table testing. Responses to tilt-table testing are shown; heart rate (HR) and systolic blood pressure (BP) are plotted as time functions. In the 
+upper panel, a normal response is an early, slight drop in BP with a compensatory increase in HR mediated by the autonomic nervous system. With autonomic dysfunction, a 
+progressive fall in BP is not counteracted by an increase in HR. In postural tachycardia syndrome, an exaggerated increase in HR is seen. The bottom panel depicts findings with 
+neurocardiogenic syncope: a pure vasodepressor response is a relatively sudden drop in BP without a marked change in HR, whereas a pure cardioinhibitory response shows a 
+sudden decrease in HR without a change in BP. A mixed response shows decreases in both HR and BP. 
+
+Baseline
+
+After Intravenous Procainamide
+
+1
+
+2
+
+V1
+
+V6
+
+HRA
+
+A
+
+V
+
+H
+
+HA
+
+V
+
+HA
+
+V
+
+HA
+
+HA
+
+V
+
+H-V = 62 msec
+
+H-V = 80 msec
+
+H-V = 118 msec
+
+H-V = 80 msec
+
+300 msec
+
+Hisprox
+
+Hisdist
+
+RVA
+
+Time
+
+FIGURE34-8  Testing the His-Purkinje system. A 43-year-old woman with sarcoid underwent EPS after a syncopal epi-
+sode. Surface leads 1, 2, V1, and V6 are shown, with intracardiac recordings from catheters in the high right atrium (HRA), 
+the proximal (Hisprox) and distal (Hisdist) electrode pairs of a catheter at the AV junction to record the His potential, and right 
+ventricular apex (RVA). During baseline recording, the H-V interval is only slightly prolonged (62 milliseconds). After infusion 
+of intravenous procainamide, the H-V interval is longer and an infra-His Wenckebach block is present. The arrowhead denotes 
+the missing QRS complex caused by infra-His block. A = atrial electrogram; H = His potential; V = ventricular electrogram. 
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+671
+
+Sinus  Node  Recovery  Time. 
+Sinus node recovery time (SNRT) is a 
+technique  that  can  be  useful  for 
+evaluating  sinus  node  function.  The 
+interval between the last paced high 
+right  atrial  response  and  the  first 
+spontaneous  (sinus)  high  right  atrial 
+response after termination of pacing 
+is  measured  to  determine  SNRT. 
+Because  the  spontaneous  sinus  rate 
+influences  SNRT,  the  value  is  cor-
+rected by subtracting the spontane-
+ous  sinus  node  cycle  length  (before 
+pacing)  from  the  SNRT  (Fig.  34-9). 
+This  value, 
+the  corrected  SNRT 
+(CSNRT),  is  generally  shorter  than 
+525  milliseconds.  A  prolonged 
+CSNRT  has  been  found  in  patients 
+suspected of having sinus node dys-
+function.  After  cessation  of  pacing, 
+the  first  return  sinus  cycle  can  be 
+normal  but  can  be  followed  by  sec-
+ondary  pauses.  Secondary  pauses 
+appear  to  be  more  common  in 
+patients  whose  sinus  node  dysfunc-
+tion is caused by sinoatrial exit block 
+(a potential cause of sinus pauses on 
+the  ECG).  Direct  recordings  of  the 
+sinus  node  electrogram  have  been 
+made, but the technique is cumber-
+some. Finally, it is important to evalu-
+ate  AV  node  and  His-Purkinje 
+function in patients with sinus node 
+dysfunction  because  many  also 
+exhibit impaired AV conduction.
+
+prolonged PR interval. A prolonged H-V interval (>55 milliseconds) 
+is associated with a greater likelihood for the development of a trifas-
+cicular block (but the rate of progression is slow, 2% to 3% annually) 
+and  for  having  structural  disease  and  with  higher  mortality.16  The 
+finding of very long H-V intervals (>80 to 90 milliseconds) identifies 
+patients at increased risk for the development of AV block. The H-V 
+interval  has  high  specificity  (80%)  but  low  sensitivity  (66%)  for 
+predicting the development of complete AV block. During the study, 
+atrial pacing is used to uncover abnormal His-Purkinje conduction. 
+A positive response is provocation of distal His block during 1:1 AV 
+nodal conduction at rates of 135 beats/min or less. Again, sensitivity 
+is  low  but  specificity  is  high.  Functional  His-Purkinje  block  caused 
+by normal His-Purkinje refractoriness is not a positive response. Drug 
+infusion, such as with procainamide or ajmaline, sometimes exposes 
+abnormal His-Purkinje conduction (Fig.  34-8). Ajmaline (not avail-
+able in the United States) can cause arrhythmias and should be used 
+cautiously.
+
+An EPS is indicated in patients with symptoms (syncope or presyn-
+cope) that appear to be related to a bradyarrhythmia or tachyarrhyth-
+mia when no other cause of symptoms is found. For many of these 
+patients, ventricular tachyarrhythmias rather than AV block can be 
+the cause of their symptoms, with obvious therapeutic implications.
+
+Sinus Node Dysfunction
+Demonstration of slow sinus rates, sinus exit block, or sinus pauses 
+temporally  related  to  symptoms  suggests  a  causal  relationship  and 
+usually obviates further diagnostic studies (see Chapter 37). Carotid 
+sinus pressure that results in several seconds of complete asystole or 
+AV block and reproduces the patients usual symptoms exposes the 
+presence  of  a  hypersensitive  carotid  sinus  reflex.  Carotid  sinus 
+massage must be done cautiously; rarely, it can precipitate a stroke. 
+Neurohumoral  agents,  adenosine,  or  stress  testing  can  be  used  to 
+evaluate  the  effects  of  autonomic  tone  on  sinus  node  automaticity 
+and  sinoatrial  conduction  time.  An  EPS  should  be  considered  in 
+patients who have symptoms attributable to bradycardia or asystole, 
+such  as  presyncope  or  syncope,  and  for  whom  noninvasive 
+approaches have provided no explanation for the symptoms.
+
+Sinoatrial  Conduction  Time. 
+Sinoatrial conduction time (SACT) can be estimated by simple pacing 
+techniques based on the assumptions that (1) conduction times into 
+and out of the sinus node are equal, (2) no depression of sinus node 
+automaticity occurs, and (3) the pacemaker site does not shift after 
+premature stimulation (see Chapter 34). These assumptions can be 
+erroneous, particularly in patients with sinus node dysfunction. SACT 
+can  also  be  measured  directly  with  special  recording  techniques,  as 
+noted above, from the region of the sinus node. This direct measure-
+ment  correlates  well  with  the  SACT  measured  indirectly  in  patients 
+with normal sinus node function. The sensitivity of the SACT and SNRT 
+tests is only approximately 50% for each test alone and around 65% 
+when they are combined. The specificity, combined, is approximately 
+88%, with a low predictive value. Thus if these test results are abnor-
+mal,  the  likelihood  of  the  patient  having  sinus  node  dysfunction  is 
+great. However, normal results do not exclude the possibility of sinus 
+node disease. Candidates for invasive EPS to evaluate sinus node func-
+tion  are  symptomatic  patients  in  whom  sinus  node  dysfunction  has 
+not been established as a cause of the symptoms. Potential candidates 
+are patients with clinical sinus node dysfunction in whom other causes 
+of symptoms (e.g., tachyarrhythmias) are to be excluded.
+
+Tachycardia
+In  patients  with  tachycardias,  an  EPS  can  be  used  to  diagnose  the 
+arrhythmia,  to  determine  and  deliver  therapy,  to  establish  the  ana-
+tomic  sites  involved  in  the  tachycardia,  to  identify  patients  at  high 
+risk for the development of serious arrhythmias, and to gain insight 
+into  the  mechanisms  responsible  for  the  arrhythmia  (see  Chapter 
+37). The study can differentiate aberrant supraventricular conduction 
+from  ventricular  tachyarrhythmias  when  standard  electrocardio-
+graphic criteria are equivocal.
+
+An  SVT  is  recognized  electrophysiologically  by  an  H-V  interval 
+equaling  or  exceeding  that  recorded  during  normal  sinus  rhythm 
+(Fig. 34-10). In contrast, during VT, the H-V interval is shorter than 
+normal or the His deflection cannot be recorded clearly because of 
+superimposition of the larger ventricular electrogram. Only two situ-
+ations exist in which a consistently short H-V interval occurs: during 
+retrograde activation of the His bundle from activation originating in 
+the  ventricle  (i.e.,  PVC,  ventricular  pacing,  or  VT)  and  during  AV 
+conduction  over  an  accessory  pathway  (preexcitation  syndrome). 
+
+1
+
+2
+
+V1
+
+V6
+
+HRA
+
+Hisdist
+
+RVA
+
+Time
+
+s
+
+s
+
+s
+
+s
+
+s
+
+V
+
+V
+
+A
+
+V
+
+V
+
+A
+
+V
+
+6.2 sec
+
+1 sec
+
+1
+
+3
+
+V1
+
+V6
+
+HRA
+
+Hisprox
+
+Hisdist
+
+CSprox
+
+RVA
+Time
+
+B
+
+VA
+
+H
+
+300 msec
+
+V
+
+V
+
+V
+
+V
+
+V
+
+V
+
+AH
+
+AH
+
+AH
+
+H
+
+A
+
+AH
+
+AH
+
+300 msec
+
+672
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+1
+
+3
+
+V1
+
+V6
+
+HRA
+
+Hisprox
+
+Hisdist
+
+CSprox
+
+RVA
+Time
+
+A
+
+1
+
+3
+
+V1
+
+V6
+
+HRA
+
+Hisprox
+
+Hisdist
+
+FIGURE34-9  Abnormal sinus node function. Recordings are similar to those in Figure 34-8. The last five complexes of a 1-minute burst of atrial pacing (S) at a cycle length of 
+400 milliseconds are shown, after which pacing is stopped. The sinus node does not spontaneously discharge (SNRT) until 6.2 seconds later (arrowhead). Three junctional escape 
+beats occurred before this time. Hisdist = distal electrode pair; HRA = high right atrium; RVA = right ventricular apex. 
+
+A
+
+H
+
+A
+
+A
+
+A
+
+A
+
+H
+
+H
+
+H
+
+H
+
+V
+
+V
+
+V
+
+V
+
+V
+
+RVA
+
+Time
+
+s
+
+C
+
+s
+
+s
+
+300 msec
+
+1
+
+3
+
+V1
+
+V6
+
+HRA
+
+Hisprox
+
+Hisdist
+
+RVA
+
+Time
+
+D
+
+A
+
+A
+
+V
+
+V
+
+V
+
+H
+
+H
+
+H
+
+300 msec
+
+FIGURE34-10  Bundle of His recordings in different situations similar to those in Figures 34-8 and 34-9. A, Baseline sinus rhythm with normal AV conduction. B, Orthodromic 
+SVT with retrograde conduction over a left-sided accessory pathway throughout the tracing. The first three beats have a narrow QRS complex with a normal H-V interval; the 
+last three QRS complexes represent a fusion of conduction over the AV nodeHis bundle and a slowly conducting right-sided accessory pathway. The His potential occurs after 
+onset of the wide QRS complex (dashed lines). C, Three paced ventricular beats are shown with a retrograde His potential (H), followed by initiation of AV node reentrant SVT 
+(atrial depolarization near the end of the QRS complex, as seen in the HRA tracing). D, VT with delayed activation of the His potential and complete retrograde AV node block 
+(dissociated atrial complexes). CSprox = proximal coronary sinus; Hisdist = distal electrode pair; Hisprox = proximal electrode pair; HRA = high right atrium; RVA = right ventricular apex. 
+
+Sinus Rhythm
+
+Stimulation
+
+Ventricular Tachycardia
+
+673
+
+1
+2
+3
+V1
+V6
+HRA
+His
+
+RV
+
+H-V = 125
+
+msec
+
+200 msec
+
+400 msec
+
+FIGURE 34-11  Multiple  abnormalities  in  a  patient  with  prior  myocardial  infarction  and  syncope.  Recordings  are  similar  to 
+previous figures. In the left panel, a sinus rhythm complex shows a right bundle branch block and left axis deviation, with a very 
+prolonged H-V interval of 125 milliseconds (normal, 35 to 55 milliseconds); thus heart block could have caused syncope. However, 
+in the right panel, ventricular stimulation with three extrastimuli (S2, S3, S4) induces sustained VT, another potential cause of 
+syncope (note the different time scales in the two panels). 
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+Atrial  pacing  at  rates  exceeding 
+the tachycardia rate can demon-
+strate  the  ventricular  origin  of 
+the  wide-QRS  tachycardia  by 
+producing  fusion  and  capture 
+beats  and  normalization  of  the 
+H-V  interval.  The  only  VT  that 
+exhibits an H-V interval equal to 
+or slightly exceeding the normal 
+sinus  H-V 
+is  bundle 
+branch  reentry,  but  His  activa-
+tion  will  be  in  the  retrograde 
+direction.
+
+interval 
+
+An EPS should be considered 
+for the following circumstances: 
+(1)  in  patients  who  have  symp-
+recurrent,  or  drug-
+tomatic, 
+resistant 
+supraventricular  or 
+ventricular  tachyarrhythmias  to  help  select  optimal  therapy;  (2)  in 
+patients with tachyarrhythmias occurring too infrequently to permit 
+adequate diagnostic or therapeutic assessment; (3) for differentiation 
+of SVT and aberrant conduction from VT; (4) whenever nonpharma-
+cologic therapy, such as the use of electrical devices, catheter abla-
+tion, or surgery, is contemplated; (5) in patients surviving an episode 
+of cardiac arrest occurring more than 48 hours after acute myocardial 
+infarction or without evidence of an acute Q wave myocardial infarc-
+tion; and (6) for assessment of the risk for sustained VT in patients 
+with a previous myocardial infarction, ejection fraction of 0.3 to 0.4, 
+and nonsustained VT on an ECG. In general, EPS is not indicated in 
+patients with long-QT syndrome and torsades de pointes.
+
+The process of initiation and termination of SVT or VT with pro-
+grammed  electrical  stimulation  to  establish  precise  diagnoses  and 
+help select sites for catheter ablation is the most common application 
+of EPS in patients with tachycardia. The role of drug therapy in clini-
+cally significant arrhythmias continues to diminish; although EPS was 
+once widely used to predict the efficacy of drug therapy in suppress-
+ing  spontaneous  tachycardia  recurrences,  the  technique  is  now 
+rarely  used  for  this  purpose.  Noninvasive  stimulation  from  an 
+implanted pacemaker or defibrillator can be used to test the effects 
+of  drug  therapy  given  in  an  attempt  to  decrease  the  frequency  of 
+arrhythmias, as well as to test the ICDs ability to detect and treat VT 
+that has been slowed or otherwise altered by drug effect.
+
+Unexplained Syncope
+The  three  common  arrhythmic  causes  of  syncope  are  sinus  node 
+dysfunction, AV block, and tachyarrhythmias (see Chapter 40). Of 
+the three, tachyarrhythmias are most reliably evaluated in the elec-
+trophysiology laboratory, followed by sinus node abnormalities and 
+His-Purkinje block.
+
+The cause of syncope remains uncertain in up to 50% of patients, 
+depending  in  part  on  the  extent  of  the  evaluation.  A  careful,  accu-
+rately performed history and physical examination begin the evalua-
+tion, followed by noninvasive tests, including a 12-lead ECG, and can 
+lead to a diagnosis in 50% or more of patients. In a small percentage 
+(<5%) of patients, an arrhythmia develops coincident with syncope 
+or  presyncope  during  24-  or  48-hour  ECG  monitoring,  whereas  a 
+larger  percentage  (15%)  have  symptoms  without  an  arrhythmia, 
+thereby excluding an arrhythmic cause. Prolonged ECG monitoring 
+with  patient-activated  transtelephonic  event  recorders  that  have 
+memory loops may increase the yield. Tilt-table and stress testing can 
+be useful for selected patients.
+
+An EPS helps explain the cause of syncope or palpitations when it 
+induces  an  arrhythmia  that  replicates  the  patients  symptoms  or  is 
+associated  with  significant  hypotension.  Patients  with  a  single 
+episode of syncope and no evidence of structural heart disease, as 
+well  as  those  with  a  nondiagnostic  EPS,  have  a  low  incidence  of 
+sudden death and an 80% remission rate over the ensuing 10 years. 
+In those with recurrent syncope, the test is falsely negative in 20%, 
+usually because of failure to find AV block or sinus node dysfunction. 
+
+On  the  other  hand,  in  many  patients  with  structural  heart  disease, 
+several abnormalities may be present that could account for syncope 
+and can be diagnosed at EPS. Deciding which among these abnor-
+malities  is  responsible  for  syncope  and  therefore  requires  therapy, 
+and  of  what  type,  can  be  difficult  (Fig.  34-11).  Mortality  and  the 
+incidence  of  sudden  cardiac  death  are  determined  mainly  by  the 
+presence of underlying heart disease.
+
+Syncopal  patients  considered  for  an  EPS  are  those  whose  spells 
+remain  undiagnosed  despite  general,  neurologic,  and  noninvasive 
+cardiac  evaluation,  particularly  if  the  patient  has  structural  heart 
+disease.17 The diagnostic yield is approximately 70% in that group but 
+only around 12% in patients without structural heart disease. Therapy 
+for a putative cause found during EPS prevents recurrence of syncope 
+in  approximately  80%  of  patients.  Among  arrhythmic  causes  of 
+syncope, intermittent conduction disturbances are the most difficult 
+to diagnose. EPS is poor in establishing this diagnosis despite an array 
+of provocative tests that can be used. When tachyarrhythmias have 
+been thoroughly sought and excluded and clinical suspicion for inter-
+mittent  heart  block  is  high  (e.g.,  bundle  branch  block  or  long  H-V 
+interval), empiric permanent pacing may be justified.
+
+In  patients  with  a  nondiagnostic  EPS,  injection  of  adenosine  tri-
+phosphate  (different  from  plain  adenosine)  distinguishes  patients 
+who may benefit from permanent pacing (those with longer than a 
+10-second  sinus  pause  or  AV  block)  from  those  who  do  not.  Some 
+have suggested that this test be performed before EPS in some cases 
+or  after  a  negative  EPS  but  before  an  implantable  loop  recorder  is 
+placed.18
+
+Palpitations
+An EPS is indicated in patients with palpitations who have had a pulse 
+documented  by  medical  personnel  to  be  inappropriately  rapid  or 
+slow  without  an  electrocardiographic  recording  and  in  those  sus-
+pected of having clinically significant palpitations without electrocar-
+diographic documentation.
+
+In patients with syncope or palpitations, the sensitivity of EPS may 
+be low but can be increased at the expense of specificity. For example, 
+more aggressive pacing techniques (e.g., use of three or four prema-
+ture stimuli), administration of drugs (e.g., isoproterenol), or left ven-
+tricular pacing can increase the likelihood of induction of ventricular 
+arrhythmias  by  precipitating  nonclinical  ventricular  tachyarrhyth-
+mias, such as nonsustained polymorphic or monomorphic VT or VF. 
+Similarly, aggressive techniques during atrial pacing can induce non-
+specific episodes of AF or atrial flutter. A diagnostic dilemma arises 
+when the patients clinical, symptom-producing arrhythmia is one of 
+these  nonspecific  arrhythmias  that  can  be  produced  in  a  normal 
+patient who has no arrhythmia. In most patients, these arrhythmias 
+are  regarded  as  nonclinical  (i.e.,  nonspecific  responses  to  intense 
+stimulation).  In  other  patients,  such  as  those  with  hypertrophic  or 
+dilated nonischemic cardiomyopathy, they may be clinically relevant 
+arrhythmias.  However,  induction  of  sustained  SVT  (e.g.,  AV  nodal 
+reentry, AV reciprocating tachycardia) or monomorphic VT is almost 
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+674
+
+never an artifact of stimulation, no matter how intense. Initiation of 
+these arrhythmias in patients who have not had known spontaneous 
+episodes of these tachycardias is uncommon and provides important 
+information; for example, the induced tachyarrhythmia may be clini-
+cally significant and responsible for the patients symptoms. In addi-
+tion,  inducible  SVT  episodes  can  have  important  implications  for 
+patients  with  ICDs  that  may  deliver  inappropriate  therapy  for  such 
+arrhythmias. In general, other abnormalities, such as prolonged sinus 
+pauses after overdrive atrial pacing or His-Purkinje AV block, are not 
+induced in patients who do not or may not experience these abnor-
+malities spontaneously. Provocation of these abnormalities has a high 
+degree of specificity for clinical relevance.
+
+ComplicationsofElectrophysiologic
+Studies
+The risks associated with undergoing only an EPS are small. Myocar-
+dial perforation with cardiac tamponade, pseudoaneurysms at arte-
+rial  access  sites,  and  provocation  of  nonclinical  arrhythmias  can 
+occur,  each  with  less  than  a  1  per  500  incidence.  The  addition  of 
+therapeutic maneuvers (e.g., ablation) to the procedure increases the 
+incidence  of  complications.  In  a  European  survey  of  4398  patients 
+reported from 68 institutions, the rate of ablation procedurerelated 
+complications  ranged  from  3.2%  to  8%.  Five  deaths  occurred  
+within  the  perioperative  period  of  the  ablation.  In  a  Heart  Rhythm 
+Society  (formerly  North  American  Society  of  Pacing  and  Electro-
+physiology) survey of 164 hospitals reporting in 1998 on more than 
+3300 patients who had undergone radiofrequency ablation, compli-
+cations developed in 1% to 3%, with procedure-related deaths occur-
+ring  in  approximately  0.2%.  In  a  study  of  1050  patients  undergoing 
+temperature-controlled ablation for supraventricular arrhythmias, 32 
+(3%)  had  a  major  complication.  Predictors  of  major  complications 
+were ejection fractions lower than 0.35 and multiple ablation targets. 
+The improvement in the complication rate probably reflects the learn-
+ing  curve  for  radiofrequency  ablation.  In  many  centers,  diagnostic 
+EPS and even ablation procedures are performed on an outpatient 
+basis (i.e., same-day discharge). With the increasing use of extensive 
+ablation in the left atrium to treat AF, an increase in systemic throm-
+boembolic  complications  has  been  observed,  as  have  pericardial 
+effusion  and  tamponade,  valve  damage,  and  phrenic  nerve  injury 
+(see Chapter 37).19
+
+DIRECTCARDIACMAPPING:RECORDING
+POTENTIALSDIRECTLYFROMTHEHEART
+
+Cardiac  mapping  is  a  method  whereby  potentials  recorded  directly 
+from the heart are spatially depicted as a function of time in an inte-
+grated manner (Fig. 34-12). The location of recording electrodes (e.g., 
+epicardial, intramural, or endocardial) and the recording mode used 
+(unipolar versus bipolar), as well as the method of display (isopotential, 
+isochronal, unipolar, or bipolar voltage maps), depend on the problem 
+under consideration.
+
+Direct cardiac mapping by catheter electrodes or, less commonly, at 
+the time of cardiac surgery can be used to identify and localize the areas 
+responsible for rhythm disturbances in patients with supraventricular 
+and ventricular tachyarrhythmias for catheter or surgical ablation, isola-
+tion, or resection. Conditions amenable to this approach include acces-
+sory pathways associated with Wolff-Parkinson-White syndrome, the 
+pathways in AV node reentry, AV nodeHis bundle ablation, sites of 
+origin of focal atrial tachycardia and VTs, isolated pathways essential 
+for the maintenance of reentrant atrial tachycardia or VTs, and various 
+substrates responsible for episodes of AF (Videos 34-1 and 34-2) (see 
+Chapter  38).  Mapping  can  also  be  used  to  delineate  the  anatomic 
+course of the His bundle to avoid injury during catheter ablation or 
+open heart surgery for repair of congenital heart disease.
+
+Early efforts at mapping involved moving an electrode from location 
+to location, acquiring data from a single point at a time, and compar-
+ing the timing of local activation with some reference recording, as 
+well as other mapped sites. Knowing when enough data points had 
+been  obtained  to  determine  where  ablation  should  be  performed 
+relied  heavily  on  the  memory  of  the  operator.  Specialized  mapping 
+systems have now been developed that use computers to log not only 
+the  activation  times  and  electrogram  amplitude  (voltage)  at  various 
+points  in  the  heart  but  also  the  physical  locations  from  which  they 
+were obtained.20 The mapping information acquired in this way can 
+be displayed on a screen to show relative activation times in a color-
+coded sequence. By use of such systems, dozens or even hundreds of 
+sites  can  be  sampled  relatively  quickly,  thereby  leading  to  a  clear 
+picture  of  cardiac  activation  and  potential  target  sites  for  ablation 
+(Figs.  34-13  and  34-14).  These  systems  can  also  record  the  signal 
+amplitude at each site sampled to allow differentiation of normal from 
+scarred  myocardium,  which  can  help  in  planning  ablation  strategies 
+(Fig.  34-15).  Other  mapping  systems  can  acquire  data  from  several 
+thousand points simultaneously by using a multipolar electrode array. 
+This is particularly useful for hemodynamically unstable tachycardias 
+or  those  that  terminate  spontaneously  within  seconds,  which  pre-
+cludes detailed point-to-point mapping.
+
+Automatic VT (structurally normal heart)
+
+Reentrant VT (after infarction)
+
+1
+
+2
+3
+V1
+V6
+LVOTuni
+
+LVOTdist
+LVOTprox
+GCVdist
+GCVprox
+RVA
+
+Time
+
+A
+
+28 msec
+
+15 msec
+
+200 msec
+
+1
+2
+
+3
+
+V1
+V6
+
+Abldist
+Ablprox
+HRA
+HISdist
+RVA
+
+Time
+
+B
+
+200 msec
+
+FIGURE34-12  Endocardial catheter recordings during VT in two patients. Dashed lines denote onset of the QRS complexes. A, A woman without structural heart disease 
+had a sustained VT arising from the left ventricular outflow tract (LVOT). Note the unipolar (uni) electrogram with a sharp QS complex and onset (arrow) of the distal bipolar 
+recording (LVOTdist) preceding the right ventricular recording, as well as recordings from a multielectrode catheter in the great cardiac vein (GCVdist and GCVprox) on the epicardial 
+surface opposite the endocardial recording. Ablation at this site (LVOT) terminated the VT. B, A patient with reentrant VT caused by a previous inferior wall infarction. The abla-
+tion catheter (Abldist) on the inferomedial wall shows a prolonged, fragmented electrogram indicative of slow conduction that spans the entire diastolic interval between QRS 
+complexes. Ablation at this site eliminated the VT. Ablprox = proximal ablation catheter electrodes. 
+
+674.e1
+
+VIDEO 34-1
+Focal  atrial  tachycardia.  The  right  atrium  is  shown  in  an  antero-
+posterior view. The purple tube at top represents the superior vena 
+cava, the circle in the middle right, the tricuspid annulus. Red indi-
+cates the head of the activation wavefront. Note the centrifugal propa-
+gation from a focus on the anterolateral right atrial wall. Ablation at 
+the focus cured the patient from further tachycardia episodes.
+
+VIDEO 34-2
+Macroreentrant  atrial  tachycardia  following  atrial  fibrillation  abla-
+tion.  The  left  atrium  is  shown  from  a  right  posterior  oblique  view; 
+tubes emanating from the left atrium represent pulmonary veins. The 
+red patch in the center is a diastolic corridor of reentry; the moving 
+red border indicates the head of the advancing activation wavefront. 
+Note the progression of the wavefront from the bottom of the diastolic 
+corridor spreading to left and right, coming back around the top and 
+coalescing at the top of the diastolic corridor to complete a reentrant 
+cycle. Ablation across the diastolic corridor cured the patient from 
+further tachycardia episodes.
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+i
+
+i
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+Tricuspid
+annulus
+
+ His
+
+bundle
+
+675
+
+119 msec
+
+124 msec
+
+Coronary
+
+sinus
+
+1.39 cm
+
+R
+
+FIGURE 34-14  Electroanatomic  map  of  reentrant  atrial  flutter.  A  left  anterior 
+oblique view of the right atrium is shown, along with depiction of the coronary si-
+nus. See Figure 34-14 for other details. The electrical wave front propagates around 
+the tricuspid annulus in a counterclockwise direction; in this complete circuit, early 
+activation (in red) abuts late activation (purple) near the bottom of the tricuspid an-
+nulus. The cycle length of the tachycardia was 250 milliseconds, almost completely 
+described by the points shown in the figure (from 124 to +119 milliseconds, a total 
+of 243 milliseconds). A distance scale is shown below. 
+
+13.70 mV
+
+FIGURE 34-13  Electroanatomic  map  of  focal  atrial  tachycardia.  Both  the  right 
+(RA) and left atrium (LA) are shown in an almost head-on view. A color-coded time 
+scale of activation is shown at the right; red indicates earliest activation, purple latest. 
+A distance scale is shown below. This atrial tachycardia arose in the anteromedial por-
+tion of the left atrium (red spot), with all other areas activated centrifugally. Ablation 
+at this site eliminated the tachycardia. LIPV = left inferior pulmonary vein (PV); LSPV = 
+left superior PV; MV = mitral valve ring; RSPV = right superior PV; SVC = superior vena 
+cava; TV = tricuspid valve ring; His bundle area indicated by orange circles. 
+
+R
+
+RAO
+
+R
+
+0.25 mV
+
+0.05 mV
+1.27 cm
+
+L
+LAO
+
+FIGURE34-15  Electroanatomic left ventricular voltage maps during sinus rhythm. Right and left anterior oblique views are shown; the voltage scale at the right indicates 
+normal areas (purple) versus scarred (gray) or very low-voltage areas (red, with gradation to higher voltages through green and blue). The patient had an old anteroapical myo-
+cardial infarction leading to reentrant VT that originated in the border between scar and more normal myocardium, LAO = left anterior oblique; RAO = right anterior oblique. 
+
+Pace mapping is a technique in which pacing is performed at puta-
+tive  sites  from  which  arrhythmias  arise  (a  focus)  or  exit  (reentrant 
+circuit). The greater the degree of match in QRS complexes (for VT) 
+or  intracardiac  activation  sequences  (for  atrial  tachycardias),  the   
+more likely that the paced site may be an appropriate site for ablation. 
+Software  has  been  developed  to  calculate  the  fidelity  of  match  of   
+the  paced  complexes  to  the  target  arrhythmia;  ideally,  this  should 
+approach  100%.  Other  algorithms  have  been  developed  to  analyze 
+propagation  patterns  during  complex  arrhythmias  such  as  AF  by 
+recording signals from multielectrode basket catheters in the atrium 
+(Fig.  34-16);  this  has  resolved  many  cases  of  an  apparently  chaotic 
+rhythm  to  one  in  which  erratic  patterns  of  propagation  emanate   
+from  a  stable  rapid  source  (either  rotor  or  focus).  Ablation  at   
+
+these  source  sites  can  eliminate  AF.21  Work  is  ongoing  in  this  area. 
+Finally,  although  computerized  mapping  systems  acquire  activation 
+time and voltage at given sites in the heart, these features have been 
+displayed  separately.  Ripple  mapping  is  a  new  technique  that   
+integrates time and voltage information on the same display. Experi-
+ence  with  this  technique  is  limited,  but  the  early  results  are 
+promising.22
+
+Current mapping systems have the ability to both integrate previous 
+imaging studies (computed tomography, magnetic resonance imaging) 
+into the procedure for additional anatomic reference and derive ana-
+tomic information by moving a catheter throughout a cardiac chamber 
+to develop a contour of its inner surface on which activation or voltage 
+data can be plotted.
+
+676
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+FIGURE34-16  Basket catheter for mapping AF. Right and left anterior oblique fluoroscopic views are shown of an 8-spline, 8 electrode per spline (64 total electrodes) bas-
+ket catheter in the left atrium; other catheters are right atrial (RA), coronary sinus (CS), and an ablation catheter (ABL) in the right inferior pulmonary vein. 
+
+References
+1.  Das M, Zipes DP: Assessment of the patient with a cardiac arrhythmia.  In Zipes DP, Jalife 
+J (eds): Cardiac Electrophysiology: From Cell to Bedside. 5th ed. Philadelphia, WB Saunders, 
+2009, pp 831-836.
+
+2.  Junqueira  LF,  Jr:  Teaching  cardiac  autonomic  function  dynamics  employing  the  Valsalva 
+
+(Valsalva-Weber) maneuver. Adv Physiol Educ 32:100, 2008.
+
+3.  Lacerda  Gde  C,  Pedrosa  RC,  Lacerda  RC,  et al:  Complications  related  to  carotid  sinus 
+
+massage in 502 ambulatory patients. Arq Bras Cardiol 92:78, 2009.
+
+4.  Miller  JM,  Das  MK:  Differential  diagnosis  of  narrow  and  wide  complex  tachycardias.  In 
+Zipes DP, Jalife J (eds): Cardiac Electrophysiology: From Cell to Bedside. New York, Elsevier,  
+2013.
+
+5.  Hayashi M, Denjoy I, Hayashi M, et al: The role of stress test for predicting genetic mutations 
+and future cardiac events in asymptomatic relatives of catecholaminergic polymorphic ven-
+tricular tachycardia probands. Europace 14:1344, 2012.
+
+6.  Miller  DJ,  Khan  MA,  Schultz  LR,  et al:  Outpatient  cardiac  telemetry  detects  a  high  rate  of 
+
+atrial fibrillation in cryptogenic stroke. J Neurol Sci 324:57, 2013.
+
+7.  Daoud EG, Glotzer TV, Wyse DG, et al: Temporal relationship of atrial tachyarrhythmias, cer-
+ebrovascular events, and systemic emboli based on stored device data: A subgroup analysis 
+of TRENDS. Heart Rhythm 8:1416, 2011.
+
+8.  Furukawa T, Maggi R, Bertolone C, et al: Additional diagnostic value of very prolonged obser-
+vation  by  implantable  loop  recorder  in  patients  with  unexplained  syncope.  J  Cardiovasc 
+Electrophysiol 23:67, 2012.
+
+9.  Xhyheri B, Manfrini O, Mazzolini M, et al: Heart rate variability today. Prog Cardiovasc Dis 
+
+55:321, 2012.
+
+10.  Bauer  A,  Zurn  CS,  Schmidt  G:  Heart  rate  turbulence  to  guide  treatment  for  prevention  of 
+
+sudden death. J Cardiovasc Pharmacol 55:531, 2010.
+
+11.  Molnar J, Somberg JC: The dynamics of QT dispersion. Cardiology 113:169, 2009.
+
+12.  Santangeli  P,  Pieroni  M,  Dello  Russo  A,  et al:  Correlation  between  signal-averaged  ECG 
+and the histologic evaluation of the myocardial substrate in right ventricular outflow tract 
+arrhythmias. Circ Arrhythm Electrophysiol 5:475, 2012.
+
+13.  Militaru C, Donoiu I, Ionescu DD: P wave signal-averaged ECG in normal population and in 
+
+patients with converted atrial fibrillation. Ann Noninvasive Electrocardiol 16:351, 2011.
+
+14.  Verrier RL, Klingenheben T, Malik M, et al: Microvolt T-wave alternans physiological basis, 
+methods of measurement, and clinical utilityConsensus guideline by International Society 
+for Holter and Noninvasive Electrocardiology. J Am Coll Cardiol 58:1309, 2011.
+
+15.  Rudy Y: Noninvasive electrocardiographic imaging of arrhythmogenic substrates in humans. 
+
+Circ Res 112:863, 2013.
+
+16.  Scheinman MM: Role of the His-Purkinje system in the genesis of cardiac arrhythmia. Heart 
+
+Rhythm 6:1050, 2009.
+
+17.  Mitro  P,  Kirsch  P,  Valocik  G,  Murin  P:  A  prospective  study  of  the  standardized  diagnostic 
+
+evaluation of syncope. Europace 13:566, 2011.
+
+18.  Flammang D, Church TR, De Roy L, et al: Treatment of unexplained syncope: A multicenter, 
+randomized trial of cardiac pacing guided by adenosine 5-triphosphate testing. Circulation 
+125:31, 2012.
+
+19.  Aldhoon B, Wichterle D, Peichl P, et al: Complications of catheter ablation for atrial fibrilla-
+tion in a high-volume centre with the use of intracardiac echocardiography. Europace 15:24, 
+2013.
+
+20.  Bhakta D, Miller JM: Principles of electroanatomic mapping. Indian Pacing Electrophysiol J 
+
+8:32, 2008.
+
+21.  Narayan SM, Krummen DE, Shivkumar K, et al: Treatment of atrial fibrillation by the ablation 
+of localized sources: CONFIRM (Conventional Ablation for Atrial Fibrillation With or Without 
+Focal Impulse and Rotor Modulation) trial. J Am Coll Cardiol 60:628, 2012.
+
+22.  Linton NW, Koa-Wing M, Francis DP, et al: Cardiac ripple mapping: A novel three-dimension-
+al visualization method for use with electroanatomic mapping of cardiac arrhythmias. Heart 
+Rhythm 6:1754, 2009.
+
+GUIDELINES
+Ambulatory
+Electrocardiographicand
+ElectrophysiologicTesting
+John M. Miller and Douglas P. Zipes
+
+Guidelines  for  the  appropriate  use  of  ambulatory  electrocardiogra-
+phy (ECG) were first published by the American College of Cardiology/
+American  Heart  Association  (ACC/AHA)  in  19891  and  updated  in 
+1999.2  In  conjunction  with  other  professional  societies,  the  ACC/
+AHA issued a statement of requirements for clinical competence in 
+ambulatory ECG in 2001.3 Guidelines for performance of electrophysi-
+ologic  testing  were  first  published  in  19854  and  updated  in  1989 
+and 1995.5 A clinical competence statement was issued by the ACC/
+AHA  for  electrophysiologic  studies  and  catheter  ablation  in  20006; 
+this  was  updated  by  a  statement  on  training  in  electrophysiology, 
+cardiac pacing, and arrhythmia management in 20067 and again in 
+2008.8 The AHA and the North American Society of Pacing and Elec-
+trophysiology (NASPE, now the Heart Rhythm Society) made recom-
+mendations on safety-related topics, such as restrictions on driving, 
+
+for  patients  with  arrhythmia  in  19969  and  updated  them  in  200710 
+(covered  in  the  Guidelines  in  Chapter  38).  Since  then,  efforts  to 
+update the guidelines have focused on appropriate indications for the 
+use of pacemakers and implantable cardioverter-defibrillators (ICDs) 
+because of rapid advances in knowledge about the ability of ICDs to 
+improve  the  survival  of  patients  with  arrhythmia  with  or  without 
+electrophysiologic testing. These guidelines were issued in 200211 and 
+updated  in  2008  and  2013.12  Guidelines  on  ICD  use  are  further 
+addressed in Chapter 38.
+
+The standard ACC/AHA classification system is used for the follow-
+
+ing indications:
+Class I: conditions for which there is evidence and/or general agree-
+
+ment that the test is useful and effective
+
+Class II: conditions for which there is conflicting evidence and/or a 
+divergence of opinion about the usefulness or efficacy of perform-
+ing the test
+
+Class  IIa:  weight  of  evidence  or  opinion  in  favor  of  usefulness  or 
+
+efficacy
+
+Class IIb: usefulness or efficacy less well established by evidence or 
+
+opinion
+
+Class III: conditions for which there is evidence and/or general agree-
+ment that the test is not useful or effective and in some cases may 
+be harmful
+
+677
+
+Three levels are used to rate the evidence on which recommenda-
+tions have been based. Level A recommendations are derived from 
+data from multiple randomized clinical trials, level B recommenda-
+tions are derived from a single randomized trial or nonrandomized 
+studies, and level C recommendations are based on the consensus 
+opinion of experts.
+
+  Increasingly sophisticated monitoring capacity of pacemakers and 
+
+ICDs
+As  a  result  of  progress  in  these  areas  and  increased  knowledge 
+about arrhythmias, ambulatory ECG is now considered to be of uncer-
+tain appropriateness for many indications for which it was once an 
+accepted strategy.
+
+AMBULATORYELECTROCARDIOGRAPHY
+
+The evolution of guidelines for the use of ambulatory ECG from 1989 
+to 1999 reflected important progress in several areas, including the 
+following:
+  Understanding of the limited usefulness of suppression of ventricu-
+
+lar ectopy with drug therapy
+
+  Solid-state  digital  technology,  which  facilitates  transtelephonic 
+
+transmission of electrocardiographic data
+
+  Technical advances in long-term event recorders
+  Improved signal quality and interpretation
+  Improved computer arrhythmia interpretation
+
+Diagnosis
+In assessing symptoms that may be caused by arrhythmias, ambula-
+tory ECG (Holter) monitoring is clearly established for the evaluation 
+of syncope (Table 34G-1; see Chapter 40). A 2006 AHA/ACC Foun-
+dation  scientific  statement  on  the  evaluation  of  syncope  stipulates 
+that the type and duration of ambulatory ECG monitoring are dictated 
+by the frequency of symptoms.13 Holter monitors (24 to 48 hours) are 
+appropriate for episodes that occur at least daily and event recorders 
+(30 to 60 days) for episodes that occur at least monthly. Implantable 
+loop  recorders  inserted  subcutaneously  can  record  bipolar  ECG 
+signals  for  up  to  14  months.  In  patients  with  unexplained  syncope, 
+use  of  an  implantable  loop  recorder  for  1  year  is  more  likely  to 
+
+TABLE34G-1  ACC/AHA Guidelines on Ambulatory Electrocardiography for Assessment of Symptoms and Arrhythmias
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+INDICATION
+
+CLASSI(INDICATED)
+
+Assessment of 
+
+symptoms possibly 
+related to rhythm 
+disturbances
+
+Patients with unexplained 
+
+syncope, near-syncope, or 
+episodic dizziness in whom 
+the cause is not obvious
+Patients with unexplained 
+
+recurrent palpitation
+
+CLASSIIA(GOOD
+
+SUPPORTIVE
+EVIDENCE)
+
+CLASSIIB(WEAK
+
+SUPPORTIVEEVIDENCE)
+
+CLASSIII(NOT
+
+INDICATED)
+
+Patients with episodic shortness 
+
+Patients with symptoms 
+
+of breath, chest pain, or fatigue 
+that is not otherwise explained
+
+Patients with neurologic events 
+
+when transient atrial fibrillation 
+or flutter is suspected
+Patients with symptoms 
+such as syncope, near-
+syncope, episodic dizziness, 
+or palpitation in whom a 
+probable cause other than an 
+arrhythmia has been identified 
+but in whom symptoms persist 
+despite treatment of this other 
+cause
+
+Post-MI patients with LV 
+
+dysfunction (ejection fraction 
+<40%)
+
+Patients with CHF
+Patients with idiopathic 
+
+hypertrophic cardiomyopathy
+
+Post-MI patients with LV 
+
+dysfunction
+
+Patients with CHF
+Patients with idiopathic 
+
+hypertrophic cardiomyopathy
+
+such as syncope, 
+near-syncope, episodic 
+dizziness, or palpitation in 
+whom other causes have 
+been identified by history, 
+physical examination, or 
+laboratory tests
+
+Patients with 
+
+cerebrovascular accidents 
+but without other 
+evidence of arrhythmia
+
+Patients who have sustained 
+
+myocardial contusion
+Systemic hypertensive 
+
+patients with LV 
+hypertrophy
+
+Post-MI patients with 
+normal LV function
+
+Preoperative arrhythmia 
+
+evaluation of patients for 
+noncardiac surgery
+
+Patients with sleep apnea
+Patients with valvular heart 
+
+disease
+
+Post-MI patients with 
+normal LV function
+
+Diabetic subjects to evaluate 
+
+for diabetic neuropathy
+
+Patients with rhythm 
+disturbances that 
+preclude HRV analysis 
+(e.g., atrial fibrillation)
+
+Arrhythmia 
+
+detection to 
+assess risk for 
+future cardiac 
+events in patients 
+without symptoms 
+from arrhythmia
+
+Measurement 
+of heart rate 
+variability to 
+assess risk for 
+future cardiac 
+events in patients 
+without symptoms 
+from arrhythmia
+
+Assessment of 
+
+antiarrhythmic 
+therapy
+
+To assess antiarrhythmic drug 
+
+To detect 
+
+To assess rate control during atrial 
+
+response in individuals in 
+whom the baseline frequency 
+of arrhythmia has been 
+characterized as reproducible 
+and of sufficient frequency to 
+permit analysis
+
+proarrhythmic 
+responses to 
+antiarrhythmic 
+therapy in patients 
+at high risk
+
+fibrillation
+
+To document recurrent or 
+
+asymptomatic nonsustained 
+arrhythmias during therapy in 
+the outpatient setting
+
+CHF = congestive heart failure; HRV = heart rhythm variability; LV = left ventricular; MI = myocardial infarction.
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+678
+
+TABLE34G-2  ACC/AHA Guidelines on Ambulatory Electrocardiography for Assessment of Pacemaker and Implantable 
+Cardioverter-Defibrillator Function
+
+CLASS
+
+Class I (indicated)
+
+Class IIa (good supportive evidence)
+
+Class IIb (weak supportive 
+
+evidence)
+
+INDICATION
+
+Evaluation of frequent symptoms of palpitations, syncope, or near-syncope to assess device function, to exclude 
+myopotential inhibition and pacemaker-mediated tachycardia, and to assist in the programming of enhanced 
+features, such as rate responsivity and automatic mode switching
+
+Evaluation of suspected component failure or malfunction when device interrogation is not definitive in 
+
+establishing a diagnosis
+
+To assess response to adjunctive pharmacologic therapy in patients receiving frequent ICD therapy
+
+Evaluation of immediate postoperative pacemaker function after pacemaker or ICD implantation as an alternative 
+
+or adjunct to continuous telemetric monitoring
+
+Evaluation of the rate of supraventricular arrhythmias in patients with implanted defibrillators
+
+Class III (not indicated)
+
+Assessment of ICD or pacemaker malfunction when device interrogation, electrocardiogram, or other available 
+
+data (e.g., chest radiograph) are sufficient to establish an underlying cause or diagnosis
+
+Routine follow-up in asymptomatic patients
+
+identify the mechanism of syncope than is a conventional approach 
+that uses Holter or event monitors and electrophysiologic testing and 
+is cost-effective.
+
+Ambulatory ECG is also supported for the evaluation of recurrent 
+palpitations, particularly if the frequency of these symptoms makes 
+it  reasonably  likely  that  they  can  be  correlated  with  the  tracings 
+obtained  during  a  24-hour  monitoring  period.  The  guidelines  note 
+that data on the use of ambulatory ECG for near-syncope or dizziness 
+are insufficient to describe the diagnostic performance of this tech-
+nology for patients with such symptoms.
+
+The  ACC/AHA  guidelines  explicitly  discourage  ambulatory  ECG  
+for patients with syncope or palpitations if other causes have been 
+identified  during  the  clinical  evaluation  and  for  patients  with  cere-
+brovascular  accidents  and  no  other  evidence  of  arrhythmia.  The 
+guidelines seek to reduce performance of ambulatory ECG for com-
+pleteness in such cases. Little support is provided for use of ambula-
+tory  ECG  in  cases  in  which  the  cause  of  the  patients  symptoms  is 
+unclear  but  in  which  the  likelihood  of  detecting  an  unsuspected 
+arrhythmia is low (class IIb indications).
+
+AssessmentofRisk
+The ACC/AHA guidelines discouraged the use of ambulatory ECG for 
+either arrhythmia detection or analysis of heart rhythm variability for 
+the  purpose  of  risk  assessment  in  patients  without  symptoms  of 
+arrhythmia, even if they had cardiovascular conditions such as myo-
+cardial  contusions,  left  ventricular  hypertrophy,  or  valvular  heart 
+disease (see Table 34G-1). Routine use for patients in whom arrhyth-
+mia is a common cause of death (left ventricular dysfunction, hyper-
+trophic  cardiomyopathy)  was  considered  a  class  IIb  indication. 
+These recommendations preceded data demonstrating the beneficial 
+impact  of  ICDs  for  patients  with  left  ventricular  dysfunction  after 
+acute  myocardial  infarction  even  without  symptoms  of  arrhythmia. 
+These  more  recent  findings  are  leading  to  an  expanded  role  for 
+ambulatory ECG in determining which asymptomatic patients most 
+need these expensive devices.
+
+EfficacyofAntiarrhythmicTherapy
+In the absence of data demonstrating that oral antiarrhythmic therapy 
+can  improve  survival  through  control  of  ventricular  arrhythmias, 
+ambulatory ECG has a diminished role as a test for evaluation of the 
+efficacy  of  treatment  (see  Table  34G-1).  Oral  antiarrhythmic  agents 
+are important for control of supraventricular arrhythmias, but most 
+patients with such arrhythmias do not have episodes every day. Event 
+recorders  can  be  useful  for  documenting  the  relationship  between 
+symptoms  and  recurrent  arrhythmia  and  the  interval  between  epi-
+sodes, which can help guide therapy.
+
+The guidelines provide some support of the use of ambulatory ECG 
+for detection of proarrhythmia during initiation of drug therapy, but 
+
+TABLE34G-3  ACC/AHA Guidelines on Monitoring 
+for Ischemia
+
+CLASS
+
+Class I (indicated)
+
+Class IIa (good 
+
+supportive evidence)
+
+Class IIb (weak 
+
+supportive evidence)
+
+INDICATION
+
+Patients with suspected variant angina
+
+Evaluation of patients with chest pain who 
+
+cannot exercise
+
+Preoperative evaluation for vascular surgery 
+
+in patients who cannot exercise
+
+Patients with known coronary artery 
+
+disease and atypical chest pain syndrome
+
+Class III (not indicated)
+
+Initial evaluation of patients with chest pain 
+
+who are able to exercise
+
+Routine screening of asymptomatic subjects
+
+patients at high risk for such complications tend to have these medi-
+cations initiated as inpatients.
+
+AssessmentofPacemakerandImplantable
+Cardioverter-DefibrillatorFunction
+Ambulatory ECG was considered to be appropriate for evaluation of 
+the function of pacemakers and ICDs (see Chapter 36), but the role 
+of ambulatory ECG is being reduced by increasing the diagnostic and 
+monitoring  functions  being  built  into  these  devices,  especially  with 
+the  use  of  remote  monitoring.  Ambulatory  ECG  can  provide  useful 
+information  by  correlating  symptoms  with  device  activity  and  by 
+detecting  abnormalities  in  sensing  and  capture  during  chronic 
+follow-up (Table 34G-2). However, the ACC/AHA guidelines empha-
+size that ambulatory ECG should not be used when data available from 
+device interrogation are sufficient to guide clinical management.
+
+MonitoringforMyocardialIschemia
+The 1999 ACC/AHA guidelines do not provide strong support of any 
+indications for routine clinical use of ambulatory ECG monitoring for 
+myocardial ischemia (Table 34G-3). The only indication for which 
+the task force thought that there was good supportive evidence was 
+suspected variant angina. This technology was not considered a first-
+choice alternative to exercise testing for patients who are unable to 
+exercise.
+
+ClinicalCompetence
+The ACC/AHA statement on clinical competence recommended that 
+trainees interpret at least 150 ambulatory electrocardiograms under 
+
+supervision  to  acquire  minimal  competence  in  this  technology.3  A 
+minimum  of  25  test  interpretations  per  year  was  recommended  to 
+maintain competence.
+
+ELECTROPHYSIOLOGICPROCEDURES
+FORDIAGNOSIS
+
+The  ACC/AHA  guidelines  for  the  use  of  intracardiac  electrophysio-
+logic  procedures  from  19854  and  19955  reflect  the  emerging  role  of 
+catheter ablation as a therapeutic strategy but do not fully reflect the 
+reduced importance of antiarrhythmic medications and the growing 
+role  of  ICDs  that  have  occurred.  Nevertheless,  most  of  the  basic 
+themes of these guidelines remain valid. An updated clinical compe-
+tence statement for performing these procedures was issued in 2006.14
+
+679
+
+variability in sinus node function in asymptomatic individuals. Inva-
+sive  tests  of  sinus  function  can  test  the  ability  of  the  sinus  node  to 
+recover from overdrive suppression and assess sinoatrial conduction 
+by introducing atrial extrastimuli or by atrial pacing.
+
+The  ACC/AHA  guidelines  consider  electrophysiologic  studies  of 
+sinus node function most appropriate for patients in whom dysfunc-
+tion  is  suspected  but  not  proved  after  a  noninvasive  evaluation 
+(Table  34G-4).  In  contrast,  the  guidelines  consider  such  studies 
+inappropriate when a documented bradyarrhythmia has been found 
+to  be  correlated  with  the  patients  symptoms  and  management  is 
+unlikely to be influenced by an electrophysiologic study. Studies are 
+also  considered  inappropriate  in  asymptomatic  patients  and  those 
+who  have  sinus  pauses  only  during  sleep.  When  bradyarrhythmias 
+were recognized as the cause of the patients symptoms, electrophysi-
+ologic studies were considered to have possible but uncertain appro-
+priateness (class II) if such data might refine treatment choices.
+
+EvaluationofSinusNodeFunction
+Clinical evaluation of sinus node dysfunction is often difficult because 
+of  the  episodic  nature  of  symptomatic  abnormalities  and  the  wide 
+
+AcquiredAtrioventricularBlock
+The ACC/AHA guidelines emphasize that electrophysiologic studies 
+are  inappropriate  (class  III)  when  ECG  findings  correlate  with 
+
+TABLE34G-4  ACC/AHA Guidelines on Clinical Intracardiac Electrophysiologic Studies for Evaluation of Specific 
+Electrocardiographic Abnormalities
+
+INDICATION
+
+CLASSI(APPROPRIATE)
+
+CLASSII(EQUIVOCAL)
+
+CLASSIII(INAPPROPRIATE)
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+Evaluation of 
+sinus node 
+function
+
+Symptomatic patients in whom sinus 
+
+node dysfunction is suspected as 
+the cause of symptoms but a causal 
+relationship between an arrhythmia 
+and the symptoms has not been 
+established after appropriate 
+evaluation
+
+Symptomatic patients in whom His-
+
+Purkinje block, suspected as a cause of 
+symptoms, has not been established
+
+Patients with second- or third-degree AV 
+
+block treated with a pacemaker who 
+remain symptomatic and in whom 
+another arrhythmia is suspected as a 
+cause of the symptoms
+
+Symptomatic patients in whom the 
+cause of symptoms is not known
+
+Acquired AV 
+
+block
+
+Chronic 
+
+intraventricular 
+conduction 
+delay
+
+Narrow-QRS 
+tachycardia 
+(QRS complex 
+<0.12 sec)
+
+Patients with documented sinus node 
+dysfunction in whom evaluation of 
+AV or ventriculoatrial conduction or 
+susceptibility to arrhythmias may aid in 
+selection of the most appropriate pacing 
+modality
+
+Patients with electrocardiographically 
+
+documented sinus bradyarrhythmias to 
+determine whether abnormalities are 
+caused by intrinsic disease, autonomic 
+nervous system dysfunction, or effects of 
+drugs to help select therapeutic options
+
+Symptomatic patients with known sinus 
+bradyarrhythmias to evaluate potential 
+for other arrhythmias as the cause of 
+symptoms
+
+Patients with second- or third-degree AV 
+block in whom knowledge of the site 
+of block or its mechanism or response 
+to pharmacologic or other temporary 
+intervention may help in directing 
+therapy or assessing prognosis
+
+Patients with premature, concealed 
+
+junctional depolarizations suspected as 
+the cause of a second- or third-degree 
+AV block pattern (e.g., pseudoAV 
+block)
+
+Symptomatic patients in whom an 
+
+association between symptoms and 
+a documented bradyarrhythmia has 
+been established and the choice of 
+therapy would not be affected by the 
+results of an electrophysiologic study
+
+Asymptomatic patients with sinus 
+
+bradyarrhythmias or sinus pauses 
+observed only during sleep, including 
+sleep apnea
+
+Symptomatic patients in whom the 
+
+symptoms and presence of AV block 
+are correlated by ECG findings
+
+Asymptomatic patients with transient 
+
+AV block associated with sinus 
+slowing (e.g., nocturnal type I 
+second-degree AV block)
+
+Asymptomatic patients with bundle branch 
+
+Asymptomatic patients with 
+
+block in whom pharmacologic therapy 
+that could increase conduction delay or 
+produce heart block is contemplated
+
+intraventricular conduction delay
+
+Symptomatic patients whose symptoms 
+
+can be correlated with or excluded 
+by ECG events
+
+Patients with frequent or poorly 
+
+Patients with frequent episodes of 
+
+Patients with tachycardias easily 
+
+tachycardia requiring drug treatment 
+for whom there is concern about 
+proarrhythmia or effects of the 
+antiarrhythmic drug on the sinus node 
+or AV conduction
+
+controlled by vagal maneuvers and/
+or well-tolerated drug therapy 
+who are not candidates for 
+nonpharmacologic therapy
+
+tolerated episodes of tachycardia who 
+do not adequately respond to drug 
+therapy and for whom information 
+about the site of origin, mechanism, 
+and electrophysiologic properties 
+of pathways of the tachycardia is 
+essential for choosing appropriate 
+therapy (e.g., drugs, catheter ablation, 
+pacing, or surgery)
+
+Patients who prefer ablative therapy to 
+
+pharmacologic treatment
+
+Continued
+
+680
+
+TABLE34G-4  ACC/AHA Guidelines on Clinical Intracardiac Electrophysiologic Studies for Evaluation of Specific 
+Electrocardiographic Abnormalitiescontd
+
+CLASSI(APPROPRIATE)
+
+CLASSII(EQUIVOCAL)
+
+CLASSIII(INAPPROPRIATE)
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+INDICATION
+
+Wide-complex 
+tachycardias
+
+Patients with wideQRS complex 
+
+None
+
+tachycardia in whom the correct 
+diagnosis is unclear after analysis of 
+available ECG tracings and for whom 
+knowledge of the correct diagnosis is 
+necessary for care
+
+ProlongedQT 
+
+None
+
+interval 
+syndrome
+
+Wolff-Parkinson- 
+
+White 
+syndrome
+
+Patients being evaluated for catheter 
+ablation or surgical ablation of an 
+accessory pathway
+
+Patients with ventricular preexcitation 
+who have survived cardiac arrest or 
+who have unexplained syncope
+
+Symptomatic patients in whom 
+
+determination of the mechanism 
+of arrhythmia or knowledge of the 
+electrophysiologic properties of 
+the accessory pathway and normal 
+conduction system would help in 
+determining appropriate therapy
+
+Ventricular 
+
+None
+
+premature 
+complexes, 
+couplets, and 
+nonsustained 
+VT
+
+VT = ventricular tachycardia.
+
+Identification of proarrhythmic effect of a 
+drug in patients experiencing sustained 
+VT or cardiac arrest while receiving the 
+drug
+
+Patients who have equivocal abnormalities 
+
+in QT interval duration or TU wave 
+configuration, along with syncope or 
+symptomatic arrhythmias, in whom the 
+effects of catecholamine may unmask a 
+distinct QT abnormality
+
+Asymptomatic patients with a family 
+history of sudden cardiac death or 
+with ventricular preexcitation but 
+no spontaneous arrhythmia who 
+engage in high-risk occupations or 
+activities and in whom knowledge of 
+the electrophysiologic properties of 
+the accessory pathway or inducible 
+tachycardia may help determine 
+recommendations for further activities 
+or therapy
+
+Patients with ventricular preexcitation who 
+are undergoing cardiac surgery for other 
+reasons
+
+Patients with other risk factors for future 
+
+arrhythmic events, such as a low ejection 
+fraction, positive signal-averaged 
+electrocardiogram, and nonsustained 
+VT on ambulatory ECG recordings in 
+whom electrophysiologic studies will 
+be used for further risk assessment and 
+for guiding therapy in patients with 
+inducible VT
+
+Patients with highly symptomatic, uniform-
+
+morphology premature ventricular 
+complexes, couplets, and nonsustained 
+VT who are considered potential 
+candidates for catheter ablation
+
+Patients with VT or supraventricular 
+
+tachycardia with aberrant 
+conduction or preexcitation 
+syndromes diagnosed with certainty 
+by ECG criteria and for whom 
+invasive electrophysiologic data 
+would not influence therapy; 
+however, data obtained at baseline 
+electrophysiologic study in these 
+patients might be appropriate as a 
+guide for subsequent therapy
+
+Patients with clinically manifest 
+
+congenital QT prolongation, with or 
+without symptomatic arrhythmias
+
+Patients with acquired prolonged-QT 
+
+syndrome with symptoms closely 
+related to an identifiable cause or 
+mechanism
+
+Asymptomatic patients with ventricular 
+preexcitation, except those in class II
+
+Asymptomatic or mildly symptomatic 
+patients with premature ventricular 
+complexes, couplets, and 
+nonsustained VT without other risk 
+factors for sustained arrhythmias
+
+symptoms  and  the  findings  from  electrophysiologic  studies  are 
+unlikely  to  alter  management  (e.g.,  documentation  of  His  bundle 
+conduction rarely improves the management of a patient whose other 
+clinical  data  indicate  that  placement  of  a  permanent  pacemaker  is 
+warranted  because  of  symptomatic  advanced  atrioventricular  [AV] 
+block).  Similarly,  electrophysiologic  studies  are  not  appropriate  for 
+asymptomatic  patients  with  mild  degrees  of  AV  block  who  are  not 
+likely to warrant pacemaker implantation. According to these guide-
+lines,  electrophysiologic  studies  of  AV  conduction  should  be  per-
+formed  when  a  relationship  between  symptoms  and  AV  block  is  a 
+reasonable possibility but has not been proved.
+
+ChronicIntraventricularDelay
+According to the ACC/AHA guidelines, the main role of electrophysi-
+ologic testing in patients with prolonged H-V intervals is not to predict 
+
+future  complications  but  to  determine  whether  the  symptoms  of 
+arrhythmia  are  caused  by  conduction  delay  or  block  versus  some 
+other arrhythmia. The only class I (clearly appropriate) indication for 
+electrophysiologic  testing  is  symptomatic  patients  for  whom  the 
+cause of symptoms is not known. The guidelines specifically discour-
+age such testing of asymptomatic patients and provide only equivo-
+cal support for asymptomatic patients with bundle branch block in 
+whom treatment with drugs that might increase conduction delay is 
+being considered.
+
+NarrowandWideQRSComplex
+Tachycardia
+The ACC/AHA guidelines define different roles for electrophysiologic 
+testing in patients with narrow- and wide-complex tachycardias. In 
+narrow-QRS tachycardia, the site of abnormal impulse formation or 
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+the reentry circuit can often be determined from information on the 
+12-lead electrocardiogram. Thus electrophysiologic testing was con-
+sidered more appropriate as a guide to therapy in this setting than as 
+a tool for diagnosis. Class I indications for electrophysiologic testing 
+include  patients  with  recurrent  tachycardia  for  whom  data  from 
+testing  may  help  clinicians  choose  among  drug  therapy,  catheter 
+ablation,  pacing,  and  surgery.  However,  testing  is  not  considered 
+useful  for  patients  whose  tachycardias  are  controlled  by  vagal 
+maneuvers or medications and who are not candidates for nonphar-
+macologic therapy.
+
+In  wide-complex  tachycardias,  correct  diagnosis  is  occasionally 
+not  possible  from  ECG  tracings  alone.  However,  electrophysiologic 
+testing  permits  accurate  diagnosis  in  virtually  all  patients.  Because 
+knowledge of the mechanism of the arrhythmia is essential for selec-
+tion  of  optimal  therapy,  electrophysiologic  testing  was  considered 
+appropriate (class I) for the diagnosis of wide-complex tachycardias 
+in these guidelines. However, when the diagnosis is clear from other 
+data and electrophysiologic testing is not likely to influence therapy, 
+the guidelines consider it inappropriate.
+
+ProlongedQTIntervals
+The ACC/AHA guidelines do not consider routine use of electrophysi-
+ologic  testing  appropriate  for  any  indications  in  patients  with  pro-
+longed QT intervals. Whether catecholamine infusion during testing 
+is useful for revealing patients who are at high risk for complications 
+or whether electrophysiologic testing can be used to evaluate proar-
+rhythmic effects in this population is considered uncertain.
+
+Wolff-Parkinson-WhiteSyndrome
+Electrophysiologic  testing  is  useful  for  patients  with  this  syndrome 
+for both diagnosis and planning of therapy. The ACC/AHA guidelines 
+consider electrophysiologic testing appropriate for patients who are 
+candidates for catheter or surgical ablation, for those who have had 
+cardiac arrests or unexplained syncope, or for patients whose man-
+agement  might  be  altered  by  knowledge  of  the  electrophysiologic 
+properties of the accessory pathway and normal conduction system. 
+For  asymptomatic  patients,  however,  electrophysiologic  studies  are 
+deemed inappropriate except in special situations, such as patients 
+with high-risk occupations or those with a family history of sudden 
+cardiac  death.  More  recently  recognized  entities,  such  as  Brugada 
+
+681
+
+syndrome, catecholaminergic tachycardia, and right ventricular car-
+diomyopathy, were not considered.
+
+NonsustainedVentricularTachycardia
+For  patients  with  ventricular  premature  complexes,  couplets,  and 
+nonsustained ventricular tachycardia, the usefulness of electrophysi-
+ologic  testing  is  compromised  by  the  lack  of  therapeutic  strategies 
+that  have  been  shown  to  improve  outcomes.  There  are  no  clearly 
+appropriate  indications  for  electrophysiologic  studies  in  these 
+patients,  and  the  guidelines  discourage  testing  in  patients  without 
+other  risk  factors  for  sustained  arrhythmias.  Research  published 
+since  these  guidelines  suggests  that  exceptions  would  include 
+patients  who  fit  the  MADIT  (Multicenter  Automatic  Defibrillator 
+Implantation Trial) or MUSTT (Multicenter Unsustained Tachycardia 
+Trial)  criteria.  For  certain  patients  with  other  data  suggesting  an 
+adverse prognosis, electrophysiologic testing is thought to have pos-
+sible but unproven appropriateness (class II).
+
+UnexplainedSyncope
+In  patients  with  unexplained  syncope  and  structural  heart  disease 
+(see Chapter 40), recent ACC/AHA guidelines on the evaluation of 
+syncope10 recommend a low threshold for the use of electrophysio-
+logic  testing  (Table  34G-5).  In  patients  without  structural  heart 
+disease, the yield of electrophysiologic testing is low. Thus the guide-
+lines  recommend  a  higher  threshold  for  use  of  electrophysiologic 
+studies in such patients and suggest that head-up tilt testing may be 
+a more useful test. However, given the low risk associated with elec-
+trophysiologic testing and the high risk for potentially harmful recur-
+rent syncope, electrophysiologic testing may be beneficial for patients 
+with a malignant episode of syncope.13
+
+SurvivorsofCardiacArrest
+The ACC/AHA guidelines consider electrophysiologic testing appro-
+priate for patients who are survivors of cardiac arrest (see Chapter 
+39)  other  than  in  the  earliest  phase  of  acute  myocardial  infarction 
+(see Table 34G-5). Since publication of these guidelines, acceptance 
+of the usefulness of ICDs has become more widespread, and many 
+of  these  patients  receive  such  a  device  without  electrophysiologic 
+testing  or  undergo  limited  electrophysiologic  testing  at  device 
+
+TABLE34G-5  ACC/AHA Guidelines on Clinical Intracardiac Electrophysiologic Studies for Evaluation of Clinical Syndromes
+
+INDICATION
+
+Unexplained 
+
+syncope
+
+Survivors of 
+
+cardiac 
+arrest
+
+Unexplained 
+palpitations
+
+CLASSI(APPROPRIATE)
+
+CLASSII(EQUIVOCAL)
+
+CLASSIII(INAPPROPRIATE)
+
+Patients with suspected structural 
+heart disease and syncope that 
+remain unexplained after appropriate 
+evaluation
+
+Patients with recurrent unexplained 
+
+Patients with a known cause of syncope for 
+
+syncope but without structural heart 
+disease and a negative head-up tilt 
+test result
+
+whom treatment will not be guided by 
+electrophysiologic testing
+
+Patients surviving cardiac arrest without 
+
+Patients surviving cardiac arrest caused 
+
+evidence of acute Q wave MI
+Patients surviving cardiac arrest 
+
+occurring more than 48 hr after the 
+acute phase of MI in the absence of 
+recurrent ischemic events
+
+by bradyarrhythmia
+
+Patients surviving cardiac arrest 
+thought to be associated with 
+a congenital repolarization 
+abnormality (long-QT syndrome) in 
+whom the results of noninvasive 
+diagnostic testing are equivocal
+
+Patients with palpitations who have 
+
+Patients with clinically significant 
+
+their pulse rate documented by 
+medical personnel as inappropriately 
+rapid and in whom ECG recordings 
+fail to document the cause of the 
+palpitations
+
+Patients with palpitations preceding a 
+
+syncopal episode
+
+palpitations, suspected to be 
+of cardiac origin in whom the 
+symptoms are sporadic and cannot 
+be documented; studies performed 
+to determine mechanisms of 
+arrhythmias, direct or provide 
+therapy, or assess prognosis
+
+Patients surviving a cardiac arrest that 
+
+occurred during the acute phase (<48 hr) 
+of MI
+
+Patients with cardiac arrest resulting from 
+
+clearly definable specific causes, such 
+as reversible ischemia, severe valvular 
+aortic stenosis, or noninvasively defined 
+congenital or acquired long-QT syndrome
+
+Patients with palpitations documented 
+
+to be due to extracardiac causes (e.g., 
+hyperthyroidism)
+
+MI = myocardial infarction.
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+682
+
+implantation.  The  guidelines  consider  electrophysiologic  studies 
+inappropriate  when  cardiac  arrest  has  occurred  within  the  first  48 
+hours of myocardial infarction or when the cardiac arrest results from 
+clearly definable specific causes.
+
+UnexplainedPalpitations
+The  procedure  of  choice  to  determine  the  cause  of  palpitations  is 
+ambulatory  ECG  according  to  the  ACC/AHA  guidelines.  The  guide-
+lines  suggest  that  electrophysiologic  testing  should  be  reserved  for 
+patients  with  palpitations  that  are  associated  with  syncope  or  for 
+those in whom electrocardiograms have failed to capture a cause of 
+the palpitations but who have been noted to have a rapid pulse rate 
+by medical personnel (see Table 34G-5). Electrophysiologic testing is 
+considered  to  be  of  equivocal  value  in  patients  with  symptoms  so 
+sporadic that they cannot be documented while ambulatory ECG is 
+performed.
+
+ELECTROPHYSIOLOGICSTUDIESFOR
+THERAPEUTICINTERVENTION
+
+The 1995 ACC/AHA guidelines on the appropriateness of electrophysi-
+ologic studies for guidance of drug therapy and implantable electri-
+cal devices do not reflect the decline in the role of oral antiarrhythmic 
+therapy and the rise in the use of ICDs for the treatment of patients 
+who have experienced cardiac arrest (Table 34G-6). However, the 
+guideline recommendations for the role of catheter ablation remain 
+valid.  Characteristics  that  are  common  among  appropriate  indica-
+tions  include  supraventricular  arrhythmias,  including  atrial  fibrilla-
+tion, that are symptomatic; that cannot be controlled with medications 
+because  of  limited  effectiveness,  side  effects,  or  inconvenience;  or 
+that  have  caused  sudden  cardiac  death.15  Catheter  ablation  is  also 
+useful for the same reasons in some patients with ventricular tachy-
+cardia when it occurs in the absence of structural heart disease, and 
+
+TABLE34G-6  ACC/AHA Guidelines on Clinical Intracardiac Electrophysiologic Studies for Therapeutic Intervention
+
+INDICATION
+
+Guidance of 
+
+drug therapy
+
+CLASSI(APPROPRIATE)
+
+CLASSII(EQUIVOCAL)
+
+CLASSIII(INAPPROPRIATE)
+
+Patients with sustained VT or cardiac arrest, 
+
+Patients with sinus node reentrant 
+
+especially those with prior MI
+
+Patients with AVNRT, AV reentrant tachycardia 
+
+using an accessory pathway, or atrial fibrillation 
+associated with an accessory pathway for 
+whom chronic drug therapy is planned
+
+tachycardia, atrial tachycardia, atrial 
+fibrillation, or atrial flutter without 
+ventricular preexcitation syndrome 
+for whom chronic drug therapy is 
+planned
+
+Patients with arrhythmias not inducible 
+during controlled electrophysiologic 
+study for whom drug therapy is 
+planned
+
+Patients with isolated atrial 
+or ventricular premature 
+complexes
+
+Patients with ventricular 
+
+fibrillation with a clearly 
+identified reversible cause
+
+Patients 
+
+who are 
+candidates 
+for or 
+who have 
+implantable 
+electrical 
+devices
+
+Patients with tachyarrhythmias before and 
+
+during implantation and final (predischarge) 
+programming of an electrical device to confirm 
+its ability to perform as anticipated
+Patients with an implanted electrical 
+
+antitachyarrhythmia device in whom changes 
+in status or therapy may have influenced the 
+continued safety and efficacy of the device
+
+Patients who have a pacemaker to treat a 
+
+bradyarrhythmia and receive a cardioverter-
+defibrillator to test for device interactions
+
+Indications 
+
+Patients with symptomatic atrial tachyarrhythmias 
+
+for catheter 
+ablation 
+procedures
+
+who have inadequately controlled ventricular 
+rates unless primary ablation of the atrial 
+tachyarrhythmia is possible
+
+Patients with symptomatic atrial tachyarrhythmias 
+
+such as those above but in whom drugs are 
+not tolerated or the patient does not wish to 
+take them, even though the ventricular rate 
+can be controlled
+
+Patients with symptomatic nonparoxysmal 
+
+junctional tachycardia that is drug resistant or 
+the patient is drug intolerant or does not wish 
+to take it
+
+Patients resuscitated from sudden cardiac death 
+caused by atrial flutter or atrial fibrillation with 
+a rapid ventricular response in the absence of 
+an accessory pathway
+
+Radiofrequency 
+
+catheter 
+ablation for 
+AVNRT
+
+Patients with symptomatic sustained AVNRT 
+that is drug resistant or the patient is drug 
+intolerant or does not desire long-term drug 
+therapy
+
+Patients with previously documented 
+
+Patients who are not candidates 
+
+indications for pacemaker 
+implantation to test for the most 
+appropriate long-term pacing mode 
+and sites to optimize symptomatic 
+improvement and hemodynamics
+
+for device therapy
+
+Patients with a dual-chamber 
+pacemaker and pacemaker-
+mediated tachycardia that cannot 
+be treated effectively by drugs or by 
+reprogramming the pacemaker
+
+Patients with atrial 
+
+tachyarrhythmias responsive to 
+drug therapy acceptable to the 
+patient
+
+Patients with sustained AVNRT 
+
+identified during electrophysiologic 
+study or catheter ablation of another 
+arrhythmia
+
+Finding of dualAV nodal pathway 
+
+physiology and atrial echoes 
+but without AVNRT during 
+electrophysiologic study in patients 
+clinically suspected of having AVNRT
+
+Patients with AVNRT responsive 
+
+to drug therapy that is well 
+tolerated and preferred by the 
+patient over ablation
+
+Finding of dualAV nodal 
+
+pathway physiology (with 
+or without echo complexes) 
+during electrophysiologic study 
+in patients in whom AVNRT is 
+not suspected clinically
+
+i
+
+i
+
+34
+D
+a
+g
+n
+o
+s
+i
+s
+ 
+o
+f
+ 
+C
+a
+r
+d
+a
+c
+ 
+A
+r
+r
+h
+y
+t
+h
+m
+a
+s
+
+i
+
+683
+
+TABLE34G-6  ACC/AHA Guidelines on Clinical Intracardiac Electrophysiologic Studies for Therapeutic Interventioncontd
+
+INDICATION
+
+Ablation 
+
+of atrial 
+tachycardia, 
+flutter, and 
+fibrillation: 
+atrium/atrial 
+sites
+
+CLASSI(APPROPRIATE)
+
+CLASSII(EQUIVOCAL)
+
+CLASSIII(INAPPROPRIATE)
+
+Patients with atrial tachycardia that is drug 
+
+resistant or the patient is drug intolerant or 
+does not desire long-term drug therapy
+
+Patients with atrial flutter that is drug resistant or 
+the patient is drug intolerant or does not desire 
+long-term drug therapy
+
+Patients with atrial arrhythmia 
+
+responsive to drug therapy that 
+is well tolerated and preferred 
+by the patient over ablation
+Patients with multiform atrial 
+
+tachycardia
+
+Atrial flutter or atrial tachycardia 
+
+associated with paroxysmal atrial 
+fibrillation when the tachycardia is 
+drug resistant or the patient is drug 
+intolerant or does not desire long-
+term drug therapy
+
+Patients with atrial fibrillation and 
+
+evidence of a localized site of 
+origin when the tachycardia is drug 
+resistant or the patient is drug 
+intolerant or does not desire long-
+term drug therapy
+
+Ablation 
+
+Patients with symptomatic AV reentrant 
+
+Patients with AV reentrant tachycardia 
+
+Patients who have accessory 
+
+of atrial 
+tachycardia, 
+flutter, and 
+fibrillation: 
+accessory 
+pathways
+
+tachycardia that is drug resistant or the patient 
+is drug intolerant or does not desire long-term 
+drug therapy
+
+Patients with atrial fibrillation (or other atria 
+
+tachyarrhythmia) and a rapid ventricular 
+response through the accessory pathway when 
+the tachycardia is drug resistant or the patient 
+is drug intolerant or does not desire long-term 
+drug therapy
+
+pathwayrelated arrhythmias 
+responsive to drug therapy that 
+is well tolerated and preferred 
+by the patient over ablation
+
+or atrial fibrillation with rapid 
+ventricular rates identified during 
+electrophysiologic study for another 
+arrhythmia
+
+Asymptomatic patients with ventricular 
+
+preexcitation whose livelihood or 
+profession, important activities, 
+insurability, or mental well-being or 
+the public safety would be affected 
+by spontaneous tachyarrhythmias or 
+the presence of the ECG abnormality
+
+Patients with atrial fibrillation and 
+a controlled ventricular response 
+through the accessory pathway
+
+Patients with a family history of sudden 
+
+cardiac death
+
+Ablation of VT
+
+Patients with symptomatic sustained 
+
+Nonsustained VT that is symptomatic 
+
+Patients with VT responsive to 
+
+monomorphic VT when the tachycardia is drug 
+resistant or the patient is drug intolerant or 
+does not desire long-term drug therapy
+Patients with bundle branch reentrant VT
+Patients with sustained monomorphic VT and 
+
+an ICD who are receiving multiple shocks not 
+manageable by reprogramming or concomitant 
+drug therapy
+
+when the tachycardia is drug 
+resistant or the patient is drug 
+intolerant or does not desire long-
+term drug therapy
+
+drug, ICD, or surgical therapy 
+that is well tolerated and 
+preferred by the patient over 
+ablation
+
+Asymptomatic and clinically 
+
+benign nonsustained VT
+
+AVNRT = AV nodal reentrant tachycardia; MI = myocardial infarction; VT = ventricular tachycardia.
+
+ablation  is  often  useful  as  an  adjunct  to  ICD  implantation  to  limit 
+episodes  of  ventricular  tachycardia  requiring  ICD  treatment.16  Left 
+ventricular dysfunction develops in some patients from frequent pre-
+mature ventricular complexes, with reversal occurring after ablation 
+of the premature ventricular complex.
+
+ClinicalCompetence
+The  ACC/AHA  statement  on  clinical  competence8  describes  three 
+levels of training: level 1 for every cardiology trainee, level 2 for those 
+wishing to acquire advanced training in the management of arrhyth-
+mia, and level 3 for those intending to specialize in invasive diagnos-
+tic and therapeutic cardiac electrophysiology. The level 3 guidelines 
+recommend a minimum of 1 year of specialized training in electro-
+physiologic studies, during which the physician should be the primary 
+operator and analyze 100 to 150 initial diagnostic studies, at least 50 
+of which should involve patients with supraventricular arrhythmias. 
+Because  antiarrhythmic  devices  constitute  a  major  part  of  current 
+electrophysiology  practice,  the  guidelines  suggest  that  a  trainee 
+should be the primary operator during at least 25 electrophysiologic 
+evaluations of implantable antiarrhythmic devices. For maintenance 
+of  competence,  a  minimum  of  100  diagnostic  electrophysiologic 
+studies per year is recommended. The statement also recommends 
+that specialists in electrophysiology attend at least 30 hours of formal 
+continuing  medical  education  every  2  years  to  remain  abreast  of 
+changes in knowledge and technology.
+
+For physicians who perform catheter ablation, the NASPE Ad Hoc 
+Committee on Catheter Ablation (now the Heart Rhythm Society) has 
+recommended that training should include at least 75 catheter abla-
+tions, at least 10 of which are accessory pathway ablations and 30 to 
+50  are  mentored  ablations.8  The  ACC/AHA  statement  recommends 
+that  physicians  who  perform  ablations  carry  out  at  least  20  to  50 
+ablations per year.
+
+Individuals receiving training in pacemaker implantation must par-
+ticipate as the primary operator (under direct supervision) in at least 
+50  primary  implantations  of  transvenous  pacemakers  and  20  pace-
+maker system revisions or replacements. At least half of the implanta-
+tions  should  involve  dual-chamber  pacemakers.  The  trainee  must 
+also  participate  in  the  follow-up  of  at  least  100  pacemaker  patient 
+visits and acquire proficiency in advanced pacemaker electrocardi-
+ography, interrogation, and programming of complex pacemakers.8
+
+References
+1.  Knoebel SB, Crawford MH, Dunn MI, et al: Guidelines for ambulatory electrocardiography. 
+A report of the American College of Cardiology/American Heart Association Task Force on 
+Assessment of Diagnostic and Therapeutic Cardiovascular Procedures (Subcommittee on 
+Ambulatory Electrocardiography). Circulation 79:206, 1989.
+
+2.  Crawford  MH,  Bernstein  SJ,  Deedwania  PC,  et al:  ACC/AHA  guidelines  for  ambulatory  
+electrocardiography. A report of the American College of Cardiology/American Heart Asso-
+ciation Task Force on Practice Guidelines (Committee to Revise the Guidelines for Ambula-
+tory Electrocardiography). Developed in collaboration with the North American Society for 
+Pacing and Electrophysiology. J Am Coll Cardiol 34:912, 1999.
+
+3.  Kadish AH, Buxton AE, Kennedy HL, et al: ACC/AHA clinical competence statement on elec-
+trocardiography and ambulatory electrocardiography: A report of the ACC/AHA/ACP-ASIM 
+task force on clinical competence (ACC/AHA Committee to Develop a Clinical Competence 
+Statement on Electrocardiography and Ambulatory Electrocardiography) endorsed by the 
+
+V
+
+e
+p
+o
+c
+n
+y
+s
+d
+n
+A
+
+ 
+
+ 
+,
+
+ 
+
+h
+t
+A
+e
+d
+n
+e
+d
+d
+u
+s
+
+i
+
+ 
+,
+s
+A
+m
+h
+t
+y
+h
+r
+r
+A
+
+684
+
+International  Society  for  Holter  and  noninvasive  electrocardiology.  Circulation  104:3169, 
+2001.
+
+4.  Akhtar M, Fisher JD, Gillette PC, et al: NASPE Ad Hoc Committee on Guidelines for Cardiac 
+Electrophysiological  Studies.  North  American  Society  of  Pacing  and  Electrophysiology. 
+Pacing Clin Electrophysiol 8:611, 1985.
+
+5.  Zipes DP, DiMarco JP, Gillette PC, et al: Guidelines for clinical intracardiac electrophysiological 
+and catheter ablation procedures. A report of the American College of Cardiology/American 
+Heart Association Task Force on Practice Guidelines (Committee on Clinical Intracardiac Elec-
+trophysiologic and Catheter Ablation Procedures), developed in collaboration with the North 
+American Society of Pacing and Electrophysiology. J Am Coll Cardiol 26:555, 1995.
+
+6.  Tracy  CM,  Akhtar  M,  DiMarco  JP,  et al:  American  College  of  Cardiology/American  Heart 
+Association clinical competence statement on invasive electrophysiology studies, catheter 
+ablation, and cardioversion. A report of the American College of Cardiology/American Heart 
+Association/American  College  of  PhysiciansAmerican  Society  of  Internal  Medicine  Task 
+Force on Clinical Competence. J Am Coll Cardiol 36:1725, 2000.
+
+7.  Naccarelli GV, Conti JB, DiMarco JP, Tracy CM: Task Force 6: Training in specialized electro-
+physiology, cardiac pacing, and arrhythmia management: Endorsed by the Heart Rhythm 
+Society. J Am Coll Cardiol 47:904, 2006.
+
+8.  Naccarelli GV, Conti JB, DiMarco JP, Tracy CM: Task force 6: Training in specialized electro-
+physiology,  cardiac  pacing,  and  arrhythmia  management  endorsed  by  the  Heart  Rhythm 
+Society. J Am Coll Cardiol 51:374, 2008.
+
+9.  Epstein AE, Miles WM, Benditt DG, et al: Personal and public safety issues related to arrhyth-
+mias that may affect consciousness: Implications for regulation and physician recommenda-
+tions. A medical/scientific statement from the American Heart Association and the North 
+American Society of Pacing and Electrophysiology. Circulation 94:1147, 1996.
+
+10.  Epstein AE, Baessler CA, Curtis AB, et al: Addendum to Personal and Public Safety Issues 
+Related to Arrhythmias That May Affect Consciousness: Implications for Regulation and Phy-
+sician Recommendations. A medical/scientific statement from the American Heart Associa-
+tion and the North American Society of Pacing and Electrophysiology. Public safety issues 
+in patients with implantable defibrillators. A scientific statement from the American Heart 
+Association and the Heart Rhythm Society. Heart Rhythm 4:386, 2007.
+
+11.  Gregoratos  G,  Abrams  J,  Epstein  AE,  et al:  ACC/AHA/NASPE  2002  guideline  update  for 
+implantation of cardiac pacemakers and antiarrhythmia devices: Summary article: A report 
+of the American College of Cardiology/American Heart Association Task Force on Practice 
+Guidelines (ACC/AHA/NASPE Committee to Update the 1998 Pacemaker Guidelines). Circu-
+lation 106:2145, 2002.
+
+12.  Epstein AE, DiMarco JP, Ellenbogen KA, et al: 2012 ACCF/AHA/HRS focused update incorpo-
+rated into the ACCF/AHA/HRS 2008 guidelines for device-based therapy of cardiac rhythm 
+abnormalities: A report of the American College of Cardiology Foundation/American Heart 
+Association Task Force on Practice Guidelines and the Heart Rhythm Society. Circulation 
+127:e283, 2013.
+
+13.  Strickberger SA, Benson DW, Biaggioni I, et al: AHA/ACCF scientific statement on the evalu-
+ation  of  syncope:  From  the  American  Heart  Association  Councils  on  Clinical  Cardiology, 
+Cardiovascular Nursing, Cardiovascular Disease in the Young, and Stroke, and the Quality of 
+Care and Outcomes Research Interdisciplinary Working Group; and the American College 
+of Cardiology Foundation: In collaboration with the Heart Rhythm Society: Endorsed by the 
+American Autonomic Society. Circulation 113:316, 2006.
+
+14.  Tracy  CM,  Akhtar  M,  DiMarco  JP,  et al:  American  College  of  Cardiology/American  Heart 
+Association  2006  update  of  the  clinical  competence  statement  on  invasive  electrophysi-
+ology  studies,  catheter  ablation,  and  cardioversion:  A  report  of  the  American  College  of 
+Cardiology/American Heart Association/American College of Physicians Task Force on Clini-
+cal Competence and Training developed in collaboration with the Heart Rhythm Society.  
+J Am Coll Cardiol 48:1503, 2006.
+
+15.  Calkins  H,  Kuck  KH,  Cappato  R,  et al:  2012  HRS/EHRA/ECAS  expert  consensus  statement 
+on catheter and surgical ablation of atrial fibrillation: Recommendations for patient selec-
+tion, procedural techniques, patient management and follow-up, definitions, endpoints, and 
+research trial design: A report of the Heart Rhythm Society (HRS) Task Force on Catheter 
+and  Surgical  Ablation  of  Atrial  Fibrillation.  Developed  in  partnership  with  the  European 
+Heart Rhythm Association (EHRA), a registered branch of the European Society of Cardi-
+ology  (ESC)  and  the  European  Cardiac  Arrhythmia  Society  (ECAS);  and  in  collaboration 
+with  the  American  College  of  Cardiology  (ACC),  American  Heart  Association  (AHA),  the 
+Asia Pacific Heart Rhythm Society (APHRS), and the Society of Thoracic Surgeons (STS). 
+Endorsed by the governing bodies of the American College of Cardiology Foundation, the 
+American  Heart  Association,  the  European  Cardiac  Arrhythmia  Society,  the  European 
+Heart Rhythm Association, the Society of Thoracic Surgeons, the Asia Pacific Heart Rhythm 
+Society, and the Heart Rhythm Society. Heart Rhythm 9:632 e621, 2012.
+
+16.  Aliot  EM,  Stevenson  WG,  Almendral-Garrote  JM,  et al:  EHRA/HRS  expert  consensus  on 
+catheter ablation of ventricular arrhythmias: Developed in a partnership with the European 
+Heart Rhythm Association (EHRA), a registered branch of the European Society of Cardiol-
+ogy (ESC), and the Heart Rhythm Society (HRS); in collaboration with the American College 
+of  Cardiology  (ACC)  and  the  American  Heart  Association  (AHA).  Heart  Rhythm  6:886,  
+2009.
+
+
