@@ -16,7 +16,7 @@ rcParams['text.usetex'] = True
 READ = 'r'
 WRITE = 'w'
 base = os.path.join(os.getcwd(),'data')
-sources = ['harrison','wikipedia','braunwald','twitter']
+sources = ['harrison','wikipedia','braunwald']
 keywords = [word.replace(' ','_') for word in open('keywords').read().splitlines()]
 CORPUS_FILENAME = 'corpus.json'
 
@@ -33,13 +33,12 @@ if not os.path.isfile(CORPUS_FILENAME):
 	for source in sources:
 		corpus[source] = {}
 		for disease in keywords:
-				path = os.path.join(base,source,disease)
-				text = ' '.join(open(os.path.join(path,filename),READ).read() for filename in os.listdir(path)
-										if not os.path.isdir(os.path.join(path,filename)))
-				text = text.replace('.',' ').replace("\n"," ")
-				text = re.sub(r"[^\x00-\x7F]","",text) #Regexp faster than iterating through string to remove non-ASCII
-				corpus[source][disease]  = list(tech.cleanse(text)) 
-				#Cleanse returns type set. Type set is not JSON serializable. Type list is.
+			path = os.path.join(base,source,disease)
+			text = ' '.join(open(os.path.join(path,filename),READ).read() for filename in os.listdir(path))
+			text = text.replace('.',' ').replace("\n"," ")
+			text = re.sub(r"[^\x00-\x7F]","",text) #Regexp faster than iterating through string to remove non-ASCII
+			corpus[source][disease]  = list(tech.cleanse(text)) 
+			#Cleanse returns type set. Type set is not JSON serializable. Type list is.
 	json.dump(corpus,open(CORPUS_FILENAME,WRITE))
 
 else:
@@ -76,7 +75,7 @@ if not all([os.path.isfile(filename) for filename in filenames]):
 		cbar = plt.colorbar(cax)
 		cbar.set_label(tech.format('Jaccard Similarity'))
 		fig.tight_layout()
-		plt.savefig('jaccard-similarity-%s-w-twitter'%disease)
+		plt.savefig('jaccard-similarity-%s'%disease)
 
 	cPickle.dump(jaccard_matrices,open('jaccard-similarities.json',WRITE))
 
@@ -93,5 +92,5 @@ tech.adjust_spines(ax)
 ax.set_xlabel(tech.format('Jaccard Similarity'))
 ax.set_ylabel(tech.format('No. of occurence'))
 plt.tight_layout()
-plt.savefig('distribution-jaccard-similarities-w-twitter.tiff')
+plt.savefig('distribution-jaccard-similarities.tiff')
 

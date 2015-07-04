@@ -62,13 +62,14 @@ class listener(StreamListener):
         self.MAX_NUMBER_OF_TWEETS = MAX_NUMBER_OF_TWEETS
         self.TWEETS_PER_FILE = TWEETS_PER_FILE
 
+
     def on_data(self, data):
         all_data = json.loads(data)       
-        tweet_text = ' '.join(word for word in all_data["text"].split() if all(ord(ch)<128 for ch in word))     
-        tweet_id = all_data["id"]
-        filename = os.path.join(self.path,'%s_%s.txt'%(self.outname,datetime.now().strftime('%Y-%m-%d-%H')))
-        with open(filename,"a") as fid: #This open and closes the same file a lot of times. Hack for now. 
-            print>>fid, ' %s | %s'%(tweet_text,tweet_id)
+        #tweet = all_data["text"]        
+        #username = all_data["user"]["screen_name"]
+        filename = os.path.join(self.path,'%s_%s.gzip'%(self.outname,datetime.now().strftime('%Y-%m-%d-%H-%M')))
+        with gzip.open(self.filename,"a") as fid: #This open and closes the same file a lot of times. Hack for now. 
+            print>>fid,all_data
             self.count += 1 
             if self.progress_bar:
                 self.progress_bar.next()
