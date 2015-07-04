@@ -48,7 +48,10 @@ def jaccard(one,two):
 	one = set(one) if type(one) != type(set) else one
 	two = set(two) if type(two) != type(set) else two 
 
-	return len(one & two)/float(len(one | two))
+	if len(one | two ) == 0:
+		return 0
+	else:	
+		return len(one & two)/float(len(one | two))
 
 def resample(amalgamated_corpora,n_partitions,partition_sizes = None,repetitions=3, save=False,monitor=False): 
 	sample_size = sum(partition_sizes)
